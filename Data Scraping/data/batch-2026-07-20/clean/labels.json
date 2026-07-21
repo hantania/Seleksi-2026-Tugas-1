@@ -1,0 +1,146 @@
+[
+    {
+        "id_label": 1,
+        "name": "HYBE Labels",
+        "founded_year": null,
+        "founder": "Bang Si Hyuk"
+    },
+    {
+        "id_label": 2,
+        "name": "JYP Entertainment Japan",
+        "founded_year": null,
+        "founder": "JYP Entertainment"
+    },
+    {
+        "id_label": 3,
+        "name": "YG Entertainment",
+        "founded_year": 1996,
+        "founder": "Yang Hyun-suk"
+    },
+    {
+        "id_label": 4,
+        "name": "Belift Lab",
+        "founded_year": 2018,
+        "founder": "Bang Si-hyuk"
+    },
+    {
+        "id_label": 5,
+        "name": "SM Entertainment",
+        "founded_year": 1989,
+        "founder": "Lee Soo Man"
+    },
+    {
+        "id_label": 6,
+        "name": "Warner Music Korea",
+        "founded_year": null,
+        "founder": null
+    },
+    {
+        "id_label": 7,
+        "name": "KQ Entertainment",
+        "founded_year": null,
+        "founder": "Kim Kyu Wook"
+    },
+    {
+        "id_label": 8,
+        "name": "Warner Music Japan",
+        "founded_year": null,
+        "founder": "Warner Music Group"
+    },
+    {
+        "id_label": 9,
+        "name": "Source Music",
+        "founded_year": null,
+        "founder": "So Sung Jin"
+    },
+    {
+        "id_label": 10,
+        "name": "Starship Entertainment",
+        "founded_year": null,
+        "founder": "Kim Shi-dae"
+    },
+    {
+        "id_label": 11,
+        "name": "88rising",
+        "founded_year": null,
+        "founder": "Sean Miyashiro"
+    },
+    {
+        "id_label": 12,
+        "name": "Swing Entertainment",
+        "founded_year": 2018,
+        "founder": null
+    },
+    {
+        "id_label": 13,
+        "name": "INB100",
+        "founded_year": null,
+        "founder": "Baekhyun"
+    },
+    {
+        "id_label": 14,
+        "name": "Dreamcatcher Company",
+        "founded_year": null,
+        "founder": "Lee Joo-Won"
+    },
+    {
+        "id_label": 15,
+        "name": "FNC Entertainment",
+        "founded_year": null,
+        "founder": "Han Seong Ho"
+    },
+    {
+        "id_label": 16,
+        "name": "BlockBerryCreative",
+        "founded_year": null,
+        "founder": null
+    },
+    {
+        "id_label": 17,
+        "name": "RBW",
+        "founded_year": null,
+        "founder": "Kim Jin Woo"
+    },
+    {
+        "id_label": 18,
+        "name": "Fantagio",
+        "founded_year": null,
+        "founder": "Na Byeong-jun"
+    },
+    {
+        "id_label": 19,
+        "name": "MORE VISION",
+        "founded_year": null,
+        "founder": "Jay Park"
+    },
+    {
+        "id_label": 20,
+        "name": "143 Entertainment",
+        "founded_year": null,
+        "founder": "Park Jun Sang"
+    },
+    {
+        "id_label": 21,
+        "name": "WM Entertainment",
+        "founded_year": null,
+        "founder": "Lee Won Min"
+    },
+    {
+        "id_label": 22,
+        "name": "WAKEONE",
+        "founded_year": 2014,
+        "founder": "Son Dong-hoon"
+    },
+    {
+        "id_label": 23,
+        "name": "CHXXTA Company",
+        "founded_year": 2023,
+        "founder": null
+    },
+    {
+        "id_label": 24,
+        "name": "XGALX",
+        "founded_year": null,
+        "founder": null
+    }
+]

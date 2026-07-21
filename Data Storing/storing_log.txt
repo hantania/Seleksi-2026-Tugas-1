@@ -1,0 +1,29 @@
+2026-07-21 20:14:25,400 - INFO - Memulai storing data bersih dari batch 'batch-2026-07-20'
+2026-07-21 20:14:25,401 - INFO - Menghubungkan koneksi database
+2026-07-21 20:14:25,577 - INFO - Membuat skema berdasarkan script di 'D:\Programmer Handal\LAB-BASDAT\Seleksi-2026-Tugas-1\Data Storing\src\schema.sql'
+2026-07-21 20:14:26,188 - INFO - Berhasil membuat skema
+2026-07-21 20:14:26,191 - INFO - Memulai insert data labels
+2026-07-21 20:14:26,218 - INFO - Berhasil insert data labels
+2026-07-21 20:14:26,223 - INFO - Memulai insert data idols
+2026-07-21 20:14:26,378 - INFO - Berhasil insert data idols
+2026-07-21 20:14:26,380 - INFO - Memulai insert data groups (Fase 1: Data detail)
+2026-07-21 20:14:26,452 - INFO - Memulai insert data groups (Fase 2: Hubungkan ID_parent)
+2026-07-21 20:14:26,479 - INFO - Berhasil insert data groups
+2026-07-21 20:14:26,481 - INFO - Memulai insert data disbanded groups
+2026-07-21 20:14:26,487 - INFO - Berhasil insert data disbanded groups
+2026-07-21 20:14:26,488 - INFO - Memulai insert data hiatus groups
+2026-07-21 20:14:26,493 - INFO - Berhasil insert data hiatus groups
+2026-07-21 20:14:26,500 - INFO - Memulai insert data group members
+2026-07-21 20:14:26,768 - INFO - Berhasil insert data group members
+2026-07-21 20:14:26,769 - INFO - Memulai insert data group metrics
+2026-07-21 20:14:26,783 - INFO - Berhasil insert data group metrics
+2026-07-21 20:14:26,791 - INFO - Memulai insert data albums
+2026-07-21 20:14:26,982 - INFO - Berhasil insert data albums
+2026-07-21 20:14:26,991 - INFO - Memulai insert data tracks
+2026-07-21 20:14:27,547 - INFO - Berhasil insert data tracks
+2026-07-21 20:14:27,549 - INFO - Memulai insert data fandoms
+2026-07-21 20:14:27,561 - INFO - Berhasil insert data fandoms
+2026-07-21 20:14:27,562 - INFO - Memulai insert data fandom colors
+2026-07-21 20:14:27,576 - INFO - Berhasil insert data fandom colors
+2026-07-21 20:14:27,576 - INFO - Berhasil insert semua data ke database
+2026-07-21 20:14:27,577 - INFO - Menutup koneksi database

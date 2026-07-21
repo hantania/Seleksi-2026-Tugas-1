@@ -1,0 +1,150 @@
+[
+    {
+        "id_fandom": 1,
+        "color_identity": "Purple"
+    },
+    {
+        "id_fandom": 3,
+        "color_identity": "Black"
+    },
+    {
+        "id_fandom": 3,
+        "color_identity": "Pink"
+    },
+    {
+        "id_fandom": 4,
+        "color_identity": "Apricot"
+    },
+    {
+        "id_fandom": 4,
+        "color_identity": "Neon-Magenta"
+    },
+    {
+        "id_fandom": 7,
+        "color_identity": "Rose Quartz"
+    },
+    {
+        "id_fandom": 7,
+        "color_identity": "Serenity"
+    },
+    {
+        "id_fandom": 8,
+        "color_identity": "Pastel Coral"
+    },
+    {
+        "id_fandom": 10,
+        "color_identity": "Green"
+    },
+    {
+        "id_fandom": 10,
+        "color_identity": "White"
+    },
+    {
+        "id_fandom": 12,
+        "color_identity": "Aurora Purple"
+    },
+    {
+        "id_fandom": 12,
+        "color_identity": "Aurora Blue"
+    },
+    {
+        "id_fandom": 13,
+        "color_identity": "Magenta"
+    },
+    {
+        "id_fandom": 14,
+        "color_identity": "Pearl Neo Champagne"
+    },
+    {
+        "id_fandom": 17,
+        "color_identity": "Red"
+    },
+    {
+        "id_fandom": 17,
+        "color_identity": "Black"
+    },
+    {
+        "id_fandom": 19,
+        "color_identity": "Lost"
+    },
+    {
+        "id_fandom": 19,
+        "color_identity": "Guilty"
+    },
+    {
+        "id_fandom": 19,
+        "color_identity": "Beautiful"
+    },
+    {
+        "id_fandom": 20,
+        "color_identity": "Chic Violet"
+    },
+    {
+        "id_fandom": 20,
+        "color_identity": "Neon Red"
+    },
+    {
+        "id_fandom": 21,
+        "color_identity": "Pearl Aqua"
+    },
+    {
+        "id_fandom": 23,
+        "color_identity": "Rose Pink"
+    },
+    {
+        "id_fandom": 26,
+        "color_identity": "Pearl Neo Champagne"
+    },
+    {
+        "id_fandom": 29,
+        "color_identity": "Sky Blue"
+    },
+    {
+        "id_fandom": 30,
+        "color_identity": "PANTONE Black 6 C"
+    },
+    {
+        "id_fandom": 30,
+        "color_identity": "PANTONE 7623 C"
+    },
+    {
+        "id_fandom": 30,
+        "color_identity": "PANTONE P 10-6 C"
+    },
+    {
+        "id_fandom": 26,
+        "color_identity": "Pearl Neo Champagne"
+    },
+    {
+        "id_fandom": 34,
+        "color_identity": "Cloud Dancer"
+    },
+    {
+        "id_fandom": 34,
+        "color_identity": "Scuba Blue"
+    },
+    {
+        "id_fandom": 34,
+        "color_identity": "Ultra Violet"
+    },
+    {
+        "id_fandom": 35,
+        "color_identity": "Vivid Plum"
+    },
+    {
+        "id_fandom": 35,
+        "color_identity": "Space Violet"
+    },
+    {
+        "id_fandom": 40,
+        "color_identity": "Tyrian Purple"
+    },
+    {
+        "id_fandom": 41,
+        "color_identity": "Blue"
+    },
+    {
+        "id_fandom": 46,
+        "color_identity": "Pearl Sapphire Blue"
+    }
+]

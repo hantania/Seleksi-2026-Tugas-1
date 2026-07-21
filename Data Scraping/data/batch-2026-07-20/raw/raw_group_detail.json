@@ -1,0 +1,402 @@
+[
+    {
+        "name": "BTS",
+        "other_name": "Bangtan Bulletproof Boys Scouts, Beyond the Scene",
+        "status": "Active",
+        "debut_date": "2013-06-13",
+        "generation": "3",
+        "active_years": "2013-present (hiatus: 2022-2025)"
+    },
+    {
+        "name": "Stray Kids",
+        "other_name": "SKZ",
+        "status": "Active",
+        "debut_date": "2018-03-25",
+        "generation": "4",
+        "active_years": "2018-present"
+    },
+    {
+        "name": "BLACKPINK",
+        "other_name": "ブラックピンク",
+        "status": "Active",
+        "debut_date": "2016-08-08",
+        "generation": "3",
+        "active_years": "2016-present (hiatus: 2023-2025)"
+    },
+    {
+        "name": "TWICE",
+        "other_name": "トゥワイス",
+        "status": "Active",
+        "debut_date": "2015-10-20",
+        "generation": "3",
+        "active_years": "2015-present"
+    },
+    {
+        "name": "ENHYPEN",
+        "other_name": "エンハイフン",
+        "status": "Active",
+        "debut_date": "2020-11-30",
+        "generation": "4",
+        "active_years": "2020-present"
+    },
+    {
+        "name": "EXO",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2012-04-08",
+        "generation": "3",
+        "active_years": "2012-present"
+    },
+    {
+        "name": "SEVENTEEN",
+        "other_name": "セブンティーン",
+        "status": "Active",
+        "debut_date": "2015-05-26",
+        "generation": "3",
+        "active_years": "2015-present"
+    },
+    {
+        "name": "Red Velvet",
+        "other_name": "レッドベルベット",
+        "status": "Active",
+        "debut_date": "2014-08-01",
+        "generation": "3",
+        "active_years": "2014-present"
+    },
+    {
+        "name": "TOMORROW X TOGETHER",
+        "other_name": "TXT",
+        "status": "Active",
+        "debut_date": "2019-03-04",
+        "generation": "4",
+        "active_years": "2019-present"
+    },
+    {
+        "name": "GOT7",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2014-01-16",
+        "generation": "3",
+        "active_years": "2014-present"
+    },
+    {
+        "name": "ATEEZ",
+        "other_name": "エイティーズ",
+        "status": "Active",
+        "debut_date": "2018-10-24",
+        "generation": "4",
+        "active_years": "2018-present"
+    },
+    {
+        "name": "aespa",
+        "other_name": "埃斯帕",
+        "status": "Active",
+        "debut_date": "2020-11-17",
+        "generation": "4",
+        "active_years": "2020-present"
+    },
+    {
+        "name": "ITZY",
+        "other_name": "イッチ",
+        "status": "Active",
+        "debut_date": "2019-02-12",
+        "generation": "4",
+        "active_years": "2019-present"
+    },
+    {
+        "name": "NCT 127",
+        "other_name": "エヌシーティー 127",
+        "status": "Active",
+        "debut_date": "2016-07-07",
+        "generation": "3",
+        "active_years": "2016-present"
+    },
+    {
+        "name": "LE SSERAFIM",
+        "other_name": "ルセラフィム",
+        "status": "Active",
+        "debut_date": "2022-05-02",
+        "generation": "5",
+        "active_years": "2022-present"
+    },
+    {
+        "name": "CORTIS",
+        "other_name": "Color Outside The Lines",
+        "status": "Active",
+        "debut_date": "2025-08-18",
+        "generation": "5",
+        "active_years": "2025-present"
+    },
+    {
+        "name": "BABYMONSTER",
+        "other_name": "BAEMON",
+        "status": "Active",
+        "debut_date": "2023-11-27",
+        "generation": "5",
+        "active_years": "2023-present"
+    },
+    {
+        "name": "ILLIT",
+        "other_name": "アイリット",
+        "status": "Active",
+        "debut_date": "2024-03-25",
+        "generation": "5",
+        "active_years": "2024-present"
+    },
+    {
+        "name": "MONSTA X",
+        "other_name": "モンスタエックス",
+        "status": "Active",
+        "debut_date": "2015-05-14",
+        "generation": "3",
+        "active_years": "2015-present"
+    },
+    {
+        "name": "i-dle",
+        "other_name": "(G) i-dle",
+        "status": "Active",
+        "debut_date": "2018-05-02",
+        "generation": "4",
+        "active_years": "2018-present"
+    },
+    {
+        "name": "SHINee",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2008-05-25",
+        "generation": "2",
+        "active_years": "2008-present"
+    },
+    {
+        "name": "IVE",
+        "other_name": "アイヴ",
+        "status": "Active",
+        "debut_date": "2021-12-01",
+        "generation": "4",
+        "active_years": "2021-present"
+    },
+    {
+        "name": "Girls' Generation",
+        "other_name": "SNSD",
+        "status": "Active",
+        "debut_date": "2007-08-05",
+        "generation": "2",
+        "active_years": "2007-present"
+    },
+    {
+        "name": "Wanna One",
+        "other_name": "ワナワン",
+        "status": "disbanded",
+        "debut_date": "2017-08-07",
+        "generation": "3",
+        "active_years": "2017-2019"
+    },
+    {
+        "name": "NewJeans",
+        "other_name": "NJZ",
+        "status": "hiatus",
+        "debut_date": "2022-07-22",
+        "generation": "5",
+        "active_years": "2022-present (hiatus: 2025,2026)"
+    },
+    {
+        "name": "NCT",
+        "other_name": "Neo Culture Technology",
+        "status": "Active",
+        "debut_date": "2016-04-09",
+        "generation": "3",
+        "active_years": "2016-present"
+    },
+    {
+        "name": "KATSEYE",
+        "other_name": "キャッツアイ",
+        "status": "Active",
+        "debut_date": "2024-06-28",
+        "generation": "5",
+        "active_years": "2024-present"
+    },
+    {
+        "name": "EXO-CBX",
+        "other_name": "CBX",
+        "status": "Active",
+        "debut_date": "2016-10-31",
+        "generation": "3",
+        "active_years": "2016-present"
+    },
+    {
+        "name": "NCT Dream",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2016-08-25",
+        "generation": "3",
+        "active_years": "2016-present"
+    },
+    {
+        "name": "NMIXX",
+        "other_name": "エンミックス",
+        "status": "Active",
+        "debut_date": "2022-02-22",
+        "generation": "5",
+        "active_years": "2022-present"
+    },
+    {
+        "name": "Hearts2Hearts",
+        "other_name": "H2H, Hacheutuhacheu",
+        "status": "Active",
+        "debut_date": "2025-02-24",
+        "generation": "5",
+        "active_years": "2025-present"
+    },
+    {
+        "name": "Dreamcatcher",
+        "other_name": "MINX",
+        "status": "Active",
+        "debut_date": "2017-01-13",
+        "generation": "3",
+        "active_years": "2014-present"
+    },
+    {
+        "name": "P1Harmony",
+        "other_name": "P1H",
+        "status": "Active",
+        "debut_date": "2020-10-28",
+        "generation": "4",
+        "active_years": "2020-present"
+    },
+    {
+        "name": "NCT U",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2016-04-09",
+        "generation": "3",
+        "active_years": "2016-present"
+    },
+    {
+        "name": "LOONA",
+        "other_name": "LOOΠΔ, Idalui Sonyeo, Girl of the Month",
+        "status": "hiatus",
+        "debut_date": "2018-08-19",
+        "generation": "4",
+        "active_years": "2018-present (hiatus: 2023-present)"
+    },
+    {
+        "name": "MAMAMOO",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2014-06-19",
+        "generation": "3",
+        "active_years": "2014-present (hiatus: 2023-2026)"
+    },
+    {
+        "name": "GFRIEND",
+        "other_name": "—",
+        "status": "disbanded",
+        "debut_date": "2015-01-16",
+        "generation": "3",
+        "active_years": "2015-2021"
+    },
+    {
+        "name": "ASTRO",
+        "other_name": "アストロ",
+        "status": "Active",
+        "debut_date": "2016-02-23",
+        "generation": "3",
+        "active_years": "2016-present"
+    },
+    {
+        "name": "BIGBANG",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2006-08-19",
+        "generation": "2",
+        "active_years": "2006-present"
+    },
+    {
+        "name": "BOYNEXTDOOR",
+        "other_name": "ボーイネクストドア",
+        "status": "Active",
+        "debut_date": "2023-05-30",
+        "generation": "5",
+        "active_years": "2023-present"
+    },
+    {
+        "name": "LNGSHOT",
+        "other_name": "エルエヌジーショット",
+        "status": "Active",
+        "debut_date": "2026-01-13",
+        "generation": "5",
+        "active_years": "2026-present"
+    },
+    {
+        "name": "iKON",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2015-09-15",
+        "generation": "3",
+        "active_years": "2015-present"
+    },
+    {
+        "name": "XLOV",
+        "other_name": "艾克斯爱",
+        "status": "Active",
+        "debut_date": "2025-01-07",
+        "generation": "5",
+        "active_years": "2025-present"
+    },
+    {
+        "name": "ZEROBASEONE",
+        "other_name": "ZB1",
+        "status": "Active",
+        "debut_date": "2023-07-10",
+        "generation": "5",
+        "active_years": "2023-present"
+    },
+    {
+        "name": "IZ*ONE",
+        "other_name": "アイズワン",
+        "status": "disbanded",
+        "debut_date": "2018-10-29",
+        "generation": "4",
+        "active_years": "2018-2021"
+    },
+    {
+        "name": "&TEAM",
+        "other_name": "アンドチーム",
+        "status": "Active",
+        "debut_date": "2022-12-07",
+        "generation": "5",
+        "active_years": "2022-present"
+    },
+    {
+        "name": "EVERGLOW",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2019-03-18",
+        "generation": "4",
+        "active_years": "2019-present"
+    },
+    {
+        "name": "tripleS",
+        "other_name": "트리플S",
+        "status": "Active",
+        "debut_date": "2023-02-13",
+        "generation": "5",
+        "active_years": "2022-present"
+    },
+    {
+        "name": "SUPER JUNIOR",
+        "other_name": "スーパージュニア",
+        "status": "Active",
+        "debut_date": "2005-11-06",
+        "generation": "2",
+        "active_years": "2005-present"
+    },
+    {
+        "name": "XG",
+        "other_name": "Xtraordinary Genes, Xtraordinary Girls",
+        "status": "Active",
+        "debut_date": "2022-03-18",
+        "generation": "5",
+        "active_years": "2022-present"
+    }
+]

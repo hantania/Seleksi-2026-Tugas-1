@@ -1,0 +1,242 @@
+[
+    {
+        "id_fandom": 1,
+        "id_group": 1,
+        "fandom_name": "ARMY"
+    },
+    {
+        "id_fandom": 2,
+        "id_group": 2,
+        "fandom_name": "STAY"
+    },
+    {
+        "id_fandom": 3,
+        "id_group": 3,
+        "fandom_name": "BLINK"
+    },
+    {
+        "id_fandom": 4,
+        "id_group": 4,
+        "fandom_name": "ONCE"
+    },
+    {
+        "id_fandom": 5,
+        "id_group": 5,
+        "fandom_name": "ENGENE"
+    },
+    {
+        "id_fandom": 6,
+        "id_group": 6,
+        "fandom_name": "EXO-L"
+    },
+    {
+        "id_fandom": 7,
+        "id_group": 7,
+        "fandom_name": "CARAT"
+    },
+    {
+        "id_fandom": 8,
+        "id_group": 8,
+        "fandom_name": "ReVeluv"
+    },
+    {
+        "id_fandom": 9,
+        "id_group": 9,
+        "fandom_name": "MOA"
+    },
+    {
+        "id_fandom": 10,
+        "id_group": 10,
+        "fandom_name": "IGOT7/AhGaSe"
+    },
+    {
+        "id_fandom": 11,
+        "id_group": 11,
+        "fandom_name": "ATINY"
+    },
+    {
+        "id_fandom": 12,
+        "id_group": 12,
+        "fandom_name": "MY"
+    },
+    {
+        "id_fandom": 13,
+        "id_group": 13,
+        "fandom_name": "MIDZY"
+    },
+    {
+        "id_fandom": 14,
+        "id_group": 14,
+        "fandom_name": "NCTzens"
+    },
+    {
+        "id_fandom": 15,
+        "id_group": 15,
+        "fandom_name": "FEARNOT"
+    },
+    {
+        "id_fandom": 16,
+        "id_group": 16,
+        "fandom_name": "COER"
+    },
+    {
+        "id_fandom": 17,
+        "id_group": 17,
+        "fandom_name": "MONSTIEZ"
+    },
+    {
+        "id_fandom": 18,
+        "id_group": 18,
+        "fandom_name": "GLLIT"
+    },
+    {
+        "id_fandom": 19,
+        "id_group": 19,
+        "fandom_name": "MONBEBE"
+    },
+    {
+        "id_fandom": 20,
+        "id_group": 20,
+        "fandom_name": "Neverland"
+    },
+    {
+        "id_fandom": 21,
+        "id_group": 21,
+        "fandom_name": "SHINee World"
+    },
+    {
+        "id_fandom": 22,
+        "id_group": 22,
+        "fandom_name": "DIVE"
+    },
+    {
+        "id_fandom": 23,
+        "id_group": 23,
+        "fandom_name": "S♡NE"
+    },
+    {
+        "id_fandom": 24,
+        "id_group": 24,
+        "fandom_name": "Wannable"
+    },
+    {
+        "id_fandom": 25,
+        "id_group": 25,
+        "fandom_name": "Bunnies"
+    },
+    {
+        "id_fandom": 26,
+        "id_group": 26,
+        "fandom_name": "NCTzen"
+    },
+    {
+        "id_fandom": 27,
+        "id_group": 27,
+        "fandom_name": "EYEKON"
+    },
+    {
+        "id_fandom": 28,
+        "id_group": 30,
+        "fandom_name": "NSWER"
+    },
+    {
+        "id_fandom": 29,
+        "id_group": 31,
+        "fandom_name": "S2U"
+    },
+    {
+        "id_fandom": 30,
+        "id_group": 32,
+        "fandom_name": "InSomnia"
+    },
+    {
+        "id_fandom": 31,
+        "id_group": 33,
+        "fandom_name": "P1ECE"
+    },
+    {
+        "id_fandom": 26,
+        "id_group": 34,
+        "fandom_name": "NCTzen"
+    },
+    {
+        "id_fandom": 32,
+        "id_group": 35,
+        "fandom_name": "Orbit"
+    },
+    {
+        "id_fandom": 33,
+        "id_group": 36,
+        "fandom_name": "MOOMOO"
+    },
+    {
+        "id_fandom": 34,
+        "id_group": 37,
+        "fandom_name": "BUDDY"
+    },
+    {
+        "id_fandom": 35,
+        "id_group": 38,
+        "fandom_name": "AROHA"
+    },
+    {
+        "id_fandom": 36,
+        "id_group": 39,
+        "fandom_name": "V.I.P"
+    },
+    {
+        "id_fandom": 37,
+        "id_group": 40,
+        "fandom_name": "ONEDOOR"
+    },
+    {
+        "id_fandom": 38,
+        "id_group": 41,
+        "fandom_name": "SHOTTIES"
+    },
+    {
+        "id_fandom": 39,
+        "id_group": 42,
+        "fandom_name": "iKONIC"
+    },
+    {
+        "id_fandom": 40,
+        "id_group": 43,
+        "fandom_name": "EVOL"
+    },
+    {
+        "id_fandom": 41,
+        "id_group": 44,
+        "fandom_name": "ZEROSE"
+    },
+    {
+        "id_fandom": 42,
+        "id_group": 45,
+        "fandom_name": "WIZ*ONE"
+    },
+    {
+        "id_fandom": 43,
+        "id_group": 46,
+        "fandom_name": "LUNÉ"
+    },
+    {
+        "id_fandom": 44,
+        "id_group": 47,
+        "fandom_name": "FOREVER"
+    },
+    {
+        "id_fandom": 45,
+        "id_group": 48,
+        "fandom_name": "WAV"
+    },
+    {
+        "id_fandom": 46,
+        "id_group": 49,
+        "fandom_name": "E.L.F."
+    },
+    {
+        "id_fandom": 47,
+        "id_group": 50,
+        "fandom_name": "ALPHAZ"
+    }
+]

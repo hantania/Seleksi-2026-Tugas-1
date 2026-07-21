@@ -1,0 +1,1062 @@
+[
+    {
+        "id_group": 1,
+        "id_label": 1,
+        "name": "BTS",
+        "other_name": "Bangtan Bulletproof Boys Scouts",
+        "status": "ACTIVE",
+        "debut_date": "2013-06-13",
+        "generation": 3,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 2,
+        "id_label": 2,
+        "name": "Stray Kids",
+        "other_name": "SKZ",
+        "status": "ACTIVE",
+        "debut_date": "2018-03-25",
+        "generation": 4,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 3,
+        "id_label": 3,
+        "name": "BLACKPINK",
+        "other_name": "ブラックピンク",
+        "status": "ACTIVE",
+        "debut_date": "2016-08-08",
+        "generation": 3,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 4,
+        "id_label": null,
+        "name": "TWICE",
+        "other_name": "トゥワイス",
+        "status": "ACTIVE",
+        "debut_date": "2015-10-20",
+        "generation": 3,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 5,
+        "id_label": 4,
+        "name": "ENHYPEN",
+        "other_name": "エンハイフン",
+        "status": "ACTIVE",
+        "debut_date": "2020-11-30",
+        "generation": 4,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 6,
+        "id_label": 5,
+        "name": "EXO",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2012-04-08",
+        "generation": 3,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 7,
+        "id_label": 1,
+        "name": "SEVENTEEN",
+        "other_name": "セブンティーン",
+        "status": "ACTIVE",
+        "debut_date": "2015-05-26",
+        "generation": 3,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 8,
+        "id_label": 5,
+        "name": "Red Velvet",
+        "other_name": "レッドベルベット",
+        "status": "ACTIVE",
+        "debut_date": "2014-08-01",
+        "generation": 3,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 9,
+        "id_label": 1,
+        "name": "TOMORROW X TOGETHER",
+        "other_name": "TXT",
+        "status": "ACTIVE",
+        "debut_date": "2019-03-04",
+        "generation": 4,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 10,
+        "id_label": 6,
+        "name": "GOT7",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2014-01-16",
+        "generation": 3,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 11,
+        "id_label": 7,
+        "name": "ATEEZ",
+        "other_name": "エイティーズ",
+        "status": "ACTIVE",
+        "debut_date": "2018-10-24",
+        "generation": 4,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 12,
+        "id_label": 5,
+        "name": "aespa",
+        "other_name": "埃斯帕",
+        "status": "ACTIVE",
+        "debut_date": "2020-11-17",
+        "generation": 4,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 13,
+        "id_label": 8,
+        "name": "ITZY",
+        "other_name": "イッチ",
+        "status": "ACTIVE",
+        "debut_date": "2019-02-12",
+        "generation": 4,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 14,
+        "id_label": 5,
+        "name": "NCT 127",
+        "other_name": "エヌシーティー 127",
+        "status": "ACTIVE",
+        "debut_date": "2016-07-07",
+        "generation": 3,
+        "id_parent_group": 26
+    },
+    {
+        "id_group": 15,
+        "id_label": 9,
+        "name": "LE SSERAFIM",
+        "other_name": "ルセラフィム",
+        "status": "ACTIVE",
+        "debut_date": "2022-05-02",
+        "generation": 5,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 16,
+        "id_label": 1,
+        "name": "CORTIS",
+        "other_name": "Color Outside The Lines",
+        "status": "ACTIVE",
+        "debut_date": "2025-08-18",
+        "generation": 5,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 17,
+        "id_label": 3,
+        "name": "BABYMONSTER",
+        "other_name": "BAEMON",
+        "status": "ACTIVE",
+        "debut_date": "2023-11-27",
+        "generation": 5,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 18,
+        "id_label": 4,
+        "name": "ILLIT",
+        "other_name": "アイリット",
+        "status": "ACTIVE",
+        "debut_date": "2024-03-25",
+        "generation": 5,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 19,
+        "id_label": 10,
+        "name": "MONSTA X",
+        "other_name": "モンスタエックス",
+        "status": "ACTIVE",
+        "debut_date": "2015-05-14",
+        "generation": 3,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 20,
+        "id_label": 11,
+        "name": "i-dle",
+        "other_name": "(G) i-dle",
+        "status": "ACTIVE",
+        "debut_date": "2018-05-02",
+        "generation": 4,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 21,
+        "id_label": 5,
+        "name": "SHINee",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2008-05-25",
+        "generation": 2,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 22,
+        "id_label": 10,
+        "name": "IVE",
+        "other_name": "アイヴ",
+        "status": "ACTIVE",
+        "debut_date": "2021-12-01",
+        "generation": 4,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 23,
+        "id_label": 5,
+        "name": "Girls' Generation",
+        "other_name": "SNSD",
+        "status": "ACTIVE",
+        "debut_date": "2007-08-05",
+        "generation": 2,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 24,
+        "id_label": 12,
+        "name": "Wanna One",
+        "other_name": "ワナワン",
+        "status": "DISBANDED",
+        "debut_date": "2017-08-07",
+        "generation": 3,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 25,
+        "id_label": 1,
+        "name": "NewJeans",
+        "other_name": "NJZ",
+        "status": "HIATUS",
+        "debut_date": "2022-07-22",
+        "generation": 5,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 26,
+        "id_label": 5,
+        "name": "NCT",
+        "other_name": "Neo Culture Technology",
+        "status": "ACTIVE",
+        "debut_date": "2016-04-09",
+        "generation": 3,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 27,
+        "id_label": 1,
+        "name": "KATSEYE",
+        "other_name": "キャッツアイ",
+        "status": "ACTIVE",
+        "debut_date": "2024-06-28",
+        "generation": 5,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 28,
+        "id_label": 13,
+        "name": "EXO-CBX",
+        "other_name": "CBX",
+        "status": "ACTIVE",
+        "debut_date": "2016-10-31",
+        "generation": 3,
+        "id_parent_group": 6
+    },
+    {
+        "id_group": 29,
+        "id_label": 5,
+        "name": "NCT Dream",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2016-08-25",
+        "generation": 3,
+        "id_parent_group": 26
+    },
+    {
+        "id_group": 30,
+        "id_label": null,
+        "name": "NMIXX",
+        "other_name": "エンミックス",
+        "status": "ACTIVE",
+        "debut_date": "2022-02-22",
+        "generation": 5,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 31,
+        "id_label": 5,
+        "name": "Hearts2Hearts",
+        "other_name": "H2H",
+        "status": "ACTIVE",
+        "debut_date": "2025-02-24",
+        "generation": 5,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 32,
+        "id_label": 14,
+        "name": "Dreamcatcher",
+        "other_name": "MINX",
+        "status": "ACTIVE",
+        "debut_date": "2017-01-13",
+        "generation": 3,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 33,
+        "id_label": 15,
+        "name": "P1Harmony",
+        "other_name": "P1H",
+        "status": "ACTIVE",
+        "debut_date": "2020-10-28",
+        "generation": 4,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 34,
+        "id_label": 5,
+        "name": "NCT U",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2016-04-09",
+        "generation": 3,
+        "id_parent_group": 26
+    },
+    {
+        "id_group": 35,
+        "id_label": 16,
+        "name": "LOONA",
+        "other_name": "LOOΠΔ",
+        "status": "HIATUS",
+        "debut_date": "2018-08-19",
+        "generation": 4,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 36,
+        "id_label": 17,
+        "name": "MAMAMOO",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2014-06-19",
+        "generation": 3,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 37,
+        "id_label": 9,
+        "name": "GFRIEND",
+        "other_name": null,
+        "status": "DISBANDED",
+        "debut_date": "2015-01-16",
+        "generation": 3,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 38,
+        "id_label": 18,
+        "name": "ASTRO",
+        "other_name": "アストロ",
+        "status": "ACTIVE",
+        "debut_date": "2016-02-23",
+        "generation": 3,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 39,
+        "id_label": 3,
+        "name": "BIGBANG",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2006-08-19",
+        "generation": 2,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 40,
+        "id_label": 1,
+        "name": "BOYNEXTDOOR",
+        "other_name": "ボーイネクストドア",
+        "status": "ACTIVE",
+        "debut_date": "2023-05-30",
+        "generation": 5,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 41,
+        "id_label": 19,
+        "name": "LNGSHOT",
+        "other_name": "エルエヌジーショット",
+        "status": "ACTIVE",
+        "debut_date": "2026-01-13",
+        "generation": 5,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 42,
+        "id_label": 20,
+        "name": "iKON",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2015-09-15",
+        "generation": 3,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 43,
+        "id_label": 21,
+        "name": "XLOV",
+        "other_name": "艾克斯爱",
+        "status": "ACTIVE",
+        "debut_date": "2025-01-07",
+        "generation": 5,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 44,
+        "id_label": 22,
+        "name": "ZEROBASEONE",
+        "other_name": "ZB1",
+        "status": "ACTIVE",
+        "debut_date": "2023-07-10",
+        "generation": 5,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 45,
+        "id_label": 12,
+        "name": "IZ*ONE",
+        "other_name": "アイズワン",
+        "status": "DISBANDED",
+        "debut_date": "2018-10-29",
+        "generation": 4,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 46,
+        "id_label": 1,
+        "name": "&TEAM",
+        "other_name": "アンドチーム",
+        "status": "ACTIVE",
+        "debut_date": "2022-12-07",
+        "generation": 5,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 47,
+        "id_label": 23,
+        "name": "EVERGLOW",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2019-03-18",
+        "generation": 4,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 48,
+        "id_label": null,
+        "name": "tripleS",
+        "other_name": "트리플S",
+        "status": "ACTIVE",
+        "debut_date": "2023-02-13",
+        "generation": 5,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 49,
+        "id_label": 5,
+        "name": "SUPER JUNIOR",
+        "other_name": "スーパージュニア",
+        "status": "ACTIVE",
+        "debut_date": "2005-11-06",
+        "generation": 2,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 50,
+        "id_label": 24,
+        "name": "XG",
+        "other_name": "Xtraordinary Genes",
+        "status": "ACTIVE",
+        "debut_date": "2022-03-18",
+        "generation": 5,
+        "id_parent_group": null
+    },
+    {
+        "id_group": 51,
+        "id_label": 2,
+        "name": "3RACHA",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2018-03-25",
+        "generation": 4,
+        "id_parent_group": 2
+    },
+    {
+        "id_group": 52,
+        "id_label": null,
+        "name": "MISAMO",
+        "other_name": "ミサモ",
+        "status": "ACTIVE",
+        "debut_date": "2023-07-26",
+        "generation": 5,
+        "id_parent_group": 4
+    },
+    {
+        "id_group": 53,
+        "id_label": 5,
+        "name": "EXO-K",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2012-04-08",
+        "generation": 3,
+        "id_parent_group": 6
+    },
+    {
+        "id_group": 54,
+        "id_label": 5,
+        "name": "EXO-M",
+        "other_name": null,
+        "status": "HIATUS",
+        "debut_date": "2012-04-08",
+        "generation": 3,
+        "id_parent_group": 6
+    },
+    {
+        "id_group": 55,
+        "id_label": 5,
+        "name": "EXO-SC",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2019-07-22",
+        "generation": 4,
+        "id_parent_group": 6
+    },
+    {
+        "id_group": 56,
+        "id_label": 1,
+        "name": "V8",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2026-06-29",
+        "generation": 5,
+        "id_parent_group": 7
+    },
+    {
+        "id_group": 57,
+        "id_label": 1,
+        "name": "Hoshi X Woozi",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2025-03-10",
+        "generation": 5,
+        "id_parent_group": 7
+    },
+    {
+        "id_group": 58,
+        "id_label": 1,
+        "name": "DK X Seungkwan",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2026-01-12",
+        "generation": 5,
+        "id_parent_group": 7
+    },
+    {
+        "id_group": 59,
+        "id_label": 1,
+        "name": "S.Coups X Mingyu",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2025-09-29",
+        "generation": 5,
+        "id_parent_group": 7
+    },
+    {
+        "id_group": 60,
+        "id_label": 1,
+        "name": "BSS",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2018-03-21",
+        "generation": 4,
+        "id_parent_group": 7
+    },
+    {
+        "id_group": 61,
+        "id_label": 1,
+        "name": "SVT PERFORMANCE Team",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2015-05-26",
+        "generation": 3,
+        "id_parent_group": 7
+    },
+    {
+        "id_group": 62,
+        "id_label": 1,
+        "name": "SVT HIPHOP Team",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2015-05-26",
+        "generation": 3,
+        "id_parent_group": 7
+    },
+    {
+        "id_group": 63,
+        "id_label": 1,
+        "name": "Jeonghan X Wonwoo",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2024-06-17",
+        "generation": 5,
+        "id_parent_group": 7
+    },
+    {
+        "id_group": 64,
+        "id_label": 1,
+        "name": "SVT Leaders",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2017-09-24",
+        "generation": 3,
+        "id_parent_group": 7
+    },
+    {
+        "id_group": 65,
+        "id_label": 1,
+        "name": "SVT VOCAL Team",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2015-05-26",
+        "generation": 3,
+        "id_parent_group": 7
+    },
+    {
+        "id_group": 66,
+        "id_label": 5,
+        "name": "Red Velvet - IRENE & SEULGI",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2020-07-06",
+        "generation": 4,
+        "id_parent_group": 8
+    },
+    {
+        "id_group": 67,
+        "id_label": 6,
+        "name": "JUS2",
+        "other_name": null,
+        "status": "HIATUS",
+        "debut_date": "2019-03-05",
+        "generation": 4,
+        "id_parent_group": 10
+    },
+    {
+        "id_group": 68,
+        "id_label": 6,
+        "name": "JJ Project",
+        "other_name": null,
+        "status": "HIATUS",
+        "debut_date": "2012-05-20",
+        "generation": 3,
+        "id_parent_group": 10
+    },
+    {
+        "id_group": 69,
+        "id_label": 10,
+        "name": "SHOWNU X HYUNGWON",
+        "other_name": "ショヌXヒョンウォン",
+        "status": "ACTIVE",
+        "debut_date": "2023-07-25",
+        "generation": 5,
+        "id_parent_group": 19
+    },
+    {
+        "id_group": 70,
+        "id_label": 5,
+        "name": "Girls' Generation-TTS",
+        "other_name": "少女時代-テティソ",
+        "status": "HIATUS",
+        "debut_date": "2012-04-29",
+        "generation": 3,
+        "id_parent_group": 23
+    },
+    {
+        "id_group": 71,
+        "id_label": 5,
+        "name": "Girls' Generation - Oh!GG",
+        "other_name": "少女時代-Oh!GG",
+        "status": "HIATUS",
+        "debut_date": "2018-09-05",
+        "generation": 4,
+        "id_parent_group": 23
+    },
+    {
+        "id_group": 72,
+        "id_label": 5,
+        "name": "NCT WISH",
+        "other_name": "エヌシーティー ウィッシュ",
+        "status": "ACTIVE",
+        "debut_date": "2024-02-21",
+        "generation": 5,
+        "id_parent_group": 26
+    },
+    {
+        "id_group": 73,
+        "id_label": 5,
+        "name": "NCT DOJAEJUNG",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2023-04-17",
+        "generation": 5,
+        "id_parent_group": 26
+    },
+    {
+        "id_group": 74,
+        "id_label": 5,
+        "name": "WayV",
+        "other_name": "威神V",
+        "status": "ACTIVE",
+        "debut_date": "2019-01-17",
+        "generation": 4,
+        "id_parent_group": 26
+    },
+    {
+        "id_group": 75,
+        "id_label": 5,
+        "name": "NCT JNJM",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2026-02-23",
+        "generation": 5,
+        "id_parent_group": 26
+    },
+    {
+        "id_group": 76,
+        "id_label": 14,
+        "name": "UAU",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2025-05-28",
+        "generation": 5,
+        "id_parent_group": 32
+    },
+    {
+        "id_group": 77,
+        "id_label": 16,
+        "name": "LOONA 1/3",
+        "other_name": "LOOΠΔ 1/3",
+        "status": "HIATUS",
+        "debut_date": "2017-03-12",
+        "generation": 3,
+        "id_parent_group": 35
+    },
+    {
+        "id_group": 78,
+        "id_label": 16,
+        "name": "LOONA yyxy",
+        "other_name": "yyxy",
+        "status": "HIATUS",
+        "debut_date": "2018-05-30",
+        "generation": 4,
+        "id_parent_group": 35
+    },
+    {
+        "id_group": 79,
+        "id_label": 17,
+        "name": "MAMAMOO+",
+        "other_name": null,
+        "status": "HIATUS",
+        "debut_date": "2022-08-30",
+        "generation": 5,
+        "id_parent_group": 36
+    },
+    {
+        "id_group": 80,
+        "id_label": 18,
+        "name": "ZOONIZINI",
+        "other_name": "ズニジニ",
+        "status": "ACTIVE",
+        "debut_date": "2025-08-13",
+        "generation": 5,
+        "id_parent_group": 38
+    },
+    {
+        "id_group": 81,
+        "id_label": 18,
+        "name": "MOONBIN & SANHA",
+        "other_name": "ムンビン&サナ",
+        "status": "DISBANDED",
+        "debut_date": "2020-09-14",
+        "generation": 4,
+        "id_parent_group": 38
+    },
+    {
+        "id_group": 82,
+        "id_label": 18,
+        "name": "Jinjin & Rocky",
+        "other_name": "ジンジン & ラキ",
+        "status": "DISBANDED",
+        "debut_date": "2022-01-17",
+        "generation": 5,
+        "id_parent_group": 38
+    },
+    {
+        "id_group": 83,
+        "id_label": 3,
+        "name": "GD & TOP",
+        "other_name": null,
+        "status": "DISBANDED",
+        "debut_date": "2010-12-24",
+        "generation": 2,
+        "id_parent_group": 39
+    },
+    {
+        "id_group": 84,
+        "id_label": 20,
+        "name": "Double B",
+        "other_name": null,
+        "status": "DISBANDED",
+        "debut_date": "2015-11-16",
+        "generation": 3,
+        "id_parent_group": 42
+    },
+    {
+        "id_group": 85,
+        "id_label": null,
+        "name": "EVOLution",
+        "other_name": null,
+        "status": "DISBANDED",
+        "debut_date": "2023-10-11",
+        "generation": 5,
+        "id_parent_group": 48
+    },
+    {
+        "id_group": 86,
+        "id_label": null,
+        "name": "Visionary Vision",
+        "other_name": "VV",
+        "status": "DISBANDED",
+        "debut_date": "2024-10-23",
+        "generation": 5,
+        "id_parent_group": 48
+    },
+    {
+        "id_group": 87,
+        "id_label": null,
+        "name": "LOVElution",
+        "other_name": "ラブリューション",
+        "status": "DISBANDED",
+        "debut_date": "2023-08-17",
+        "generation": 5,
+        "id_parent_group": 48
+    },
+    {
+        "id_group": 88,
+        "id_label": null,
+        "name": "moon",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2025-11-24",
+        "generation": 5,
+        "id_parent_group": 48
+    },
+    {
+        "id_group": 89,
+        "id_label": null,
+        "name": "zenith",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2025-11-24",
+        "generation": 5,
+        "id_parent_group": 48
+    },
+    {
+        "id_group": 90,
+        "id_label": null,
+        "name": "NXT",
+        "other_name": null,
+        "status": "DISBANDED",
+        "debut_date": "2023-12-23",
+        "generation": 5,
+        "id_parent_group": 48
+    },
+    {
+        "id_group": 91,
+        "id_label": null,
+        "name": "Glow",
+        "other_name": null,
+        "status": "DISBANDED",
+        "debut_date": "2024-06-21",
+        "generation": 5,
+        "id_parent_group": 48
+    },
+    {
+        "id_group": 92,
+        "id_label": null,
+        "name": "neptune",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2025-11-24",
+        "generation": 5,
+        "id_parent_group": 48
+    },
+    {
+        "id_group": 93,
+        "id_label": null,
+        "name": "ACID EYES",
+        "other_name": null,
+        "status": "DISBANDED",
+        "debut_date": "2023-06-06",
+        "generation": 5,
+        "id_parent_group": 48
+    },
+    {
+        "id_group": 94,
+        "id_label": null,
+        "name": "Aria",
+        "other_name": null,
+        "status": "DISBANDED",
+        "debut_date": "2024-01-15",
+        "generation": 5,
+        "id_parent_group": 48
+    },
+    {
+        "id_group": 95,
+        "id_label": null,
+        "name": "Hatchi!",
+        "other_name": "ハッチ!",
+        "status": "ACTIVE",
+        "debut_date": "2024-11-20",
+        "generation": 5,
+        "id_parent_group": 48
+    },
+    {
+        "id_group": 96,
+        "id_label": null,
+        "name": "sun",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2025-11-24",
+        "generation": 5,
+        "id_parent_group": 48
+    },
+    {
+        "id_group": 97,
+        "id_label": null,
+        "name": "+(KR)ystal Eyes",
+        "other_name": "クリスタル・アイズ",
+        "status": "DISBANDED",
+        "debut_date": "2023-05-04",
+        "generation": 5,
+        "id_parent_group": 48
+    },
+    {
+        "id_group": 98,
+        "id_label": null,
+        "name": "Acid Angel from Asia",
+        "other_name": "アシッド・エンジェル・フロム・エイジア",
+        "status": "DISBANDED",
+        "debut_date": "2022-10-28",
+        "generation": 5,
+        "id_parent_group": 48
+    },
+    {
+        "id_group": 99,
+        "id_label": null,
+        "name": "Alphie",
+        "other_name": null,
+        "status": "DISBANDED",
+        "debut_date": "2025-09-03",
+        "generation": 5,
+        "id_parent_group": 48
+    },
+    {
+        "id_group": 100,
+        "id_label": 5,
+        "name": "SUPER JUNIOR-83z",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2026-07-13",
+        "generation": 5,
+        "id_parent_group": 49
+    },
+    {
+        "id_group": 101,
+        "id_label": 5,
+        "name": "SUPER JUNIOR-L.S.S.",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2023-07-05",
+        "generation": 5,
+        "id_parent_group": 49
+    },
+    {
+        "id_group": 102,
+        "id_label": 5,
+        "name": "SUPER JUNIOR-K.R.Y.",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2006-11-05",
+        "generation": 2,
+        "id_parent_group": 49
+    },
+    {
+        "id_group": 103,
+        "id_label": 5,
+        "name": "Super Junior-M",
+        "other_name": null,
+        "status": "HIATUS",
+        "debut_date": "2008-04-08",
+        "generation": 2,
+        "id_parent_group": 49
+    },
+    {
+        "id_group": 104,
+        "id_label": 5,
+        "name": "SUPER JUNIOR-D&E",
+        "other_name": null,
+        "status": "ACTIVE",
+        "debut_date": "2011-12-16",
+        "generation": 2,
+        "id_parent_group": 49
+    },
+    {
+        "id_group": 105,
+        "id_label": 5,
+        "name": "SUPER JUNIOR-H",
+        "other_name": null,
+        "status": "HIATUS",
+        "debut_date": "2008-05-03",
+        "generation": 2,
+        "id_parent_group": 49
+    },
+    {
+        "id_group": 106,
+        "id_label": 5,
+        "name": "SUPER JUNIOR-T",
+        "other_name": null,
+        "status": "HIATUS",
+        "debut_date": "2007-02-23",
+        "generation": 2,
+        "id_parent_group": 49
+    }
+]
