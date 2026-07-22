@@ -4,6 +4,8 @@ import requests
 import os
 from bs4 import BeautifulSoup
 
+import sys
+
 '''
 Berisi helper global yang digunakan oleh scraper
 '''
@@ -17,7 +19,10 @@ Konfigurasi Logger
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
-    filename=os.path.join(ROOT, "Data Scraping", "scrap_log.txt"), encoding='utf-8'
+    handlers=[
+        logging.FileHandler(os.path.join(ROOT, "Data Scraping", "scrap_log.txt"), encoding='utf-8'),
+        logging.StreamHandler(sys.stdout)
+    ]
 )
 
 '''

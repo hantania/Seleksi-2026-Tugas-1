@@ -1,26 +1,5 @@
-DROP VIEW IF EXISTS view_total_score CASCADE;
-DROP VIEW IF EXISTS view_idol_age CASCADE;
-DROP TRIGGER IF EXISTS trg_group_status_changed ON groups CASCADE;
-DROP FUNCTION IF EXISTS group_status_changed() CASCADE;
-DROP TABLE IF EXISTS fans_vote_groups CASCADE;
-DROP TABLE IF EXISTS fans_fandoms CASCADE;
-DROP TABLE IF EXISTS fandom_colors CASCADE;
-DROP TABLE IF EXISTS fandoms CASCADE;
-DROP TABLE IF EXISTS tracks CASCADE;
-DROP TABLE IF EXISTS albums CASCADE;
-DROP TABLE IF EXISTS group_metrics CASCADE;
-DROP TABLE IF EXISTS group_idols CASCADE;
-DROP TABLE IF EXISTS hiatus_groups CASCADE;
-DROP TABLE IF EXISTS disbanded_groups CASCADE;
-DROP TABLE IF EXISTS active_groups CASCADE;
-DROP TABLE IF EXISTS groups CASCADE;
-DROP TABLE IF EXISTS labels CASCADE;
-DROP TABLE IF EXISTS idols CASCADE;
-DROP TABLE IF EXISTS votings CASCADE;
-DROP TABLE IF EXISTS fans_users CASCADE;
-
-CREATE TABLE fans_users (
-    ID_user SERIAL,
+CREATE TABLE IF NOT EXISTS fans_users (
+    ID_user INT,
     username VARCHAR(100) NOT NULL UNIQUE,
     level SMALLINT,
     register_date DATE,
@@ -29,8 +8,8 @@ CREATE TABLE fans_users (
     CHECK(level BETWEEN 1 AND 5)
 );
 
-CREATE TABLE votings (
-    ID_voting SERIAL,
+CREATE TABLE IF NOT EXISTS votings (
+    ID_voting INT,
     name VARCHAR(100) NOT NULL UNIQUE,
     start_date DATE,
     end_date DATE,
@@ -39,8 +18,8 @@ CREATE TABLE votings (
     CHECK(end_date > start_date)
 );
 
-CREATE TABLE labels (
-    ID_label SERIAL,
+CREATE TABLE IF NOT EXISTS labels (
+    ID_label INT,
     name VARCHAR(100) NOT NULL UNIQUE,
     founded_year INT,
     founder VARCHAR(100),
@@ -48,8 +27,8 @@ CREATE TABLE labels (
     PRIMARY KEY(ID_label)
 );
 
-CREATE TABLE idols (
-    ID_idol SERIAL,
+CREATE TABLE IF NOT EXISTS idols (
+    ID_idol INT,
     stage_name VARCHAR(50) NOT NULL,
     full_name VARCHAR(100) NOT NULL,
     birthday DATE,
@@ -60,8 +39,8 @@ CREATE TABLE idols (
     PRIMARY KEY(ID_idol)
 );
 
-CREATE TABLE groups (
-    ID_group SERIAL,
+CREATE TABLE IF NOT EXISTS groups (
+    ID_group INT,
     ID_label INT,
     name VARCHAR(100) NOT NULL,
     other_name VARCHAR(100),
@@ -75,7 +54,7 @@ CREATE TABLE groups (
     FOREIGN KEY(ID_parent_group) REFERENCES groups(ID_group) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-CREATE TABLE active_groups (
+CREATE TABLE IF NOT EXISTS active_groups (
     ID_group INT,
     latest_comeback_date DATE,
 
@@ -83,7 +62,7 @@ CREATE TABLE active_groups (
     FOREIGN KEY(ID_group) REFERENCES groups(ID_group) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-CREATE TABLE disbanded_groups (
+CREATE TABLE IF NOT EXISTS disbanded_groups (
     ID_group INT,
     disband_year INT,
     disband_reason VARCHAR(200),
@@ -92,7 +71,7 @@ CREATE TABLE disbanded_groups (
     FOREIGN KEY(ID_group) REFERENCES groups(ID_group) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-CREATE TABLE hiatus_groups(
+CREATE TABLE IF NOT EXISTS hiatus_groups(
     ID_group INT,
     hiatus_year INT,
     hiatus_reason VARCHAR(200),
@@ -101,7 +80,7 @@ CREATE TABLE hiatus_groups(
     FOREIGN KEY(ID_group) REFERENCES groups(ID_group) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-CREATE TABLE group_idols (
+CREATE TABLE IF NOT EXISTS group_idols (
     ID_group INT NOT NULL,
     ID_idol INT NOT NULL,
     role VARCHAR(25) NOT NULL,
@@ -112,7 +91,7 @@ CREATE TABLE group_idols (
     FOREIGN KEY(ID_idol) REFERENCES idols(ID_idol) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-CREATE TABLE group_metrics (
+CREATE TABLE IF NOT EXISTS group_metrics (
     ID_group INT NOT NULL,
     scraped_at TIMESTAMP NOT NULL,
     rank INT,
@@ -127,8 +106,8 @@ CREATE TABLE group_metrics (
     FOREIGN KEY(ID_group) REFERENCES groups(ID_group) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-CREATE TABLE albums (
-    ID_album SERIAL,
+CREATE TABLE IF NOT EXISTS albums (
+    ID_album INT,
     ID_group INT NOT NULL,
     name VARCHAR(100) NOT NULL,
     type VARCHAR(30),
@@ -140,7 +119,7 @@ CREATE TABLE albums (
     FOREIGN KEY(ID_group) REFERENCES groups(ID_group) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-CREATE TABLE tracks (
+CREATE TABLE IF NOT EXISTS tracks (
     ID_album INT NOT NULL,
     title VARCHAR(200) NOT NULL,
     genre VARCHAR(50),
@@ -149,8 +128,8 @@ CREATE TABLE tracks (
     FOREIGN KEY(ID_album) REFERENCES albums(ID_album) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-CREATE TABLE fandoms (
-    ID_fandom SERIAL,
+CREATE TABLE IF NOT EXISTS fandoms (
+    ID_fandom INT,
     ID_group INT NOT NULL,
     name VARCHAR(100) NOT NULL,
 
@@ -158,7 +137,7 @@ CREATE TABLE fandoms (
     FOREIGN KEY(ID_group) REFERENCES groups(ID_group) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-CREATE TABLE fandom_colors (
+CREATE TABLE IF NOT EXISTS fandom_colors (
     ID_fandom INT NOT NULL,
     color_identity VARCHAR(30) NOT NULL,
 
@@ -166,7 +145,7 @@ CREATE TABLE fandom_colors (
     FOREIGN KEY (ID_fandom) REFERENCES fandoms(ID_fandom) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-CREATE TABLE fans_fandoms (
+CREATE TABLE IF NOT EXISTS fans_fandoms (
     ID_user INT NOT NULL,
     ID_fandom INT NOT NULL,
 
@@ -175,7 +154,7 @@ CREATE TABLE fans_fandoms (
     FOREIGN KEY(ID_fandom) REFERENCES fandoms(ID_fandom) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-CREATE TABLE fans_vote_groups (
+CREATE TABLE IF NOT EXISTS fans_vote_groups (
     ID_user INT NOT NULL,
     ID_group INT NOT NULL,
     ID_voting INT NOT NULL,
@@ -215,6 +194,7 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
+DROP TRIGGER IF EXISTS trg_group_status_changed ON groups;
 CREATE TRIGGER trg_group_status_changed
 AFTER INSERT OR UPDATE OF status ON groups
 FOR EACH ROW EXECUTE FUNCTION group_status_changed();

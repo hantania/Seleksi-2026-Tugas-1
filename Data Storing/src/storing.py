@@ -1,6 +1,7 @@
 import os
 import json
 import logging
+import sys
 from dotenv import load_dotenv
 import psycopg2
 
@@ -13,7 +14,10 @@ Konfigurasi Logger
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
-    filename=os.path.join(ROOT_DIR, "Data Storing", "storing_log.txt"), encoding='utf-8'
+    handlers=[
+        logging.FileHandler(os.path.join(ROOT_DIR, "Data Storing", "storing_log.txt"), encoding='utf-8'),
+        logging.StreamHandler(sys.stdout)
+    ]
 )
 
 '''

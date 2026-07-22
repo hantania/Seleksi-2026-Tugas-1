@@ -1,0 +1,242 @@
+[
+    {
+        "parent_slug": "/profiles/group/Stray-Kids",
+        "sub_slug": "/profiles/group/3RACHA"
+    },
+    {
+        "parent_slug": "/profiles/group/TWICE",
+        "sub_slug": "/profiles/group/MISAMO"
+    },
+    {
+        "parent_slug": "/profiles/group/EXO",
+        "sub_slug": "/profiles/group/EXO-K"
+    },
+    {
+        "parent_slug": "/profiles/group/EXO",
+        "sub_slug": "/profiles/group/EXO-M"
+    },
+    {
+        "parent_slug": "/profiles/group/EXO",
+        "sub_slug": "/profiles/group/EXO-CBX"
+    },
+    {
+        "parent_slug": "/profiles/group/EXO",
+        "sub_slug": "/profiles/group/EXO-SC"
+    },
+    {
+        "parent_slug": "/profiles/group/SEVENTEEN",
+        "sub_slug": "/profiles/group/v8-SEVENTEEN"
+    },
+    {
+        "parent_slug": "/profiles/group/SEVENTEEN",
+        "sub_slug": "/profiles/group/Hoshi-X-Woozi"
+    },
+    {
+        "parent_slug": "/profiles/group/SEVENTEEN",
+        "sub_slug": "/profiles/group/DK-X-Seungkwan"
+    },
+    {
+        "parent_slug": "/profiles/group/SEVENTEEN",
+        "sub_slug": "/profiles/group/scoups-x-mingyu"
+    },
+    {
+        "parent_slug": "/profiles/group/SEVENTEEN",
+        "sub_slug": "/profiles/group/BSS"
+    },
+    {
+        "parent_slug": "/profiles/group/SEVENTEEN",
+        "sub_slug": "/profiles/group/SVT-PERFORMANCE-Team"
+    },
+    {
+        "parent_slug": "/profiles/group/SEVENTEEN",
+        "sub_slug": "/profiles/group/SVT-HIPHOP-Team"
+    },
+    {
+        "parent_slug": "/profiles/group/SEVENTEEN",
+        "sub_slug": "/profiles/group/Jeonghan-X-Wonwoo"
+    },
+    {
+        "parent_slug": "/profiles/group/SEVENTEEN",
+        "sub_slug": "/profiles/group/SVT-Leaders"
+    },
+    {
+        "parent_slug": "/profiles/group/SEVENTEEN",
+        "sub_slug": "/profiles/group/SVT-VOCAL-Team"
+    },
+    {
+        "parent_slug": "/profiles/group/Red-Velvet",
+        "sub_slug": "/profiles/group/Red-Velvet-IRENE-SEULGI"
+    },
+    {
+        "parent_slug": "/profiles/group/GOT7",
+        "sub_slug": "/profiles/group/JUS2"
+    },
+    {
+        "parent_slug": "/profiles/group/GOT7",
+        "sub_slug": "/profiles/group/JJ-Project"
+    },
+    {
+        "parent_slug": "/profiles/group/MONSTA-X",
+        "sub_slug": "/profiles/group/SHOWNU-X-HYUNGWON"
+    },
+    {
+        "parent_slug": "/profiles/group/Girls-Generation",
+        "sub_slug": "/profiles/group/Girls-Generation-TTS"
+    },
+    {
+        "parent_slug": "/profiles/group/Girls-Generation",
+        "sub_slug": "/profiles/group/girls-generation-ohgg"
+    },
+    {
+        "parent_slug": "/profiles/group/NCT",
+        "sub_slug": "/profiles/group/NCT-WISH"
+    },
+    {
+        "parent_slug": "/profiles/group/NCT",
+        "sub_slug": "/profiles/group/NCT-DOJAEJUNG"
+    },
+    {
+        "parent_slug": "/profiles/group/NCT",
+        "sub_slug": "/profiles/group/NCT-Dream"
+    },
+    {
+        "parent_slug": "/profiles/group/NCT",
+        "sub_slug": "/profiles/group/NCT-127"
+    },
+    {
+        "parent_slug": "/profiles/group/NCT",
+        "sub_slug": "/profiles/group/NCT-U"
+    },
+    {
+        "parent_slug": "/profiles/group/NCT",
+        "sub_slug": "/profiles/group/WayV"
+    },
+    {
+        "parent_slug": "/profiles/group/NCT",
+        "sub_slug": "/profiles/group/nct-jnjm"
+    },
+    {
+        "parent_slug": "/profiles/group/Dreamcatcher",
+        "sub_slug": "/profiles/group/UAU"
+    },
+    {
+        "parent_slug": "/profiles/group/LOONA",
+        "sub_slug": "/profiles/group/loona-13"
+    },
+    {
+        "parent_slug": "/profiles/group/LOONA",
+        "sub_slug": "/profiles/group/loona-yyxy"
+    },
+    {
+        "parent_slug": "/profiles/group/MAMAMOO",
+        "sub_slug": "/profiles/group/mamamooplus"
+    },
+    {
+        "parent_slug": "/profiles/group/ASTRO",
+        "sub_slug": "/profiles/group/ZOONIZINI"
+    },
+    {
+        "parent_slug": "/profiles/group/ASTRO",
+        "sub_slug": "/profiles/group/MOONBIN-SANHA"
+    },
+    {
+        "parent_slug": "/profiles/group/ASTRO",
+        "sub_slug": "/profiles/group/Jinjin-Rocky"
+    },
+    {
+        "parent_slug": "/profiles/group/BIGBANG",
+        "sub_slug": "/profiles/group/GD-TOP"
+    },
+    {
+        "parent_slug": "/profiles/group/iKON",
+        "sub_slug": "/profiles/group/double-b"
+    },
+    {
+        "parent_slug": "/profiles/group/tripleS",
+        "sub_slug": "/profiles/group/EVOLution"
+    },
+    {
+        "parent_slug": "/profiles/group/tripleS",
+        "sub_slug": "/profiles/group/Visionary-Vision"
+    },
+    {
+        "parent_slug": "/profiles/group/tripleS",
+        "sub_slug": "/profiles/group/LOVElution"
+    },
+    {
+        "parent_slug": "/profiles/group/tripleS",
+        "sub_slug": "/profiles/group/moon"
+    },
+    {
+        "parent_slug": "/profiles/group/tripleS",
+        "sub_slug": "/profiles/group/zenith"
+    },
+    {
+        "parent_slug": "/profiles/group/tripleS",
+        "sub_slug": "/profiles/group/NXT"
+    },
+    {
+        "parent_slug": "/profiles/group/tripleS",
+        "sub_slug": "/profiles/group/Glow"
+    },
+    {
+        "parent_slug": "/profiles/group/tripleS",
+        "sub_slug": "/profiles/group/neptune"
+    },
+    {
+        "parent_slug": "/profiles/group/tripleS",
+        "sub_slug": "/profiles/group/ACID-EYES"
+    },
+    {
+        "parent_slug": "/profiles/group/tripleS",
+        "sub_slug": "/profiles/group/Aria"
+    },
+    {
+        "parent_slug": "/profiles/group/tripleS",
+        "sub_slug": "/profiles/group/Hatchi"
+    },
+    {
+        "parent_slug": "/profiles/group/tripleS",
+        "sub_slug": "/profiles/group/sun"
+    },
+    {
+        "parent_slug": "/profiles/group/tripleS",
+        "sub_slug": "/profiles/group/krystal-eyes"
+    },
+    {
+        "parent_slug": "/profiles/group/tripleS",
+        "sub_slug": "/profiles/group/Acid-Angel-from-Asia"
+    },
+    {
+        "parent_slug": "/profiles/group/tripleS",
+        "sub_slug": "/profiles/group/Alphie"
+    },
+    {
+        "parent_slug": "/profiles/group/SUPER-JUNIOR",
+        "sub_slug": "/profiles/group/super-junior-83z"
+    },
+    {
+        "parent_slug": "/profiles/group/SUPER-JUNIOR",
+        "sub_slug": "/profiles/group/super-junior-lss"
+    },
+    {
+        "parent_slug": "/profiles/group/SUPER-JUNIOR",
+        "sub_slug": "/profiles/group/super-junior-kry"
+    },
+    {
+        "parent_slug": "/profiles/group/SUPER-JUNIOR",
+        "sub_slug": "/profiles/group/Super-Junior-M"
+    },
+    {
+        "parent_slug": "/profiles/group/SUPER-JUNIOR",
+        "sub_slug": "/profiles/group/super-junior-de"
+    },
+    {
+        "parent_slug": "/profiles/group/SUPER-JUNIOR",
+        "sub_slug": "/profiles/group/SUPER-JUNIOR-H"
+    },
+    {
+        "parent_slug": "/profiles/group/SUPER-JUNIOR",
+        "sub_slug": "/profiles/group/SUPER-JUNIOR-T"
+    }
+]

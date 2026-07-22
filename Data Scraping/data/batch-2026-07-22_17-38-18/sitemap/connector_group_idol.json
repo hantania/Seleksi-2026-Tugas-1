@@ -1,0 +1,1822 @@
+[
+    {
+        "group_slug": "/profiles/group/BTS",
+        "member_slug": "/profiles/idol/Jin",
+        "role": "Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/BTS",
+        "member_slug": "/profiles/idol/Suga",
+        "role": "Lead Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/BTS",
+        "member_slug": "/profiles/idol/j-hope",
+        "role": "Main Dancer, Lead Rapper, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/BTS",
+        "member_slug": "/profiles/idol/RM",
+        "role": "Leader, Main Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/BTS",
+        "member_slug": "/profiles/idol/Jimin2",
+        "role": "Main Dancer, Lead Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/BTS",
+        "member_slug": "/profiles/idol/V",
+        "role": "Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/BTS",
+        "member_slug": "/profiles/idol/Jungkook",
+        "role": "Main Vocalist, Lead Dancer, Sub Rapper, Center, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/Stray-Kids",
+        "member_slug": "/profiles/idol/Bang-Chan",
+        "role": "Leader, Producer, Lead Vocalist, Lead Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/Stray-Kids",
+        "member_slug": "/profiles/idol/Lee-Know",
+        "role": "Main Dancer, Vocalist, Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/Stray-Kids",
+        "member_slug": "/profiles/idol/Changbin",
+        "role": "Main Rapper, Producer, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Stray-Kids",
+        "member_slug": "/profiles/idol/Hyunjin2",
+        "role": "Main Dancer, Lead Rapper, Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/Stray-Kids",
+        "member_slug": "/profiles/idol/Han",
+        "role": "Main Rapper, Main Vocalist, Producer"
+    },
+    {
+        "group_slug": "/profiles/group/Stray-Kids",
+        "member_slug": "/profiles/idol/Felix",
+        "role": "Main Dancer, Lead Rapper, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Stray-Kids",
+        "member_slug": "/profiles/idol/Seungmin2",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Stray-Kids",
+        "member_slug": "/profiles/idol/in",
+        "role": "Lead Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/BLACKPINK",
+        "member_slug": "/profiles/idol/Jisoo",
+        "role": "Lead Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/BLACKPINK",
+        "member_slug": "/profiles/idol/Jennie",
+        "role": "Main Rapper, Lead Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/BLACKPINK",
+        "member_slug": "/profiles/idol/Rose",
+        "role": "Main Vocalist, Lead Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/BLACKPINK",
+        "member_slug": "/profiles/idol/Lisa",
+        "role": "Main Dancer, Lead Rapper, Sub Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/TWICE",
+        "member_slug": "/profiles/idol/Nayeon",
+        "role": "Lead Vocalist, Lead Dancer, Center, Face Of The Group"
+    },
+    {
+        "group_slug": "/profiles/group/TWICE",
+        "member_slug": "/profiles/idol/Jeongyeon",
+        "role": "Lead Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/TWICE",
+        "member_slug": "/profiles/idol/Momo",
+        "role": "Main Dancer, Sub Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/TWICE",
+        "member_slug": "/profiles/idol/Sana",
+        "role": "Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/TWICE",
+        "member_slug": "/profiles/idol/Jihyo",
+        "role": "Leader, Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/TWICE",
+        "member_slug": "/profiles/idol/Mina2",
+        "role": "Main Dancer, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/TWICE",
+        "member_slug": "/profiles/idol/Dahyun",
+        "role": "Lead Rapper, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/TWICE",
+        "member_slug": "/profiles/idol/Chaeyoung",
+        "role": "Main Rapper, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/TWICE",
+        "member_slug": "/profiles/idol/Tzuyu",
+        "role": "Lead Dancer, Sub Vocalist, Visual, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/ENHYPEN",
+        "member_slug": "/profiles/idol/Jay3",
+        "role": "Lead Dancer, Main Rapper, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/ENHYPEN",
+        "member_slug": "/profiles/idol/Jake",
+        "role": "Rapper, Vocalist, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/ENHYPEN",
+        "member_slug": "/profiles/idol/Sunghoon3",
+        "role": "Visual, Vocalist, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/ENHYPEN",
+        "member_slug": "/profiles/idol/Sunoo",
+        "role": "Main Vocalist, Lead Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/ENHYPEN",
+        "member_slug": "/profiles/idol/Jungwon",
+        "role": "Leader, Lead Vocalist, Lead Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/ENHYPEN",
+        "member_slug": "/profiles/idol/Ni-ki",
+        "role": "Main Dancer, Rapper, Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/EXO",
+        "member_slug": "/profiles/idol/Xiumin",
+        "role": "Lead Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/EXO",
+        "member_slug": "/profiles/idol/Suho",
+        "role": "Leader, Lead Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/EXO",
+        "member_slug": "/profiles/idol/Lay",
+        "role": "Main Dancer, Sub Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/EXO",
+        "member_slug": "/profiles/idol/Baekhyun",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/EXO",
+        "member_slug": "/profiles/idol/Chen",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/EXO",
+        "member_slug": "/profiles/idol/Chanyeol",
+        "role": "Main Rapper, Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/EXO",
+        "member_slug": "/profiles/idol/do",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/EXO",
+        "member_slug": "/profiles/idol/Kai",
+        "role": "Main Dancer, Lead Rapper, Sub Vocalist, Center, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/EXO",
+        "member_slug": "/profiles/idol/Sehun",
+        "role": "Lead Dancer, Lead Rapper, Visual, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/SEVENTEEN",
+        "member_slug": "/profiles/idol/scoups",
+        "role": "Leader, Hip Hop Team Leader, Main Rapper, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/SEVENTEEN",
+        "member_slug": "/profiles/idol/Jeonghan",
+        "role": "Lead Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/SEVENTEEN",
+        "member_slug": "/profiles/idol/Joshua",
+        "role": "Lead Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/SEVENTEEN",
+        "member_slug": "/profiles/idol/Jun",
+        "role": "Lead Dancer, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/SEVENTEEN",
+        "member_slug": "/profiles/idol/Hoshi",
+        "role": "Performance Team Leader, Main Dancer, Lead Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/SEVENTEEN",
+        "member_slug": "/profiles/idol/Wonwoo",
+        "role": "Lead Rapper, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/SEVENTEEN",
+        "member_slug": "/profiles/idol/Woozi",
+        "role": "Vocal Team Leader, Lead Vocalist, Producer"
+    },
+    {
+        "group_slug": "/profiles/group/SEVENTEEN",
+        "member_slug": "/profiles/idol/DK",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/SEVENTEEN",
+        "member_slug": "/profiles/idol/Mingyu",
+        "role": "Lead Rapper, Sub Vocalist, Visual, Face of the Group"
+    },
+    {
+        "group_slug": "/profiles/group/SEVENTEEN",
+        "member_slug": "/profiles/idol/the88",
+        "role": "Lead Dancer, Sub Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/SEVENTEEN",
+        "member_slug": "/profiles/idol/Seungkwan",
+        "role": "Main Vocalist, Face of the Group"
+    },
+    {
+        "group_slug": "/profiles/group/SEVENTEEN",
+        "member_slug": "/profiles/idol/Vernon",
+        "role": "Main Rapper, Sub Vocalist, Visual, Face of the Group"
+    },
+    {
+        "group_slug": "/profiles/group/SEVENTEEN",
+        "member_slug": "/profiles/idol/Dino",
+        "role": "Main Dancer, Sub Vocalist, Sub Rapper, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/Red-Velvet",
+        "member_slug": "/profiles/idol/Irene",
+        "role": "Leader, Main Rapper, Lead Dancer, Sub-Vocalist, Visual, Center"
+    },
+    {
+        "group_slug": "/profiles/group/Red-Velvet",
+        "member_slug": "/profiles/idol/Seulgi",
+        "role": "Main Dancer, Lead Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Red-Velvet",
+        "member_slug": "/profiles/idol/Wendy",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Red-Velvet",
+        "member_slug": "/profiles/idol/Joy",
+        "role": "Lead Rapper, Sub-Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Red-Velvet",
+        "member_slug": "/profiles/idol/Yeri",
+        "role": "Sub-Vocalist, Sub-Rapper, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/tomorrow-x-together2",
+        "member_slug": "/profiles/idol/Yeonjun",
+        "role": "Main Dancer, Vocalist, Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/tomorrow-x-together2",
+        "member_slug": "/profiles/idol/Soobin2",
+        "role": "Leader, Vocalist, Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/tomorrow-x-together2",
+        "member_slug": "/profiles/idol/Beomgyu",
+        "role": "Vocalist, Rapper, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/tomorrow-x-together2",
+        "member_slug": "/profiles/idol/Taehyun3",
+        "role": "Main Vocalist, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/tomorrow-x-together2",
+        "member_slug": "/profiles/idol/Huening-Kai",
+        "role": "Vocalist, Rapper, Dancer, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/GOT7",
+        "member_slug": "/profiles/idol/Mark",
+        "role": "Main Rapper, Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/GOT7",
+        "member_slug": "/profiles/idol/Jay-B",
+        "role": "Leader, Main Vocalist, Lead Dancer, Center"
+    },
+    {
+        "group_slug": "/profiles/group/GOT7",
+        "member_slug": "/profiles/idol/Jackson",
+        "role": "Main Rapper, Lead Dancer, Sub Vocalist, Face of the Group"
+    },
+    {
+        "group_slug": "/profiles/group/GOT7",
+        "member_slug": "/profiles/idol/Jinyoung",
+        "role": "Lead Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/GOT7",
+        "member_slug": "/profiles/idol/Youngjae",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/GOT7",
+        "member_slug": "/profiles/idol/BamBam",
+        "role": "Lead Dancer, Lead Rapper, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/GOT7",
+        "member_slug": "/profiles/idol/Yugyeom",
+        "role": "Main Dancer, Sub Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/ATEEZ",
+        "member_slug": "/profiles/idol/Seonghwa",
+        "role": "Vocalist, Rapper, Performer, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/ATEEZ",
+        "member_slug": "/profiles/idol/Hongjoong",
+        "role": "Captain, Main Rapper, Vocalist, Composer, Center"
+    },
+    {
+        "group_slug": "/profiles/group/ATEEZ",
+        "member_slug": "/profiles/idol/Yunho",
+        "role": "Main Dancer, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/ATEEZ",
+        "member_slug": "/profiles/idol/Yeosang",
+        "role": "Vocalist, Rapper, Performer, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/ATEEZ",
+        "member_slug": "/profiles/idol/San",
+        "role": "Lead Vocalist, Main Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/ATEEZ",
+        "member_slug": "/profiles/idol/Mingi",
+        "role": "Main Rapper, Main Dancer, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/ATEEZ",
+        "member_slug": "/profiles/idol/Wooyoung3",
+        "role": "Main Dancer, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/ATEEZ",
+        "member_slug": "/profiles/idol/Jongho",
+        "role": "Main Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/aespa",
+        "member_slug": "/profiles/idol/Karina2",
+        "role": "Leader, Main Dancer, Lead Rapper, Sub-Vocalist, Visual, Face of the Group, Center"
+    },
+    {
+        "group_slug": "/profiles/group/aespa",
+        "member_slug": "/profiles/idol/giselle",
+        "role": "Main Rapper, Sub-Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/aespa",
+        "member_slug": "/profiles/idol/winter",
+        "role": "Main Vocalist, Lead Dancer, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/aespa",
+        "member_slug": "/profiles/idol/ningning",
+        "role": "Main Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/ITZY",
+        "member_slug": "/profiles/idol/Yeji",
+        "role": "Leader, Main Dancer, Lead Vocalist, Sub-Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/ITZY",
+        "member_slug": "/profiles/idol/Lia",
+        "role": "Main Vocalist, Sub-Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/ITZY",
+        "member_slug": "/profiles/idol/Ryujin",
+        "role": "Main Rapper, Lead Dancer, Sub-Vocalist, Center"
+    },
+    {
+        "group_slug": "/profiles/group/ITZY",
+        "member_slug": "/profiles/idol/Chaeryeong",
+        "role": "Main Dancer, Sub-Vocalist, Sub-Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/ITZY",
+        "member_slug": "/profiles/idol/Yuna3",
+        "role": "Lead Dancer, Lead Rapper, Sub-Vocalist, Visual, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-127",
+        "member_slug": "/profiles/idol/Johnny",
+        "role": "Sub Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-127",
+        "member_slug": "/profiles/idol/Taeyong",
+        "role": "Leader, Main Rapper, Main Dancer, Sub Vocalist, Visual, Center"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-127",
+        "member_slug": "/profiles/idol/Yuta",
+        "role": "Lead Dancer, Sub Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-127",
+        "member_slug": "/profiles/idol/Doyoung",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-127",
+        "member_slug": "/profiles/idol/Jaehyun",
+        "role": "Main Vocalist, Lead Dancer, Sub Rapper, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-127",
+        "member_slug": "/profiles/idol/Jungwoo",
+        "role": "Lead Vocalist, Lead Dancer, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-127",
+        "member_slug": "/profiles/idol/Haechan",
+        "role": "Main Vocalist, Lead Dancer, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/LE-SSERAFIM",
+        "member_slug": "/profiles/idol/Sakura",
+        "role": "Dancer, Rapper, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/LE-SSERAFIM",
+        "member_slug": "/profiles/idol/Kim-Chaewon",
+        "role": "Leader, Vocalist, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/LE-SSERAFIM",
+        "member_slug": "/profiles/idol/Huh-Yunjin",
+        "role": "Vocalist, Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/LE-SSERAFIM",
+        "member_slug": "/profiles/idol/Kazuha",
+        "role": "Rapper, Dancer, Sub-Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/LE-SSERAFIM",
+        "member_slug": "/profiles/idol/Hong-Eunchae",
+        "role": "Lead Dancer, Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/CORTIS",
+        "member_slug": "/profiles/idol/James",
+        "role": "Main Dancer, Rapper, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/CORTIS",
+        "member_slug": "/profiles/idol/Juhoon",
+        "role": "Vocalist, Rapper, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/CORTIS",
+        "member_slug": "/profiles/idol/Martin",
+        "role": "Leader, Rapper, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/CORTIS",
+        "member_slug": "/profiles/idol/Seonghyeon",
+        "role": "Vocalist, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/CORTIS",
+        "member_slug": "/profiles/idol/Keonho",
+        "role": "Vocalist, Dancer, Visual, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/BABYMONSTER",
+        "member_slug": "/profiles/idol/Ruka2",
+        "role": "Main Rapper, Main Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/BABYMONSTER",
+        "member_slug": "/profiles/idol/Pharita",
+        "role": "Lead Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/BABYMONSTER",
+        "member_slug": "/profiles/idol/Asa",
+        "role": "Main Rapper, Main Dancer, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/BABYMONSTER",
+        "member_slug": "/profiles/idol/Ahyeon",
+        "role": "Main Vocalist, Rapper, Dancer, Visual, Center"
+    },
+    {
+        "group_slug": "/profiles/group/BABYMONSTER",
+        "member_slug": "/profiles/idol/Rami",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/BABYMONSTER",
+        "member_slug": "/profiles/idol/Rora2",
+        "role": "Lead Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/BABYMONSTER",
+        "member_slug": "/profiles/idol/Chiquita",
+        "role": "Lead Dancer, Vocalist, Rapper, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/ILLIT",
+        "member_slug": "/profiles/idol/Yunah",
+        "role": "Member"
+    },
+    {
+        "group_slug": "/profiles/group/ILLIT",
+        "member_slug": "/profiles/idol/Minju6",
+        "role": "Member"
+    },
+    {
+        "group_slug": "/profiles/group/ILLIT",
+        "member_slug": "/profiles/idol/Moka",
+        "role": "Member"
+    },
+    {
+        "group_slug": "/profiles/group/ILLIT",
+        "member_slug": "/profiles/idol/Wonhee",
+        "role": "Member"
+    },
+    {
+        "group_slug": "/profiles/group/ILLIT",
+        "member_slug": "/profiles/idol/Iroha",
+        "role": "Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/MONSTA-X",
+        "member_slug": "/profiles/idol/Shownu",
+        "role": "Leader, Main Dancer, Lead Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/MONSTA-X",
+        "member_slug": "/profiles/idol/Minhyuk",
+        "role": "Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/MONSTA-X",
+        "member_slug": "/profiles/idol/Kihyun",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/MONSTA-X",
+        "member_slug": "/profiles/idol/Hyungwon",
+        "role": "Lead Dancer, Sub Vocalist, Sub Rapper, Visual, Center"
+    },
+    {
+        "group_slug": "/profiles/group/MONSTA-X",
+        "member_slug": "/profiles/idol/Joohoney",
+        "role": "Main Rapper, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/MONSTA-X",
+        "member_slug": "/profiles/idol/im",
+        "role": "Lead Rapper, Sub Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/i-dle",
+        "member_slug": "/profiles/idol/Miyeon",
+        "role": "Main Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/i-dle",
+        "member_slug": "/profiles/idol/Minnie",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/i-dle",
+        "member_slug": "/profiles/idol/Soyeon3",
+        "role": "Leader, Main Rapper, Vocalist, Center, Composer, Lyricist, Producer"
+    },
+    {
+        "group_slug": "/profiles/group/i-dle",
+        "member_slug": "/profiles/idol/Yuqi",
+        "role": "Main Dancer, Vocalist, Sub Rapper, Face of the Group"
+    },
+    {
+        "group_slug": "/profiles/group/i-dle",
+        "member_slug": "/profiles/idol/Shuhua",
+        "role": "Sub Vocalist, Visual, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/SHINee",
+        "member_slug": "/profiles/idol/Onew",
+        "role": "Leader, Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/SHINee",
+        "member_slug": "/profiles/idol/Key",
+        "role": "Lead Rapper, Lead Dancer, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/SHINee",
+        "member_slug": "/profiles/idol/Minho",
+        "role": "Main Rapper, Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/SHINee",
+        "member_slug": "/profiles/idol/Taemin",
+        "role": "Main Dancer, Sub Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/IVE",
+        "member_slug": "/profiles/idol/Gaeul5",
+        "role": "Main Dancer, Lead Rapper, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/IVE",
+        "member_slug": "/profiles/idol/Yujin3",
+        "role": "Leader, Main Vocalist, Main Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/IVE",
+        "member_slug": "/profiles/idol/Rei2",
+        "role": "Main Rapper, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/IVE",
+        "member_slug": "/profiles/idol/Wonyoung",
+        "role": "Vocalist, Dancer, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/IVE",
+        "member_slug": "/profiles/idol/Liz2",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/IVE",
+        "member_slug": "/profiles/idol/Leeseo",
+        "role": "Lead Dancer, Vocalist, Visual, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/Girls-Generation",
+        "member_slug": "/profiles/idol/Taeyeon",
+        "role": "Leader, Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Girls-Generation",
+        "member_slug": "/profiles/idol/Sunny",
+        "role": "Lead Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/Girls-Generation",
+        "member_slug": "/profiles/idol/Tiffany-Young",
+        "role": "Lead Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/Girls-Generation",
+        "member_slug": "/profiles/idol/Hyoyeon",
+        "role": "Main Dancer, Main Rapper, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Girls-Generation",
+        "member_slug": "/profiles/idol/Yuri",
+        "role": "Main Dancer, Lead Rapper, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Girls-Generation",
+        "member_slug": "/profiles/idol/Sooyoung",
+        "role": "Lead Dancer, Lead Rapper, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Girls-Generation",
+        "member_slug": "/profiles/idol/Yoona",
+        "role": "Lead Dancer, Lead Rapper, Sub Vocalist, Visual, Center"
+    },
+    {
+        "group_slug": "/profiles/group/Girls-Generation",
+        "member_slug": "/profiles/idol/Seohyun",
+        "role": "Lead Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/Wanna-One",
+        "member_slug": "/profiles/idol/Jisung",
+        "role": "Leader, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Wanna-One",
+        "member_slug": "/profiles/idol/Ha-Sung-Woon",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Wanna-One",
+        "member_slug": "/profiles/idol/Hwang-Min-Hyun",
+        "role": "Lead Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/Wanna-One",
+        "member_slug": "/profiles/idol/Seongwu",
+        "role": "Main Dancer, Lead Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Wanna-One",
+        "member_slug": "/profiles/idol/Kim-Jaehwan",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Wanna-One",
+        "member_slug": "/profiles/idol/Kang-Daniel",
+        "role": "Main Dancer, Lead Rapper, Sub Vocalist, Center"
+    },
+    {
+        "group_slug": "/profiles/group/Wanna-One",
+        "member_slug": "/profiles/idol/Park-Jihoon",
+        "role": "Lead Dancer, Sub Vocalist, Sub Rapper, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/Wanna-One",
+        "member_slug": "/profiles/idol/Woojin",
+        "role": "Main Dancer, Main Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/Wanna-One",
+        "member_slug": "/profiles/idol/Jinyoung2",
+        "role": "Lead Dancer, Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/Wanna-One",
+        "member_slug": "/profiles/idol/Daehwi",
+        "role": "Lead Vocalist, Lead Dancer, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/Wanna-One",
+        "member_slug": "/profiles/idol/Kuanlin",
+        "role": "Lead Rapper, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/NewJeans",
+        "member_slug": "/profiles/idol/Minji8",
+        "role": "Member"
+    },
+    {
+        "group_slug": "/profiles/group/NewJeans",
+        "member_slug": "/profiles/idol/Hanni",
+        "role": "Member"
+    },
+    {
+        "group_slug": "/profiles/group/NewJeans",
+        "member_slug": "/profiles/idol/Haerin2",
+        "role": "Member"
+    },
+    {
+        "group_slug": "/profiles/group/NewJeans",
+        "member_slug": "/profiles/idol/Hyein4",
+        "role": "Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Johnny",
+        "role": "Dancer, Rapper, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Taeyong",
+        "role": "Leader, Rapper, Dancer, Vocalist, Center, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Yuta",
+        "role": "Dancer, Rapper, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Kun",
+        "role": "Vocalist, Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Doyoung",
+        "role": "Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Ten",
+        "role": "Dancer, Rapper, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Jaehyun",
+        "role": "Vocalist, Dancer, Rapper, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Jungwoo",
+        "role": "Vocalist, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Xiaojun",
+        "role": "Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Hendery",
+        "role": "Dancer, Rapper, Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Renjun",
+        "role": "Vocalist, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Jeno",
+        "role": "Dancer, Rapper, Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Haechan",
+        "role": "Vocalist, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Jaemin",
+        "role": "Rapper, Dancer, Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/YangYang",
+        "role": "Rapper, Dancer, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Chenle",
+        "role": "Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Jisung2",
+        "role": "Dancer, Vocalist, Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Sion6",
+        "role": "Lead Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Riku3",
+        "role": "Main Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Yushi",
+        "role": "Main Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Jaehee",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Ryo2",
+        "role": "Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT",
+        "member_slug": "/profiles/idol/Sakuya",
+        "role": "Dancer, Vocalist, Rapper, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/KATSEYE",
+        "member_slug": "/profiles/idol/Manon",
+        "role": "Center, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/KATSEYE",
+        "member_slug": "/profiles/idol/Sophia3",
+        "role": "Leader, Lead Vocalist, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/KATSEYE",
+        "member_slug": "/profiles/idol/Daniela",
+        "role": "Main Dancer, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/KATSEYE",
+        "member_slug": "/profiles/idol/Lara2",
+        "role": "Main Vocalist, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/KATSEYE",
+        "member_slug": "/profiles/idol/Megan",
+        "role": "Lead Dancer, Vocalist, Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/KATSEYE",
+        "member_slug": "/profiles/idol/Yoonchae",
+        "role": "Lead Dancer, Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/EXO-CBX",
+        "member_slug": "/profiles/idol/Xiumin",
+        "role": "Leader, Main Rapper, Main Dancer, Lead Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/EXO-CBX",
+        "member_slug": "/profiles/idol/Baekhyun",
+        "role": "Main Vocalist, Lead Rapper, Lead Dancer, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/EXO-CBX",
+        "member_slug": "/profiles/idol/Chen",
+        "role": "Main Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-Dream",
+        "member_slug": "/profiles/idol/Renjun",
+        "role": "Main Vocalist, Lead Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-Dream",
+        "member_slug": "/profiles/idol/Jeno",
+        "role": "Lead Dancer, Lead Rapper, Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-Dream",
+        "member_slug": "/profiles/idol/Haechan",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-Dream",
+        "member_slug": "/profiles/idol/Jaemin",
+        "role": "Rapper, Dancer, Visual, Center"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-Dream",
+        "member_slug": "/profiles/idol/Chenle",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-Dream",
+        "member_slug": "/profiles/idol/Jisung2",
+        "role": "Main Dancer, Sub Vocalist, Sub Rapper, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/NMIXX",
+        "member_slug": "/profiles/idol/Lily3",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NMIXX",
+        "member_slug": "/profiles/idol/Haewon2",
+        "role": "Leader, Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NMIXX",
+        "member_slug": "/profiles/idol/Sullyoon",
+        "role": "Visual, Lead Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NMIXX",
+        "member_slug": "/profiles/idol/Bae",
+        "role": "Vocalist, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/NMIXX",
+        "member_slug": "/profiles/idol/Jiwoo8",
+        "role": "Main Rapper, Lead Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/NMIXX",
+        "member_slug": "/profiles/idol/Kyujin",
+        "role": "Maknae, Main Dancer, Rapper, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Hearts2Hearts",
+        "member_slug": "/profiles/idol/Carmen",
+        "role": "Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Hearts2Hearts",
+        "member_slug": "/profiles/idol/Jiwoo10",
+        "role": "Leader, Dancer, Rapper, Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/Hearts2Hearts",
+        "member_slug": "/profiles/idol/Yuha",
+        "role": "Vocalist, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/Hearts2Hearts",
+        "member_slug": "/profiles/idol/Stella",
+        "role": "Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Hearts2Hearts",
+        "member_slug": "/profiles/idol/Juun",
+        "role": "Main Dancer, Rapper, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Hearts2Hearts",
+        "member_slug": "/profiles/idol/A-na",
+        "role": "Rapper, Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/Hearts2Hearts",
+        "member_slug": "/profiles/idol/Ian5",
+        "role": "Dancer, Vocalist, Visual, Center"
+    },
+    {
+        "group_slug": "/profiles/group/Hearts2Hearts",
+        "member_slug": "/profiles/idol/Ye-on",
+        "role": "Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/Dreamcatcher",
+        "member_slug": "/profiles/idol/JiU",
+        "role": "Leader, Lead Vocalist, Lead Dancer, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/Dreamcatcher",
+        "member_slug": "/profiles/idol/SuA",
+        "role": "Main Dancer, Lead Rapper, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Dreamcatcher",
+        "member_slug": "/profiles/idol/Siyeon",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Dreamcatcher",
+        "member_slug": "/profiles/idol/Handong",
+        "role": "Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Dreamcatcher",
+        "member_slug": "/profiles/idol/Yoohyeon",
+        "role": "Lead Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Dreamcatcher",
+        "member_slug": "/profiles/idol/Dami",
+        "role": "Main Rapper, Lead Dancer, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/Dreamcatcher",
+        "member_slug": "/profiles/idol/Gahyun4",
+        "role": "Lead Rapper, Sub Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/P1Harmony",
+        "member_slug": "/profiles/idol/Theo",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/P1Harmony",
+        "member_slug": "/profiles/idol/Keeho",
+        "role": "Leader, Main Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/P1Harmony",
+        "member_slug": "/profiles/idol/Jiung",
+        "role": "Lead Vocalist, Lead Dancer, Lead Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/P1Harmony",
+        "member_slug": "/profiles/idol/Intak",
+        "role": "Main Dancer, Main Rapper, Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/P1Harmony",
+        "member_slug": "/profiles/idol/Soul",
+        "role": "Main Dancer, Sub Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/P1Harmony",
+        "member_slug": "/profiles/idol/Jongseob",
+        "role": "Main Rapper, Dancer, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Johnny",
+        "role": "Lead Dancer, Sub Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Taeyong",
+        "role": "Main Rapper, Main Dancer, Sub Vocalist, Visual, Center"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Yuta",
+        "role": "Lead Dancer, Sub Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Kun",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Doyoung",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Ten",
+        "role": "Main Dancer, Main Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Jaehyun",
+        "role": "Main Vocalist, Lead Dancer, Sub Rapper, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Jungwoo",
+        "role": "Lead Vocalist, Lead Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Xiaojun",
+        "role": "Main Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Hendery",
+        "role": "Main Rapper, Lead Dancer, Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Renjun",
+        "role": "Main Vocalist, Lead Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Jeno",
+        "role": "Lead Dancer, Lead Rapper, Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Haechan",
+        "role": "Main Vocalist, Lead Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Jaemin",
+        "role": "Lead Dancer, Lead Rapper, Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/YangYang",
+        "role": "Main Rapper, Lead Dancer, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Chenle",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/NCT-U",
+        "member_slug": "/profiles/idol/Jisung2",
+        "role": "Main Dancer, Sub Rapper, Sub Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/LOONA",
+        "member_slug": "/profiles/idol/ViVi",
+        "role": "Member"
+    },
+    {
+        "group_slug": "/profiles/group/LOONA",
+        "member_slug": "/profiles/idol/Yves",
+        "role": "yyxy Leader"
+    },
+    {
+        "group_slug": "/profiles/group/LOONA",
+        "member_slug": "/profiles/idol/JinSoul",
+        "role": "Member"
+    },
+    {
+        "group_slug": "/profiles/group/LOONA",
+        "member_slug": "/profiles/idol/HaSeul",
+        "role": "Leader, 1/3 Leader"
+    },
+    {
+        "group_slug": "/profiles/group/LOONA",
+        "member_slug": "/profiles/idol/Kim-Lip",
+        "role": "ODD EYE CIRCLE Leader"
+    },
+    {
+        "group_slug": "/profiles/group/LOONA",
+        "member_slug": "/profiles/idol/HeeJin",
+        "role": "Member"
+    },
+    {
+        "group_slug": "/profiles/group/LOONA",
+        "member_slug": "/profiles/idol/HyunJin",
+        "role": "Member"
+    },
+    {
+        "group_slug": "/profiles/group/LOONA",
+        "member_slug": "/profiles/idol/Go-Won",
+        "role": "Vocalist, Rapper, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/LOONA",
+        "member_slug": "/profiles/idol/Choerry",
+        "role": "Vocalist, Rapper, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/LOONA",
+        "member_slug": "/profiles/idol/HyeJu2",
+        "role": "Vocalist, Rapper, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/LOONA",
+        "member_slug": "/profiles/idol/YeoJin",
+        "role": "Vocalist, Rapper, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/MAMAMOO",
+        "member_slug": "/profiles/idol/Solar",
+        "role": "Leader, Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/MAMAMOO",
+        "member_slug": "/profiles/idol/Moonbyul",
+        "role": "Main Rapper, Performer"
+    },
+    {
+        "group_slug": "/profiles/group/MAMAMOO",
+        "member_slug": "/profiles/idol/Wheein",
+        "role": "Vocalist, Performer"
+    },
+    {
+        "group_slug": "/profiles/group/MAMAMOO",
+        "member_slug": "/profiles/idol/Hwasa",
+        "role": "Vocalist, Rapper, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/GFRIEND",
+        "member_slug": "/profiles/idol/Sowon",
+        "role": "Leader, Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/GFRIEND",
+        "member_slug": "/profiles/idol/Yerin",
+        "role": "Lead Dancer, Sub Vocalist, Center, Face of the Group"
+    },
+    {
+        "group_slug": "/profiles/group/GFRIEND",
+        "member_slug": "/profiles/idol/Eunha",
+        "role": "Lead Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/GFRIEND",
+        "member_slug": "/profiles/idol/Yuju",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/GFRIEND",
+        "member_slug": "/profiles/idol/SinB",
+        "role": "Main Dancer, Sub Vocalist, Center"
+    },
+    {
+        "group_slug": "/profiles/group/GFRIEND",
+        "member_slug": "/profiles/idol/Umji",
+        "role": "Sub Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/ASTRO",
+        "member_slug": "/profiles/idol/MJ",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/ASTRO",
+        "member_slug": "/profiles/idol/Jinjin",
+        "role": "Leader, Main Rapper, Lead Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/ASTRO",
+        "member_slug": "/profiles/idol/Cha-Eunwoo",
+        "role": "Vocalist, Visual, Face of The Group"
+    },
+    {
+        "group_slug": "/profiles/group/ASTRO",
+        "member_slug": "/profiles/idol/Sanha",
+        "role": "Lead Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/BIGBANG",
+        "member_slug": "/profiles/idol/Taeyang",
+        "role": "Main Vocalist, Main Dancer, Center"
+    },
+    {
+        "group_slug": "/profiles/group/BIGBANG",
+        "member_slug": "/profiles/idol/G-Dragon",
+        "role": "Leader, Main Rapper, Vocalist, Face of the Group"
+    },
+    {
+        "group_slug": "/profiles/group/BIGBANG",
+        "member_slug": "/profiles/idol/Daesung",
+        "role": "Lead Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/BOYNEXTDOOR",
+        "member_slug": "/profiles/idol/Sungho",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/BOYNEXTDOOR",
+        "member_slug": "/profiles/idol/Riwoo",
+        "role": "Main Dancer, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/BOYNEXTDOOR",
+        "member_slug": "/profiles/idol/Jaehyun5",
+        "role": "Leader, Main Rapper, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/BOYNEXTDOOR",
+        "member_slug": "/profiles/idol/Taesan",
+        "role": "Lead Rapper, Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/BOYNEXTDOOR",
+        "member_slug": "/profiles/idol/Leehan",
+        "role": "Lead Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/BOYNEXTDOOR",
+        "member_slug": "/profiles/idol/Woonhak",
+        "role": "Vocalist, Rapper, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/LNGSHOT",
+        "member_slug": "/profiles/idol/Ohyul",
+        "role": "Leader, Lead Vocalist, Lead Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/LNGSHOT",
+        "member_slug": "/profiles/idol/Ryul2",
+        "role": "Main Rapper, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/LNGSHOT",
+        "member_slug": "/profiles/idol/Woojin6",
+        "role": "Composer, Main Dancer, Lead Rapper, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/LNGSHOT",
+        "member_slug": "/profiles/idol/Louis3",
+        "role": "Main Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/iKON",
+        "member_slug": "/profiles/idol/Jay2",
+        "role": "Leader, Main Vocalist, Lead Dancer, Center"
+    },
+    {
+        "group_slug": "/profiles/group/iKON",
+        "member_slug": "/profiles/idol/Song",
+        "role": "Lead Vocalist, Visual, Center"
+    },
+    {
+        "group_slug": "/profiles/group/iKON",
+        "member_slug": "/profiles/idol/Bobby",
+        "role": "Main Rapper, Sub Vocalist, Face Of The Group"
+    },
+    {
+        "group_slug": "/profiles/group/iKON",
+        "member_slug": "/profiles/idol/DK2",
+        "role": "Main Dancer, Lead Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/iKON",
+        "member_slug": "/profiles/idol/Ju-ne",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/iKON",
+        "member_slug": "/profiles/idol/Chan",
+        "role": "Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/XLOV",
+        "member_slug": "/profiles/idol/Wumuti",
+        "role": "Leader, Lead Vocalist, Producer"
+    },
+    {
+        "group_slug": "/profiles/group/XLOV",
+        "member_slug": "/profiles/idol/Rui3",
+        "role": "Main Dancer, Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/XLOV",
+        "member_slug": "/profiles/idol/Hyun7",
+        "role": "Main Vocalist, Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/XLOV",
+        "member_slug": "/profiles/idol/Haru6",
+        "role": "Lead Dancer, Sub Vocalist, Rapper, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/ZEROBASEONE",
+        "member_slug": "/profiles/idol/Kim-Jiwoong",
+        "role": "Vocalist, Rapper, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/ZEROBASEONE",
+        "member_slug": "/profiles/idol/Sung-Hanbin",
+        "role": "Leader, Vocalist, Main Dancer, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/ZEROBASEONE",
+        "member_slug": "/profiles/idol/Seok-Matthew",
+        "role": "Vocalist, Rapper, Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/ZEROBASEONE",
+        "member_slug": "/profiles/idol/Kim-Tae-Rae",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/ZEROBASEONE",
+        "member_slug": "/profiles/idol/Park-Gun-Wook",
+        "role": "Rapper, Vocalist, Dancer, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/izone",
+        "member_slug": "/profiles/idol/Kwon-Eunbi",
+        "role": "Leader, Main Dancer, Lead Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/izone",
+        "member_slug": "/profiles/idol/Sakura",
+        "role": "Sub Vocalist, Sub Rapper, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/izone",
+        "member_slug": "/profiles/idol/Kang-Hyewon",
+        "role": "Lead Rapper, Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/izone",
+        "member_slug": "/profiles/idol/Yena2",
+        "role": "Main Rapper, Lead Vocalist, Lead Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/izone",
+        "member_slug": "/profiles/idol/Lee-Chae-Yeon",
+        "role": "Main Dancer, Lead Vocalist, Lead Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/izone",
+        "member_slug": "/profiles/idol/Kim-Chaewon",
+        "role": "Lead Vocalist, Lead Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/izone",
+        "member_slug": "/profiles/idol/Minju3",
+        "role": "Lead Rapper, Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/izone",
+        "member_slug": "/profiles/idol/Nako",
+        "role": "Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/izone",
+        "member_slug": "/profiles/idol/Hitomi",
+        "role": "Lead Dancer, Sub Vocalist, Sub Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/izone",
+        "member_slug": "/profiles/idol/Jo-Yuri",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/izone",
+        "member_slug": "/profiles/idol/Yujin3",
+        "role": "Lead Vocalist, Lead Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/izone",
+        "member_slug": "/profiles/idol/Wonyoung",
+        "role": "Lead Dancer, Sub Vocalist, Sub Rapper, Center, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/TEAM",
+        "member_slug": "/profiles/idol/K",
+        "role": "Performance Leader, Main Dancer, Center"
+    },
+    {
+        "group_slug": "/profiles/group/TEAM",
+        "member_slug": "/profiles/idol/Fuma",
+        "role": "Sub-Leader"
+    },
+    {
+        "group_slug": "/profiles/group/TEAM",
+        "member_slug": "/profiles/idol/Nicholas",
+        "role": "Main Rapper, Lead Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/TEAM",
+        "member_slug": "/profiles/idol/EJ4",
+        "role": "Leader"
+    },
+    {
+        "group_slug": "/profiles/group/TEAM",
+        "member_slug": "/profiles/idol/Yuma3",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/TEAM",
+        "member_slug": "/profiles/idol/Jo",
+        "role": "Vocalist, Visual, Center"
+    },
+    {
+        "group_slug": "/profiles/group/TEAM",
+        "member_slug": "/profiles/idol/Harua",
+        "role": "Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/TEAM",
+        "member_slug": "/profiles/idol/Taki",
+        "role": "Lead Dancer, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/TEAM",
+        "member_slug": "/profiles/idol/Maki",
+        "role": "Main Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/EVERGLOW",
+        "member_slug": "/profiles/idol/eu",
+        "role": "Main Rapper, Main Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/EVERGLOW",
+        "member_slug": "/profiles/idol/Sihyeon2",
+        "role": "Leader, Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/EVERGLOW",
+        "member_slug": "/profiles/idol/Onda",
+        "role": "Lead Dancer, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/EVERGLOW",
+        "member_slug": "/profiles/idol/Aisha",
+        "role": "Lead Rapper, Lead Dancer, Sub Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/YooYeon",
+        "role": "Leader, Vocalist, Visual, Center"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/Mayu",
+        "role": "Vocalist, Hatchi! Leader"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/Xinyu",
+        "role": "Visual, Sun Leader"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/NaKyoung",
+        "role": "Dancer, Vocalist, Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/SoHyun3",
+        "role": "Dancer, Vocalist, Rapper, Producer, Composer, Lyricist"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/DaHyun4",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/Nien",
+        "role": "Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/SeoYeon",
+        "role": "Neptune Leader, LOVElution Leader, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/JiYeon5",
+        "role": "Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/Kotone",
+        "role": "Main Dancer, Main Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/ChaeYeon",
+        "role": "Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/YuBin7",
+        "role": "Main Dancer, Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/JiWoo11",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/Kaede",
+        "role": "Main Dancer, Vocalist, Rapper, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/ShiOn2",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/Lynn2",
+        "role": "Main Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/Sullin",
+        "role": "Moon Leader"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/HyeRin2",
+        "role": "Visionary Vision Leader, Main Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/ChaeWon2",
+        "role": "Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/HaYeon6",
+        "role": "Vocalist, Dancer, Zenith Leader"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/SooMin4",
+        "role": "Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/YeonJi3",
+        "role": "Dancer, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/JooBin",
+        "role": "Visual"
+    },
+    {
+        "group_slug": "/profiles/group/tripleS",
+        "member_slug": "/profiles/idol/SeoAh2",
+        "role": "Vocalist, Maknae"
+    },
+    {
+        "group_slug": "/profiles/group/SUPER-JUNIOR",
+        "member_slug": "/profiles/idol/Leeteuk",
+        "role": "Leader, Sub Vocalist, Sub Rapper, Face of the Group"
+    },
+    {
+        "group_slug": "/profiles/group/SUPER-JUNIOR",
+        "member_slug": "/profiles/idol/Heechul",
+        "role": "Sub Vocalist, Sub Rapper, Visual, Face of the Group"
+    },
+    {
+        "group_slug": "/profiles/group/SUPER-JUNIOR",
+        "member_slug": "/profiles/idol/Yesung",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/SUPER-JUNIOR",
+        "member_slug": "/profiles/idol/Shindong",
+        "role": "Main Dancer, Lead Rapper, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/SUPER-JUNIOR",
+        "member_slug": "/profiles/idol/Sungmin",
+        "role": "Lead Vocalist, Lead Dancer"
+    },
+    {
+        "group_slug": "/profiles/group/SUPER-JUNIOR",
+        "member_slug": "/profiles/idol/Eunhyuk",
+        "role": "Main Rapper, Main Dancer, Sub Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/SUPER-JUNIOR",
+        "member_slug": "/profiles/idol/Siwon",
+        "role": "Center, Sub Vocalist, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/SUPER-JUNIOR",
+        "member_slug": "/profiles/idol/Donghae",
+        "role": "Lead Vocalist, Lead Dancer, Sub Rapper, Visual"
+    },
+    {
+        "group_slug": "/profiles/group/SUPER-JUNIOR",
+        "member_slug": "/profiles/idol/Ryeowook",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/SUPER-JUNIOR",
+        "member_slug": "/profiles/idol/Kyuhyun",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/XG",
+        "member_slug": "/profiles/idol/Chisa",
+        "role": "Main Vocalist, Sub-Leader"
+    },
+    {
+        "group_slug": "/profiles/group/XG",
+        "member_slug": "/profiles/idol/Hinata2",
+        "role": "Main Dancer, Sub-Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/XG",
+        "member_slug": "/profiles/idol/Jurin",
+        "role": "Leader, Main Dancer, Lead Rapper, Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/XG",
+        "member_slug": "/profiles/idol/Harvey",
+        "role": "Main Rapper, Sub-Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/XG",
+        "member_slug": "/profiles/idol/Juria",
+        "role": "Main Vocalist"
+    },
+    {
+        "group_slug": "/profiles/group/XG",
+        "member_slug": "/profiles/idol/Maya2",
+        "role": "Lead Vocalist, Lead Rapper"
+    },
+    {
+        "group_slug": "/profiles/group/XG",
+        "member_slug": "/profiles/idol/Cocona2",
+        "role": "Main Rapper, Maknae"
+    }
+]

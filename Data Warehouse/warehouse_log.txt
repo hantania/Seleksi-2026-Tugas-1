@@ -1,0 +1,14 @@
+2026-07-22 15:59:05,418 - INFO - Memulai proses ETL migrasi dari DB OLTP (kpopdb) ke DB DWH (kpopdw)
+2026-07-22 15:59:05,418 - INFO - Menghubungkan koneksi ke database OLTP dan Data Warehouse
+2026-07-22 15:59:05,615 - INFO - Membuat skema berdasarkan script di 'd:\Programmer Handal\LAB-BASDAT\Seleksi-2026-Tugas-1\Data Warehouse\src\dw_schema.sql'
+2026-07-22 15:59:05,784 - INFO - Berhasil membuat skema Data Warehouse
+2026-07-22 15:59:05,784 - INFO - Memulai ekstraksi dari labels OLTP ke dim_label OLAP
+2026-07-22 15:59:05,830 - INFO - Berhasil migrasi data dim_label
+2026-07-22 15:59:05,831 - INFO - Memulai ekstraksi data groups OLTP ke dim_group OLAP
+2026-07-22 15:59:05,864 - INFO - Berhasil migrasi data dim_group
+2026-07-22 15:59:05,865 - INFO - Memulai ekstraksi data fandoms OLTP ke dim_fandom OLAP
+2026-07-22 15:59:05,879 - INFO - Berhasil migrasi data dim_fandom
+2026-07-22 15:59:05,879 - INFO - Memulai ekstraksi dari group_metrics OLTP ke fact_group_metrics OLAP
+2026-07-22 15:59:05,941 - INFO - Berhasil migrasi 50 data fact_group_metrics
+2026-07-22 15:59:05,941 - INFO - Berhasil migrasi semua data dari OLTP ke Data Warehouse
+2026-07-22 15:59:05,941 - INFO - Menutup seluruh koneksi database
