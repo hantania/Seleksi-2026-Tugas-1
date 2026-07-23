@@ -20,9 +20,9 @@
 
 ## Deskripsi Proyek
 
-**Kpopping** merupakan website ensiklopedia K-Pop yang menyediakan berbagai informasi mengenai industri K-Pop. Informasi tersebut dikelompokkan ke dalam beragam kategori unik, seperti kategori idol yang mengikuti wajib militer, group sesuai generasi, dan kategori lainnya. Berdasarkan kategori yang tersedia, kategori yang dipilih adalah **50 Group K-Pop Terpopuler Berdasarkan Bias Votes**. 
+**Kpopping** merupakan website Database K-Pop yang menyediakan berbagai informasi mengenai industri K-Pop. Informasi tersebut dikelompokkan ke dalam beragam kategori unik. Berdasarkan kategori yang tersedia, kategori yang dipilih adalah **50 Group K-Pop Terpopuler Berdasarkan Bias Votes**.
 
-Topik ini dipilih berdasarkan ketertarikan pribadi terhadap dunia K-Pop sekaligus karena data yang disediakan oleh KPopping sangat beragam. Keberagaman data tersebut memungkinkan analisis yang lebih mendalam mengenai faktor-faktor yang berkaitan dengan popularitas suatu grup K-Pop
+Topik ini dipilih berdasarkan ketertarikan pribadi terhadap dunia K-Pop sekaligus karena data yang disediakan oleh KPopping sangat beragam. Keberagaman data tersebut memungkinkan saya untuk menganalisis lebih lanjut terkait popularitas, skill score, album, idol, label, fandom yang terkait dengan grup K-Pop populer.
 
 ---
 
@@ -472,13 +472,18 @@ ORDER BY total_bias_votes DESC;
 
 ## BONUS: AUTOMATED SCHEDULING
 
-Untuk memudahkan proses ETL, dibuat penjadwalan otomatis (Automated Scheduling) dengan menggunakan **Windows Task Scheduler**.
+Untuk memudahkan proses ETL, dibuat penjadwalan otomatis untuk menjalankan `run_pipeline.py` dengan menggunakan **Windows Task Scheduler**. Idealnya penjadwalan dijalankan 1 hari sekali.
 
-Idealnya penjadwalan dijalankan 1 hari sekali.
+#### Bukti Eksekusi Task Scheduler:
 
+* **Pengaturan Action pada Task Scheduler**:
+<img src="./Automated Scheduling/screenshot/v1_scheduler_action.png" alt="Task Scheduler Action" width="100%">
 
+* **Bukti Eksekusi Task Scheduler**:
+<img src="./Automated Scheduling/screenshot/v1_scheduler_proof.png" alt="Task Scheduler Proof" width="100%">
 
----
+* **Timestamp Batch Data**:
+<img src="./Automated Scheduling/screenshot/timestamp_batch.png" alt="Timestamp Batch Proof" width="100%">
 
 ## BONUS: QUERY OPTIMIZATION
 
@@ -556,16 +561,29 @@ Penggunaan index idx_albums_release_group: index search 1x dan mengembalikan 2 b
 
 ## Penggunaan AI
 
+### 1. Bagian yang Dibantu AI
+* **Data Scraping**: Membantu penyusunan kode yang melibatkan library Playwright karena saya kurang paham, sekaligus membantu debug
+* **Data Transformation**: Membantu penyusunan kode pembersihan yang kurang saya pahami (seperti penanganan null dan duplikasi ID)
+* **Data Modeling**: Memberikan feedback rancangan ERD dan Relational Diagram
+* **Data Storing & Warehousing**: Membantu penyusunan kode connect dan insert di bagian awal (yang kemudian saya jadikan acuan untuk menulis kode-kode selanjutnya)
+* **Formatting  Readme**: Agar lebih rapi
+
+### 2. Bagian yang Dikerjakan Sendiri
+* **Data Scraping**: Menentukan topik, melihat dan menentukan tag HTML yang akan diekstrak, menyusun kode scrap saat pakai soup dan request
+* **Data Modeling**: Merancang ERD dan Relational Diagram, dan menentukan konsep/teori DBMS yang akan diimplementasi sesuai slide kuliah
+* **Data Storing & Warehousing**: Melanjutkan kode insert untuk seluruh tabel (mengacu pada pola kode yang dibuat AI)
+* **Evaluasi & Pengujian**: Melakukan verifikasi ulang dan pengujian mandiri terhadap seluruh kode untuk memastikan kesesuaian logika sistem.
+
+### 3. Refleksi Penggunaan AI
+AI sangat membantu dalam hal brainstorming, pemberian feedback, mengajarkan saya menggunakan library yang kurang saya pahami hingga debugging (salah satunya saat terkendala duplikat ID). AI membuat saya menyelesaikan proyek dengan efisien. Seluruh proses yang dilakukan telah saya evaluasi dan dipastikan telah sesuai dengan apa yang saya pahami.
+
 ---
+
 ## Referensi
 
-1. **Website Sumber Data**:
-   - [Kpopping - K-Pop Encyclopedia & Rankings](https://kpopping.com)
-2. **Library & Tools Python**:
-   - `requests` (v2.31+) - HTTP Request
-   - `beautifulsoup4` (v4.12+) - HTML Parsing & Scrape
-   - `playwright` (v1.40+) - Headless Browser Automation
-   - `psycopg2-binary` (v2.9+) - PostgreSQL Database Adapter
-   - `python-dotenv` (v1.0+) - Environment Variable Manager
-3. **Database**:
-   - PostgreSQL (v15+)
+1. [Website Kpopping](https://kpopping.com)
+2. [Dokumentasi requests](https://requests.readthedocs.io/)
+3. [Dokumentasi BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+4. [Dokumentasi psycopg2](https://www.psycopg.org/docs/)
+5. [Dokumentasi PostgreSQL](https://www.postgresql.org/docs/)
+6. Slide Kuliah Pemodelan Basis Data dan Manajemen Basis Data ITB
