@@ -10,7 +10,7 @@ import sys
 Berisi helper global yang digunakan oleh scraper
 '''
 BASE_URL = "https://kpopping.com"
-HEADERS  = {"user-agent": "Mozilla/5.0; (Windows NT 10.0; Win64; x64)"}
+HEADERS  = {"user-agent": "Mozilla/5.0; Seleksi Asisten Laboratorium Basis Data ITB"}
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 '''

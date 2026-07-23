@@ -20,19 +20,19 @@
 
 ## Deskripsi Proyek
 
-[Kpopping](https://kpopping.com) merupakan website ensiklopedia K-Pop yang menyediakan berbagai informasi mengenai industri K-Pop. Informasi tersebut dikelompokkan ke dalam beragam kategori unik, seperti kategori idol yang mengikuti wajib militer, group sesuai generasi, dan kategori lainnya. Berdasarkan kategori yang tersedia, kategori yang dipilih adalah **50 Group K-Pop Terpopuler Berdasarkan Bias Votes**. 
+**Kpopping** merupakan website ensiklopedia K-Pop yang menyediakan berbagai informasi mengenai industri K-Pop. Informasi tersebut dikelompokkan ke dalam beragam kategori unik, seperti kategori idol yang mengikuti wajib militer, group sesuai generasi, dan kategori lainnya. Berdasarkan kategori yang tersedia, kategori yang dipilih adalah **50 Group K-Pop Terpopuler Berdasarkan Bias Votes**. 
 
 Topik ini dipilih berdasarkan ketertarikan pribadi terhadap dunia K-Pop sekaligus karena data yang disediakan oleh KPopping sangat beragam. Keberagaman data tersebut memungkinkan analisis yang lebih mendalam mengenai faktor-faktor yang berkaitan dengan popularitas suatu grup K-Pop
 
 ---
 
-## Prerequisite
+## Prasayarat
 
-Sebelum menjalankan proyek, pastikan telah memenuhi prasyarat berikut:
+Sebelum menjalankan proyek, lakukan:
 
 1. Clone repositori:
    ```bash
-   git clone <link nnti diisi sm sy>
+   git clone https://github.com/hantania/Seleksi-2026-Tugas-1
    ```
 
 2. Masuk ke direktori proyek:
@@ -52,7 +52,7 @@ Sebelum menjalankan proyek, pastikan telah memenuhi prasyarat berikut:
 
 ### 1. Cara Menggunakan Scraper
 
-Terdapat 2 cara untuk menjalankan proses scraping yang telah dibuat:
+Terdapat 2 cara untuk menjalankan scraper:
 
 #### Cara 1: Menjalankan Script Scraping Satu per Satu
 Pindah ke direktori `Data Scraping/src` 
@@ -71,7 +71,7 @@ python transformer.py
 ```
 
 #### Cara 2: Menjalankan Pipeline
-Eksekusi script pipeline dari root direktori proyek untuk menjalankan seluruh alur secara otomatis (Scraping > Transform > Storing > Migrasi DW):
+Eksekusi script di root direktori proyek untuk menjalankan seluruh alur secara otomatis (Scraping > Transform > Storing > Migrasi DW):
 ```bash
 python run_pipeline.py
 ```
@@ -80,81 +80,87 @@ python run_pipeline.py
 
 Hasil scraping tersimpan pada direktori `Data Scraping/data/<batch_name>/` yang dibagi menjadi 2 jenis:
 
-- **Raw Data (`raw/`)**: Data mentah tanpa pengolahan lebih lanjut.
-- **Clean Data (`clean/`)**: Data yang telah dipreprocess oleh `transformer.py`
+- **Raw Data (`raw/`)**: Data mentah tanpa pengolahan lebih lanjut
+- **Clean Data (`clean/`)**: Data yang telah dipreprocess oleh `transformer.py` sehingga sudah memiliki id
 
 Struktur file JSON data bersih (`clean/`):
 
-1. `groups.json`
+1. `raw_group_details.json`
    ```json
-   {
-     "id_group": 1,
-     "name": "BTS",
-     "other_name": "Bangtan Boys",
-     "status": "ACTIVE",
-     "debut_date": "2013-06-13",
-     "id_label": 1,
-     "id_parent_group": null
-   }
+    {
+        "name": "Red Velvet",
+        "other_name": "レッドベルベット",
+        "status": "Active",
+        "debut_date": "2014-08-01",
+        "generation": "3",
+        "active_years": "2014-present"
+    }
    ```
 
-2. `group_metrics.json`
+2. `raw_group_rank.json`
    ```json
-   {
-     "id_group": 1,
-     "scraped_at": "2026-07-20 14:30:15",
-     "rank": 1,
-     "total_bias_votes": 1250400,
-     "dance_score": 9.5,
-     "vocal_score": 9.2,
-     "stage_score": 9.8,
-     "artistry_score": 9.4,
-     "visual_score": 9.3
-   }
+    {
+        "name": "Red Velvet",
+        "scraped_at": "2026-07-22 17:38:19",
+        "rank": "8",
+        "total_bias_votes": "2,588"
+    }
    ```
 
-3. `idols.json`
+3. `raw_group_score.json`
    ```json
-   {
-     "id_idol": 1,
-     "stage_name": "Jungkook",
-     "full_name": "Jeon Jung-kook",
-     "birthday": "1997-09-01",
-     "birth_adm_area": "Busan",
-     "birth_country": "South Korea",
-     "height": 179.0
-   }
+    {
+        "group_name": "Red Velvet",
+        "dance_score": "79",
+        "vocal_score": "90",
+        "stage_score": "81",
+        "artistry_score": "87",
+        "visual_score": "88"
+    }
    ```
 
-4. `labels.json`
+4. `raw_idols.json`
    ```json
-   {
-     "id_label": 1,
-     "name": "BIGHIT MUSIC",
-     "founded_year": 2005,
-     "founder": "Bang Si-hyuk"
-   }
+    {
+        "stage_name": "Jaemin",
+        "full_name": "Na Jae-min",
+        "birthday": "2000-08-13 (Age 25)",
+        "birthplace": "Seoul, South Korea",
+        "height": "177 cm"
+    }
    ```
 
-5. `albums.json`
+5. `raw_labels.json`
    ```json
-   {
-     "id_album": 10,
-     "id_group": 1,
-     "name": "Proof",
-     "type": "Anthology Album",
-     "release_date": "2022-06-10",
-     "language": "Korean"
-   }
+    {
+        "name": "SM Entertainment",
+        "founded_year": "1989",
+        "founder": "Lee Soo Man"
+    }
    ```
 
-6. `fandoms.json`
+6. `raw_albums.json`
    ```json
-   {
-     "id_fandom": 1,
-     "id_group": 1,
-     "name": "ARMY"
-   }
+    {
+        "name": "BORN PINK",
+        "type": "STUDIO",
+        "release_date": "2022-09-16",
+        "language": "Korean",
+        "description": "Born Pink is the second studio album by BLACKPINK, released on September 16, 2022, by YG Entertainment and Interscope Records."
+    }
+   ```
+
+2. `raw_fandoms.json`
+   ```json
+    {
+        "group_name": "Dreamcatcher",
+        "fandom_name": "InSomnia",
+        "color_identity": [
+            "PANTONE Black 6 C",
+            "PANTONE 7623 C",
+            "PANTONE P 10-6 C"
+        ]
+    }
    ```
 
 ---
@@ -163,15 +169,15 @@ Struktur file JSON data bersih (`clean/`):
 
 ### 1a. Struktur ERD
 
-![KPOPBD ERD](Data%20Storing/design/KPOPBD_ERD.png)
+<img src="./Data Storing/design/KPOPBD_ERD.png" alt="KPOPBD ERD" width="100%">
 
 ### 1b. Asumsi ERD
 
-![KPOPBD ERD Asumsi](Data%20Storing/design/KPOPDB_ERD_Asumsi.png)
+<img src="./Data Storing/design/KPOPDB_ERD_Asumsi.png" alt="KPOPBD ERD Asumsi" width="100%">
 
 ### 2. Diagram Relasional
 
-![KPOPDB Relational](Data%20Storing/design/KPOPDB_Relational.png)
+<img src="./Data Storing/design/KPOPDB_Relational.png" alt="KPOPDB Relational" width="100%">
 
 ### 3. Proses Translasi ERD ke Diagram Relasional
 
@@ -182,75 +188,151 @@ Translasi dari ERD ke Diagram Relasional dilakukan sesuai aturan berikut:
   
   Cara: Buat relasi baru, atributnya berisi semua atribut strong entity, dan Primary Key nya yaitu PK strong entity 
 
-  ![Strong Entity](Data%20Storing/design/strong_entity.png)
+  <img src="./Data Storing/design/strong_entity.png" alt="Strong Entity" width="100%">
   
 - **Weak Entity**
   
-  Cara: Buat relasi baru, atributnya berisi semua atribut weak entity + PK strong entity yang tertaut. Kemudian,s jadikan PK strong entity + discriminator weak entity sebagai Primary Key relasi baru
+  Cara: Buat relasi baru, atributnya berisi semua atribut weak entity + PK strong entity yang tertaut. Kemudian,sjadikan PK strong entity + discriminator weak entity sebagai Primary Key relasi baru
 
-  ![Weak Entity](Data%20Storing/design/weak_entity.png)
+  <img src="./Data Storing/design/weak_entity.png" alt="Weak Entity" width="100%">
+
+  Hasil pemetaan:
+  - tracks: (**ID_album**, **title**, genre)
+  - group_metrics: (**ID_group, scraped_at,** rank, total_bias_votes, dance_score, vocal_score, stage_score, artistry_score, visual_score)
+  
+  FK:
+  - tracks(ID_album) → albums(ID_album)
+  - group_metrics(ID_group) → groups(ID_group)
 
 #### 3.2 Pemetaan Relationship Menjadi Relasi
 - **1 to 1 Relationship**
 
   Cara: Ambil Primary Key dari salah satu strong entity ke entitas lainnya, lalu jadikan sebagai Foreign Key
 
-  ![1 to 1](Data%20Storing/design/1%20to%201.png)
+  <img src="./Data Storing/design/1 to 1.png" alt="1 to 1" width="100%">
+
+  Hasil pemetaan:
+  - fandoms: (**ID_fandom**, ID_group, name)
+
+  FK:
+  - fandoms(ID_group) → groups(ID_group)
 
 - **1 to M Relationship**
 
   Cara: Ambil Primary Key dari entitas pada sisi "one" (1), taruh di entitas pada sisi "many" (M), lalu jadikan sebagai Foreign Key
 
-  ![1 to M](Data%20Storing/design/1%20to%20M.png)
+  <img src="./Data Storing/design/1 to M.png" alt="1 to M" width="100%">
 
-- **M to M Relationship**
+  Hasil pemetaan:
+  - groups: (**ID_group**, ID_label, name, other_name, status, debut_date, generation)
+  - albums: (**ID_album**, ID_group, name, type, release_date, language, description)
+  
+  FK:
+  - groups(ID_label) → labels(ID_label)
+  - albums(ID_group) → groups(ID_group) 
+
+- **M to N Relationship**
 
   Cara: Buat relasi baru, atributnya berisi PK dari masing-masing relasi yang terhubung. Kemudian, jadikan gabungan PK kedua entitas sebagai Primary Key relasi baru
 
-  ![M to M](Data%20Storing/design/M%20to%20M.png)
+  <img src="./Data Storing/design/M to M.png" alt="M to M" width="100%">
+
+  Hasil pemetaan:
+  - group_idols: (**ID_group, ID_idol**, role)
+  - fans_fandoms: (**ID_user, ID_fandom**)
+
+  FK:
+  - group_idols(ID_group) → groups(ID_group)
+  - group_idols(ID_idol) → idols(ID_idol)
+  - fans_fandoms(ID_user) → fans_user(ID_user)
+  - fans_fandoms(ID_fandom) → fandoms(ID_fandom)
 
 #### 3.3 Pemetaan Lain-lain
 - **Composite Attribute**
 
   Cara: Ambil atribut paling dalam dari atribut komposit, jadikan atribut di relasi baru
 
-  ![Composite Attribute](Data%20Storing/design/composite_attribute.png)
+  <img src="./Data Storing/design/composite_attribute.png" alt="Composite Attribute" width="100%">
+  
+  Hasil pemetaan:
+  - idols: (**ID_idol**, stage_name, full_name, birthday, birth_adm_area, birth_country, height)
 
 - **Multivalue Attribute**
   
   Cara: Buat relasi baru, atributnya berisi PK strong entity dan atribut multivalue. Lalu jadikan gabungan kedua atribut sebagai Primary Key relasi tersebut
 
-  ![Multivalue Attribute](Data%20Storing/design/multivalue_attribute.png)
+  <img src="./Data Storing/design/multivalue_attribute.png" alt="Multivalue Attribute" width="100%">
+
+  Hasil pemetaan:
+  - fandom_colors: (**ID_fandom, color_identity**)
+  - group_idols: (**ID_group, ID_idol, role**)
+
+  FK:
+  - fandom_colors(ID_fandom) → fandoms(ID_fandom)
+  - group_idols(ID_group) → groups(ID_group)
+  - group_idols(ID_idol) → idols(ID_idol)
 
 - **Derived Attribute**
   
   Cara: Hilangkan derived attribute dari entity awal. Sementara itu, hitung saat query atau jadikan View
 
-  ![Derived Attribute](Data%20Storing/design/derived_attribute.png)
+  <img src="./Data Storing/design/derived_attribute.png" alt="Derived Attribute" width="100%">
 
-- **Specialization (Inheritance)**
+  Hasil pemetaan:
+  - group_metrics(total_score()) menjadi view_total_score
+  - idols(age()) menjadi view_idol_age
+
+- **Specialization**
 
   Cara: Ada 2 tipe. Saya memilih menggunakan transformasi tipe 1, yaitu buat relasi baru yang isinya seluruh atribut entitas anak + ambil PK parent (sebagai FK ke parent), sementara entitas parent-nya tidak dihapus. (Tambahan: Konsistensi perpindahan status dijamin oleh trigger)
 
-  ![Specialization](Data%20Storing/design/specialization.png)
+  <img src="./Data Storing/design/specialization.png" alt="Specialization" width="100%">
+
+  Hasil pemetaan:
+  - active_group: (**ID_group**, latest_comeback_date)
+  - hiatus_group: (**ID_group**, hiatus_year, hiatus_reason)
+  - disbanded_group: (**ID_group**, disbanded_year, disbanded_reason)
+
+  FK:
+  - active_groups(ID_group) → groups(ID_group)
+  - hiatus_groups(ID_group) → groups(ID_group)
+  - disbanded_groups(ID_group) → groups(ID_group)
 
 - **Unary Relationship**
 
   Cara: Karena 1 to M, sebagaimana pemetaan 1 to M yang menaruh PK sisi 1 ke many, tetapi di sini entitasnya sama, maka hanya membedakan nama kolom (misalnya `ID_parent_group`) yang ditaruh pada tabel `groups` dan merujuk kembali ke Primary Key `ID_group`.
 
-  ![Unary](Data%20Storing/design/unary.png)
+  <img src="./Data Storing/design/unary.png" alt="Unary" width="100%">
+
+  Hasil pemetaan:
+  - groups: (**ID_group**, ID_label, name, other_name, status, debut_date, generation, ID_parent_group)
+
+  FK:
+  - groups(ID_parent_group) → groups(ID_group)
 
 - **Ternary Relationship**
 
   Cara: Buat relasi baru, atributnya berisi PK dari masing-masing entitas yang terkait dalam relasi ternary tersebut, lalu jadikan gabungan PK ketiga entitas sebagai Primary Key relasi baru
 
-  ![Ternary](Data%20Storing/design/ternary.png)
+  <img src="./Data Storing/design/ternary.png" alt="Ternary" width="100%">
+
+  Hasil pemetaan:
+  - fans_vote_groups: (**ID_user, ID_voting, ID_group**, vote_date)
+
+  FK:
+  - fans_vote_groups(ID_user) → fans_users(ID_user)
+  - fans_vote_groups(ID_voting) → votings(ID_voting)
+  - fans_vote_groups(ID_group) → groups(ID_group)
 
 - **Relationship Attribute**
 
   Cara: Buat relasi baru, atributnya berisi PK dari masing-masing entitas yang terhubung, lalu tambahkan atribut relasi tersebut sebagai atribut tambahan.
 
-  ![Relationship Attribute](Data%20Storing/design/relationship_attribute.png)
+  <img src="./Data Storing/design/relationship_attribute.png" alt="Relationship Attribute" width="100%">
+
+  Hasil pemetaan:
+  - group_idols: (**ID_group, ID_idol**, role)
+  - fans_vote_groups: (**ID_user, ID_user, ID_group**, vote_date)
 
 ---
 
@@ -274,7 +356,7 @@ Proyek ini mengimplementasikan **PostgreSQL** sebagai RDBMS (OLTP).
    python "Data Storing/src/storing.py"
    ```
 
-3. Untuk menggunakan OLTP, perlu diingat bahwa data memuat karakter bahasa Korea (Hangeul) dan aksen khusus, maka atur codepage terminal ke UTF-8:
+3. Untuk menggunakan OLTP, perlu diingat bahwa data memuat karakter bahasa Korea (Hangeul) dan aksen khusus, maka atur codepage terminal ke UTF-8
 
    ```cmd
    chcp 65001
@@ -285,7 +367,7 @@ Proyek ini mengimplementasikan **PostgreSQL** sebagai RDBMS (OLTP).
    psql -U postgres -d kpopdb
    ```
 
-5. Tentukan Encoding UTF8 di Database
+5. Encoding UTF8 di Database
    ```sql
    \encoding UTF8
    ```
@@ -296,25 +378,25 @@ Berikut adalah bukti penyimpanan seluruh tabel dan view pada database KPOPDB:
 
 | Nama Tabel / View / Trigger | Screenshot |
 | :--- | :--- |
-| **`groups`** | ![Tabel Groups](Data%20Storing/screenshot/tabel_groups.png) |
-| **`active_groups`** | ![Tabel Active Groups](Data%20Storing/screenshot/tabel_active_groups.png) |
-| **`disbanded_groups`** | ![Tabel Disbanded Groups](Data%20Storing/screenshot/tabel_disbanded_groups.png) |
-| **`hiatus_groups`** | ![Tabel Hiatus Groups](Data%20Storing/screenshot/tabel_hiatus_groups.png) |
-| **`idols`** | ![Tabel Idols](Data%20Storing/screenshot/tabel_idols.png) |
-| **`labels`** | ![Tabel Labels](Data%20Storing/screenshot/tabel_labels.png) |
-| **`albums`** | ![Tabel Albums](Data%20Storing/screenshot/tabel_albums.png) |
-| **`tracks`** | ![Tabel Tracks](Data%20Storing/screenshot/tabel_tracks.png) |
-| **`fandoms`** | ![Tabel Fandoms](Data%20Storing/screenshot/tabel_fandoms.png) |
-| **`fandom_colors`** | ![Tabel Fandom Colors](Data%20Storing/screenshot/tabel_fandom_colors.png) |
-| **`group_idols`** | ![Tabel Group Idols](Data%20Storing/screenshot/tabel_group_idols.png) |
-| **`group_metrics`** | ![Tabel Group Metrics](Data%20Storing/screenshot/tabel_group_metrics.png) |
-| **`fans_users`** | ![Tabel Fans Users](Data%20Storing/screenshot/tabel_fans_users.png) |
-| **`fans_fandoms`** | ![Tabel Fans Fandoms](Data%20Storing/screenshot/tabel_fans_fandoms.png) |
-| **`votings`** | ![Tabel Votings](Data%20Storing/screenshot/tabel_votings.png) |
-| **`fans_vote_groups`** | ![Tabel Fans Vote Groups](Data%20Storing/screenshot/tabel_fans_vote_groups.png) |
-| **`view_total_score`** | ![View Total Score](Data%20Storing/screenshot/view_total_score.png) |
-| **`view_idol_age`** | ![View Idol Age](Data%20Storing/screenshot/view_idol_age.png) |
-| **`trigger_specialization`** | ![Trigger Specialization](Data%20Storing/screenshot/trigger_specialization.png) |
+| **`groups`** | <img src="./Data Storing/screenshot/tabel_groups.png" alt="Tabel Groups" width="100%"> |
+| **`active_groups`** | <img src="./Data Storing/screenshot/tabel_active_groups.png" alt="Tabel Active Groups" width="100%"> |
+| **`disbanded_groups`** | <img src="./Data Storing/screenshot/tabel_disbanded_groups.png" alt="Tabel Disbanded Groups" width="100%"> |
+| **`hiatus_groups`** | <img src="./Data Storing/screenshot/tabel_hiatus_groups.png" alt="Tabel Hiatus Groups" width="100%"> |
+| **`idols`** | <img src="./Data Storing/screenshot/tabel_idols.png" alt="Tabel Idols" width="100%"> |
+| **`labels`** | <img src="./Data Storing/screenshot/tabel_labels.png" alt="Tabel Labels" width="100%"> |
+| **`albums`** | <img src="./Data Storing/screenshot/tabel_albums.png" alt="Tabel Albums" width="100%"> |
+| **`tracks`** | <img src="./Data Storing/screenshot/tabel_tracks.png" alt="Tabel Tracks" width="100%"> |
+| **`fandoms`** | <img src="./Data Storing/screenshot/tabel_fandoms.png" alt="Tabel Fandoms" width="100%"> |
+| **`fandom_colors`** | <img src="./Data Storing/screenshot/tabel_fandom_colors.png" alt="Tabel Fandom Colors" width="100%"> |
+| **`group_idols`** | <img src="./Data Storing/screenshot/tabel_group_idols.png" alt="Tabel Group Idols" width="100%"> |
+| **`group_metrics`** | <img src="./Data Storing/screenshot/tabel_group_metrics.png" alt="Tabel Group Metrics" width="100%"> |
+| **`fans_users`** | <img src="./Data Storing/screenshot/tabel_fans_users.png" alt="Tabel Fans Users" width="100%"> |
+| **`fans_fandoms`** | <img src="./Data Storing/screenshot/tabel_fans_fandoms.png" alt="Tabel Fans Fandoms" width="100%"> |
+| **`votings`** | <img src="./Data Storing/screenshot/tabel_votings.png" alt="Tabel Votings" width="100%"> |
+| **`fans_vote_groups`** | <img src="./Data Storing/screenshot/tabel_fans_vote_groups.png" alt="Tabel Fans Vote Groups" width="100%"> |
+| **`view_total_score`** | <img src="./Data Storing/screenshot/view_total_score.png" alt="View Total Score" width="100%"> |
+| **`view_idol_age`** | <img src="./Data Storing/screenshot/view_idol_age.png" alt="View Idol Age" width="100%"> |
+| **`trigger_specialization`** | <img src="./Data Storing/screenshot/trigger_specialization.png" alt="Trigger Specialization" width="100%"> |
 
 ---
 
@@ -330,13 +412,13 @@ Setelah mempertimbangkan efisiensi query analitik, digunakan struktur **Star Sch
 
 ### 1a. Struktur ERD Data Warehouse
 
-![KPOPDW ERD](Data%20Warehouse/design/KPOPDW_ERD.png)
+<img src="./Data Warehouse/design/KPOPDW_ERD.png" alt="KPOPDW ERD" width="100%">
 
 ### 1b. Asumsi ERD Data Warehouse
 
 ### 2. Diagram Relasional Data Warehouse
 
-![KPOPDW Relational](Data%20Warehouse/design/KPOPDW_Relational.png)
+<img src="./Data Warehouse/design/KPOPDW_Relational.png" alt="KPOPDW Relational" width="100%">
 
 ### 3. Cara Migrasi ke Data Warehouse
 
@@ -361,77 +443,30 @@ Setelah mempertimbangkan efisiensi query analitik, digunakan struktur **Star Sch
 | Tabel Data Warehouse | Screenshot |
 | :--- | :--- |
 | **`fact_group_metrics`** | *(Placeholder Screenshot Tabel Fact Group Metrics)* |
-| **`dim_group`** | *(Placeholder Screenshot Tabel Dim Group)* |
-| **`dim_label`** | *(Placeholder Screenshot Tabel Dim Label)* |
-| **`dim_fandom`** | *(Placeholder Screenshot Tabel Dim Fandom)* |
-| **`dim_time`** | *(Placeholder Screenshot Tabel Dim Time)* |
+| **`dim_group`** | <img src="./Data Warehouse/screenshot/dim_group.png" alt="Dim Group" width="100%"> |
+| **`dim_label`** | <img src="./Data Warehouse/screenshot/dim_label.png" alt="Dim Label" width="100%"> |
+| **`dim_fandom`** | <img src="./Data Warehouse/screenshot/dim_fandom.png" alt="Dim Fandom" width="100%"> |
+| **`dim_time`** | <img src="./Data Warehouse/screenshot/dim_time.png" alt="Dim Time" width="100%"> |
 
 ---
 
 ### 5. Query Analitik
 
-Berikut adalah placeholder query analitik pada Data Warehouse (`kpopdw`):
-
-#### 1. Query Analitik 1
-
 #### Kode Query SQL:
 ```sql
 SELECT 
     l.name AS label_name,
-    COUNT(DISTINCT f.id_group) AS total_groups,
-    ROUND(AVG(f.total_score), 2) AS avg_total_score,
-    SUM(f.total_bias_votes) AS total_bias_votes
+    COUNT(DISTINCT f.id_group) AS total_group,
+    SUM(f.total_bias_votes) AS total_bias_votes,
+    ROUND(AVG(f.total_score),2) AS avg_total_score
 FROM fact_group_metrics f
-JOIN dim_label l ON f.id_label = l.id_label
+JOIN dim_label l USING (id_label)
 GROUP BY l.name
-ORDER BY avg_total_score DESC;
+ORDER BY total_bias_votes DESC;
 ```
 
 #### Hasil Query:
-*(Placeholder Gambar Hasil Query 1)*
-
----
-
-#### 2. Query Analitik 2
-
-#### Kode Query SQL:
-```sql
-SELECT 
-    g.group_name,
-    t.full_date,
-    f.rank,
-    f.total_bias_votes,
-    f.total_score
-FROM fact_group_metrics f
-JOIN dim_group g ON f.id_group = g.id_group
-JOIN dim_time t ON f.id_time = t.id_time
-ORDER BY g.group_name, t.full_date ASC;
-```
-
-#### Hasil Query:
-*(Placeholder Gambar Hasil Query 2)*
-
----
-
-#### 3. Query Analitik 3
-
-#### Kode Query SQL:
-```sql
-SELECT 
-    g.group_name,
-    f.rank,
-    f.total_bias_votes,
-    f.dance_score,
-    f.vocal_score,
-    f.stage_score
-FROM fact_group_metrics f
-JOIN dim_group g ON f.id_group = g.id_group
-ORDER BY f.total_bias_votes DESC
-LIMIT 10;
-```
-
-#### Hasil Query:
-*(Placeholder Gambar Hasil Query 3)*
+<img src="./Data Warehouse/screenshot/query_analitik.png" alt="Hasil Query Analitik" width="100%">
 
 ---
 
@@ -439,29 +474,89 @@ LIMIT 10;
 
 Untuk memudahkan proses ETL, dibuat penjadwalan otomatis (Automated Scheduling) dengan menggunakan **Windows Task Scheduler**.
 
-Idealnya penjadwalan dijalankan 1 hari sekali. Namun untuk memenuhi pengujian dan evaluasi project ini, penjadwalan dikonfigurasi untuk berjalan **6 jam sekali**.
+Idealnya penjadwalan dijalankan 1 hari sekali.
 
-Berikut adalah bukti screenshot langkah-langkah pembuatan Task Scheduler:
 
-| Langkah | Screenshot Pengaturan Task Scheduler |
-| :--- | :--- |
-| **Langkah 1: Membuat Task Baru** | ![Step 1](Bonus/Automated%20Scheduling/step%201.png) |
-| **Langkah 2: Menentukan Nama dan Trigger** | ![Step 2](Bonus/Automated%20Scheduling/step%202.png) |
-| **Langkah 3: Konfigurasi Interval 6 Jam** | ![Step 3](Bonus/Automated%20Scheduling/step%203.png) |
-| **Langkah 4: Menentukan Action (Run Program)** | ![Step 4](Bonus/Automated%20Scheduling/step%204.png) |
-| **Langkah 5: Mengarahkan Executable Python & Argument Script** | ![Step 5](Bonus/Automated%20Scheduling/step%205.png) |
-| **Langkah 6: Memastikan Working Directory Teratur** | ![Step 6](Bonus/Automated%20Scheduling/step%206.png) |
-| **Langkah 7: Meninjau Ringkasan Task Scheduler** | ![Step 7](Bonus/Automated%20Scheduling/step%207.png) |
-| **Langkah 8: Verifikasi Task Berhasil Berjalan** | ![Step 8](Bonus/Automated%20Scheduling/step%208.png) |
 
 ---
 
-## QUERY OPTIMIZATION
-
-*(Placeholder section untuk Query Optimization)*
+## BONUS: QUERY OPTIMIZATION
 
 ---
 
+### 1. Kasus 1
+
+#### **Deskripsi**:
+Mencari daftar track dari album yang dirilis pada tahun 2020 beserta nama group yang merilis album tersebut.
+
+#### **(Before) Execution Plan**:
+Dominan seq scan, index yang digunakan hanya index primary key
+<img src="./Query Optimization/screenshot/kasus 1_before.png" alt="Kasus 1 Before Optimization" width="100%">
+
+#### **Upaya Optimizing**
+1. SQL Tuning: Menyederhanakan subquery menjadi JOIN
+2. SQL Tuning: Mengubah EXTRACT tanggal menjadi perbandingan (>= <=)
+3. Indexing: Membuat idx_albums_release_date (B-Tree), pada kolom release_date di tabel albums, untuk memfilter 'rentang (>= <=)' tanggal
+4. Indexing: Membuat idx_albums_id_group (Hash), pada kolom id_group di tabel albums, untuk memfilter 'eksak (=)' Foreign Key saat operasi JOIN
+5. Indexing: Membuat idx_tracks_id_album (Hash), pada kolom id_album di tabel tracks, untuk memfilter 'eksak (=)' Foreign Key saat operasi JOIN
+
+#### **(After) Execution Plan**:
+Menggunakan index idx_albums_release_date: index search 1x dan mengembalikan 24 rows yang terfilter
+<img src="./Query Optimization/screenshot/kasus 1_after.png" alt="Kasus 1 After Optimization" width="100%">
+
+---
+
+### 2. Kasus 2
+
+#### **Deskripsi**:
+Mencari total track per album bertipe studio 
+yang dirilis oleh group yang berstatus aktif.
+
+#### **(Before) Execution Plan**:
+Dominan seq scan, index yang digunakan hanya index primary key
+<img src="./Query Optimization/screenshot/kasus 2_before.png" alt="Kasus 2 Before Optimization" width="100%">
+
+#### **Upaya Optimizing**
+1. SQL Tuning: Menyederhanakan subquery menjadi join
+2. SQL Tuning: Mengubah cartesian (from a, b) menjadi JOIN
+3. SQL Tuning: Menghilangkan LOWER
+4. SQL Tuning: Mengubah operator LIKE '%...%' menjadi '=' dan tanpa % di depan string
+5. Indexing: Membuat idx_groups_status (Hash), pada kolom status di tabel groups, untuk memfilter 'eksak (=)' status
+6. Indexing: Membuat idx_albums_type (Hash), pada kolom type di tabel albums, untuk memfilter 'eksak (=)' jenis album
+7. Indexing: Membuat idx_tracks_id_album (Hash), pada kolom id_album di tabel tracks, untuk memfilter 'eksak (=)' Foreign Key saat operasi JOIN
+
+#### **(After) Execution Plan**:
+Penggunan index idx_album_type: index search 1x dan mengembalikan 75 baris yang terfilter
+<img src="./Query Optimization/screenshot/kasus 2_after.png" alt="Kasus 2 After Optimization" width="100%">
+
+---
+
+### 3. Kasus 3: Track dari Group Non-Hiatus yang Dirilis Januari 2018
+
+#### **Deskripsi**:
+Mencari daftar track dari group yang BUKAN berstatus 'HIATUS's dan albumnya dirilis pada bulan Januari tahun 2018.
+
+#### **(Before) Execution Plan**:
+
+<img src="./Query Optimization/screenshot/kasus 3_before.png" alt="Kasus 3 Before Optimization" width="100%">
+
+---
+
+#### **Upaya Optimizing**
+1. SQL Tuning: Menghapus NOT
+2. SQL Tuning: Mengubah operator EXTRACT menjadi perbandingan (>= <=)
+3. Indexing: Membuat idx_albums_release_group (Composite B-Tree), pada kolom release_date dan id_group di tabel albums, untuk memfilter 'rentang (>= <=)' tanggal dan 'eksak (=)' Foreign Key saat operasi JOIN
+4. Indexing: Membuat idx_tracks_id_album (Hash), pada kolom id_album di tabel tracks, untuk memfilter 'eksak (=)' Foreign Key saat operasi JOIN
+
+#### **(After) Execution Plan**:
+Penggunaan index idx_albums_release_group: index search 1x dan mengembalikan 2 baris yang terfilter
+<img src="./Query Optimization/screenshot/kasus 3_after.png" alt="Kasus 3 After Optimization" width="100%">
+
+---
+
+## Penggunaan AI
+
+---
 ## Referensi
 
 1. **Website Sumber Data**:

@@ -1,0 +1,312 @@
+[
+    {
+        "group_name": "BTS",
+        "fandom_name": "ARMY",
+        "color_identity": [
+            "Purple"
+        ]
+    },
+    {
+        "group_name": "Stray Kids",
+        "fandom_name": "STAY",
+        "color_identity": null
+    },
+    {
+        "group_name": "BLACKPINK",
+        "fandom_name": "BLINK",
+        "color_identity": [
+            "Black",
+            "Pink"
+        ]
+    },
+    {
+        "group_name": "TWICE",
+        "fandom_name": "ONCE",
+        "color_identity": [
+            "Apricot",
+            "Neon-Magenta"
+        ]
+    },
+    {
+        "group_name": "ENHYPEN",
+        "fandom_name": "ENGENE",
+        "color_identity": null
+    },
+    {
+        "group_name": "EXO",
+        "fandom_name": "EXO-L",
+        "color_identity": null
+    },
+    {
+        "group_name": "Red Velvet",
+        "fandom_name": "ReVeluv",
+        "color_identity": [
+            "Pastel Coral"
+        ]
+    },
+    {
+        "group_name": "SEVENTEEN",
+        "fandom_name": "CARAT",
+        "color_identity": [
+            "Rose Quartz",
+            "Serenity"
+        ]
+    },
+    {
+        "group_name": "TOMORROW X TOGETHER",
+        "fandom_name": "MOA",
+        "color_identity": null
+    },
+    {
+        "group_name": "GOT7",
+        "fandom_name": "IGOT7/AhGaSe",
+        "color_identity": [
+            "Green",
+            "White"
+        ]
+    },
+    {
+        "group_name": "aespa",
+        "fandom_name": "MY",
+        "color_identity": [
+            "Aurora Purple",
+            "Aurora Blue"
+        ]
+    },
+    {
+        "group_name": "ATEEZ",
+        "fandom_name": "ATINY",
+        "color_identity": null
+    },
+    {
+        "group_name": "ITZY",
+        "fandom_name": "MIDZY",
+        "color_identity": [
+            "Magenta"
+        ]
+    },
+    {
+        "group_name": "NCT 127",
+        "fandom_name": "NCTzens",
+        "color_identity": [
+            "Pearl Neo Champagne"
+        ]
+    },
+    {
+        "group_name": "LE SSERAFIM",
+        "fandom_name": "FEARNOT",
+        "color_identity": null
+    },
+    {
+        "group_name": "CORTIS",
+        "fandom_name": "COER",
+        "color_identity": null
+    },
+    {
+        "group_name": "BABYMONSTER",
+        "fandom_name": "MONSTIEZ",
+        "color_identity": [
+            "Red",
+            "Black"
+        ]
+    },
+    {
+        "group_name": "ILLIT",
+        "fandom_name": "GLLIT",
+        "color_identity": null
+    },
+    {
+        "group_name": "MONSTA X",
+        "fandom_name": "MONBEBE",
+        "color_identity": [
+            "Lost",
+            "Guilty",
+            "Beautiful"
+        ]
+    },
+    {
+        "group_name": "i-dle",
+        "fandom_name": "Neverland",
+        "color_identity": [
+            "Chic Violet",
+            "Neon Red"
+        ]
+    },
+    {
+        "group_name": "SHINee",
+        "fandom_name": "SHINee World",
+        "color_identity": [
+            "Pearl Aqua"
+        ]
+    },
+    {
+        "group_name": "IVE",
+        "fandom_name": "DIVE",
+        "color_identity": null
+    },
+    {
+        "group_name": "Girls' Generation",
+        "fandom_name": "S♡NE",
+        "color_identity": [
+            "Rose Pink"
+        ]
+    },
+    {
+        "group_name": "NewJeans",
+        "fandom_name": "Bunnies",
+        "color_identity": null
+    },
+    {
+        "group_name": "Wanna One",
+        "fandom_name": "Wannable",
+        "color_identity": null
+    },
+    {
+        "group_name": "NCT",
+        "fandom_name": "NCTzen",
+        "color_identity": [
+            "Pearl Neo Champagne"
+        ]
+    },
+    {
+        "group_name": "KATSEYE",
+        "fandom_name": "EYEKON",
+        "color_identity": null
+    },
+    {
+        "group_name": "EXO-CBX",
+        "fandom_name": null,
+        "color_identity": null
+    },
+    {
+        "group_name": "NCT Dream",
+        "fandom_name": null,
+        "color_identity": null
+    },
+    {
+        "group_name": "NMIXX",
+        "fandom_name": "NSWER",
+        "color_identity": null
+    },
+    {
+        "group_name": "Hearts2Hearts",
+        "fandom_name": "S2U",
+        "color_identity": [
+            "Sky Blue"
+        ]
+    },
+    {
+        "group_name": "Dreamcatcher",
+        "fandom_name": "InSomnia",
+        "color_identity": [
+            "PANTONE Black 6 C",
+            "PANTONE 7623 C",
+            "PANTONE P 10-6 C"
+        ]
+    },
+    {
+        "group_name": "P1Harmony",
+        "fandom_name": "P1ECE",
+        "color_identity": null
+    },
+    {
+        "group_name": "NCT U",
+        "fandom_name": "NCTzen",
+        "color_identity": [
+            "Pearl Neo Champagne"
+        ]
+    },
+    {
+        "group_name": "LOONA",
+        "fandom_name": "Orbit",
+        "color_identity": null
+    },
+    {
+        "group_name": "MAMAMOO",
+        "fandom_name": "MOOMOO",
+        "color_identity": null
+    },
+    {
+        "group_name": "GFRIEND",
+        "fandom_name": "BUDDY",
+        "color_identity": [
+            "Cloud Dancer",
+            "Scuba Blue",
+            "Ultra Violet"
+        ]
+    },
+    {
+        "group_name": "ASTRO",
+        "fandom_name": "AROHA",
+        "color_identity": [
+            "Vivid Plum",
+            "Space Violet"
+        ]
+    },
+    {
+        "group_name": "BIGBANG",
+        "fandom_name": "V.I.P",
+        "color_identity": null
+    },
+    {
+        "group_name": "BOYNEXTDOOR",
+        "fandom_name": "ONEDOOR",
+        "color_identity": null
+    },
+    {
+        "group_name": "LNGSHOT",
+        "fandom_name": "SHOTTIES",
+        "color_identity": null
+    },
+    {
+        "group_name": "iKON",
+        "fandom_name": "iKONIC",
+        "color_identity": null
+    },
+    {
+        "group_name": "XLOV",
+        "fandom_name": "EVOL",
+        "color_identity": [
+            "Tyrian Purple"
+        ]
+    },
+    {
+        "group_name": "ZEROBASEONE",
+        "fandom_name": "ZEROSE",
+        "color_identity": [
+            "Blue"
+        ]
+    },
+    {
+        "group_name": "IZ*ONE",
+        "fandom_name": "WIZ*ONE",
+        "color_identity": null
+    },
+    {
+        "group_name": "&TEAM",
+        "fandom_name": "LUNÉ",
+        "color_identity": null
+    },
+    {
+        "group_name": "EVERGLOW",
+        "fandom_name": "FOREVER",
+        "color_identity": null
+    },
+    {
+        "group_name": "tripleS",
+        "fandom_name": "WAV",
+        "color_identity": null
+    },
+    {
+        "group_name": "MEOVV",
+        "fandom_name": "PAWMPAWM",
+        "color_identity": null
+    },
+    {
+        "group_name": "SUPER JUNIOR",
+        "fandom_name": "E.L.F.",
+        "color_identity": [
+            "Pearl Sapphire Blue"
+        ]
+    }
+]

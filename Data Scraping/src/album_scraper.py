@@ -80,4 +80,4 @@ def scrap_album(batch_name):
 
 if __name__ == "__main__":
     batch_name = f"batch-{datetime.now().strftime('%Y-%m-%d')}"
-    scrap_album(batch_name=batch_name)
+    scrap_album(batch_name)

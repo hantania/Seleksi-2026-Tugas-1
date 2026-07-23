@@ -1,0 +1,450 @@
+[
+    {
+        "name": "3RACHA",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2018-03-25",
+        "generation": "4",
+        "active_years": "2018-present"
+    },
+    {
+        "name": "MISAMO",
+        "other_name": "ミサモ",
+        "status": "Active",
+        "debut_date": "2023-07-26",
+        "generation": "5",
+        "active_years": "2023-present"
+    },
+    {
+        "name": "EXO-K",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2012-04-08",
+        "generation": "3",
+        "active_years": "2012-present"
+    },
+    {
+        "name": "EXO-M",
+        "other_name": "—",
+        "status": "hiatus",
+        "debut_date": "2012-04-08",
+        "generation": "3",
+        "active_years": "2012-2015"
+    },
+    {
+        "name": "EXO-SC",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2019-07-22",
+        "generation": "4",
+        "active_years": "2019-present"
+    },
+    {
+        "name": "Red Velvet - IRENE & SEULGI",
+        "other_name": "IRENE & SEULGI",
+        "status": "Active",
+        "debut_date": "2020-07-06",
+        "generation": "4",
+        "active_years": "2020-present"
+    },
+    {
+        "name": "V8",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2026-06-29",
+        "generation": "5",
+        "active_years": "2026-present"
+    },
+    {
+        "name": "Hoshi X Woozi",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2025-03-10",
+        "generation": "5",
+        "active_years": "2025-present (hiatus: 2025-2027)"
+    },
+    {
+        "name": "S.Coups X Mingyu",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2025-09-29",
+        "generation": "5",
+        "active_years": "2025-present"
+    },
+    {
+        "name": "DK X Seungkwan",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2026-01-12",
+        "generation": "5",
+        "active_years": "2025-present"
+    },
+    {
+        "name": "BSS",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2018-03-21",
+        "generation": "4",
+        "active_years": "2018-present (hiatus: 2018-2023)"
+    },
+    {
+        "name": "SVT PERFORMANCE Team",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2015-05-26",
+        "generation": "3",
+        "active_years": "2015-present"
+    },
+    {
+        "name": "SVT HIPHOP Team",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2015-05-26",
+        "generation": "3",
+        "active_years": "2015-present"
+    },
+    {
+        "name": "Jeonghan X Wonwoo",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2024-06-17",
+        "generation": "5",
+        "active_years": "2024-present"
+    },
+    {
+        "name": "SVT Leaders",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2017-09-24",
+        "generation": "3",
+        "active_years": "2017-present"
+    },
+    {
+        "name": "SVT VOCAL Team",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2015-05-26",
+        "generation": "3",
+        "active_years": "2015-present"
+    },
+    {
+        "name": "JUS2",
+        "other_name": "—",
+        "status": "hiatus",
+        "debut_date": "2019-03-05",
+        "generation": "4",
+        "active_years": "2019-present (hiatus: 2021-present)"
+    },
+    {
+        "name": "JJ Project",
+        "other_name": "—",
+        "status": "hiatus",
+        "debut_date": "2012-05-20",
+        "generation": "3",
+        "active_years": "2012-present"
+    },
+    {
+        "name": "SHOWNU X HYUNGWON",
+        "other_name": "ショヌXヒョンウォン",
+        "status": "Active",
+        "debut_date": "2023-07-25",
+        "generation": "5",
+        "active_years": "2023-present"
+    },
+    {
+        "name": "Girls' Generation-TTS",
+        "other_name": "少女時代-テティソ",
+        "status": "hiatus",
+        "debut_date": "2012-04-29",
+        "generation": "3",
+        "active_years": "2012-present (hiatus: 2017-present)"
+    },
+    {
+        "name": "Girls' Generation - Oh!GG",
+        "other_name": "少女時代-Oh!GG",
+        "status": "hiatus",
+        "debut_date": "2018-09-05",
+        "generation": "4",
+        "active_years": "2018-present (hiatus: 2018-present)"
+    },
+    {
+        "name": "NCT WISH",
+        "other_name": "エヌシーティー ウィッシュ",
+        "status": "Active",
+        "debut_date": "2024-02-21",
+        "generation": "5",
+        "active_years": "2024-present"
+    },
+    {
+        "name": "NCT DOJAEJUNG",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2023-04-17",
+        "generation": "5",
+        "active_years": "2023-present"
+    },
+    {
+        "name": "WayV",
+        "other_name": "威神V",
+        "status": "Active",
+        "debut_date": "2019-01-17",
+        "generation": "4",
+        "active_years": "2019-present"
+    },
+    {
+        "name": "NCT JNJM",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2026-02-23",
+        "generation": "5",
+        "active_years": "2026-present"
+    },
+    {
+        "name": "UAU",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2025-05-28",
+        "generation": "5",
+        "active_years": "2025-present"
+    },
+    {
+        "name": "LOONA 1/3",
+        "other_name": "LOOΠΔ 1/3",
+        "status": "hiatus",
+        "debut_date": "2017-03-12",
+        "generation": "3",
+        "active_years": "2017-present (hiatus: 2023-present)"
+    },
+    {
+        "name": "LOONA yyxy",
+        "other_name": "yyxy, LOOΠΔ yyxy",
+        "status": "hiatus",
+        "debut_date": "2018-05-30",
+        "generation": "4",
+        "active_years": "2018-present (hiatus: 2023-present)"
+    },
+    {
+        "name": "MAMAMOO+",
+        "other_name": "—",
+        "status": "hiatus",
+        "debut_date": "2022-08-30",
+        "generation": "5",
+        "active_years": "2022-present"
+    },
+    {
+        "name": "ZOONIZINI",
+        "other_name": "ズニジニ",
+        "status": "Active",
+        "debut_date": "2025-08-13",
+        "generation": "5",
+        "active_years": "2025-present"
+    },
+    {
+        "name": "MOONBIN & SANHA",
+        "other_name": "ムンビン&サナ",
+        "status": "disbanded",
+        "debut_date": "2020-09-14",
+        "generation": "4",
+        "active_years": "2020-2023"
+    },
+    {
+        "name": "Jinjin & Rocky",
+        "other_name": "ジンジン & ラキ",
+        "status": "disbanded",
+        "debut_date": "2022-01-17",
+        "generation": "5",
+        "active_years": "2022-2023"
+    },
+    {
+        "name": "GD & TOP",
+        "other_name": "—",
+        "status": "disbanded",
+        "debut_date": "2010-12-24",
+        "generation": "2",
+        "active_years": "2010"
+    },
+    {
+        "name": "Double B",
+        "other_name": "—",
+        "status": "disbanded",
+        "debut_date": "2015-11-16",
+        "generation": "3",
+        "active_years": "2015"
+    },
+    {
+        "name": "EVOLution",
+        "other_name": "—",
+        "status": "disbanded",
+        "debut_date": "2023-10-11",
+        "generation": "5",
+        "active_years": "2023-2023"
+    },
+    {
+        "name": "Visionary Vision",
+        "other_name": "VV, Vision@ry Vision",
+        "status": "disbanded",
+        "debut_date": "2024-10-23",
+        "generation": "5",
+        "active_years": "2024-2024"
+    },
+    {
+        "name": "LOVElution",
+        "other_name": "ラブリューション",
+        "status": "disbanded",
+        "debut_date": "2023-08-17",
+        "generation": "5",
+        "active_years": "2023-2023"
+    },
+    {
+        "name": "moon",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2025-11-24",
+        "generation": "5",
+        "active_years": "2025-present"
+    },
+    {
+        "name": "zenith",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2025-11-24",
+        "generation": "5",
+        "active_years": "2025-present"
+    },
+    {
+        "name": "NXT",
+        "other_name": "—",
+        "status": "disbanded",
+        "debut_date": "2023-12-23",
+        "generation": "5",
+        "active_years": "2023-2024"
+    },
+    {
+        "name": "Glow",
+        "other_name": "—",
+        "status": "disbanded",
+        "debut_date": "2024-06-21",
+        "generation": "5",
+        "active_years": "2024-2024"
+    },
+    {
+        "name": "neptune",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2025-11-24",
+        "generation": "5",
+        "active_years": "2025-present"
+    },
+    {
+        "name": "ACID EYES",
+        "other_name": "—",
+        "status": "disbanded",
+        "debut_date": "2023-06-06",
+        "generation": "5",
+        "active_years": "2023-2023"
+    },
+    {
+        "name": "Aria",
+        "other_name": "—",
+        "status": "disbanded",
+        "debut_date": "2024-01-15",
+        "generation": "5",
+        "active_years": "2024-2024"
+    },
+    {
+        "name": "Hatchi!",
+        "other_name": "ハッチ!",
+        "status": "Active",
+        "debut_date": "2024-11-20",
+        "generation": "5",
+        "active_years": "2024-present"
+    },
+    {
+        "name": "sun",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2025-11-24",
+        "generation": "5",
+        "active_years": "2025-present"
+    },
+    {
+        "name": "+(KR)ystal Eyes",
+        "other_name": "クリスタル・アイズ",
+        "status": "disbanded",
+        "debut_date": "2023-05-04",
+        "generation": "5",
+        "active_years": "2022-2023"
+    },
+    {
+        "name": "Acid Angel from Asia",
+        "other_name": "アシッド・エンジェル・フロム・エイジア",
+        "status": "disbanded",
+        "debut_date": "2022-10-28",
+        "generation": "5",
+        "active_years": "2022-2022"
+    },
+    {
+        "name": "Alphie",
+        "other_name": "—",
+        "status": "disbanded",
+        "debut_date": "2025-09-03",
+        "generation": "5",
+        "active_years": "2025-2025"
+    },
+    {
+        "name": "SUPER JUNIOR-83z",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2026-07-13",
+        "generation": "5",
+        "active_years": "2026-present"
+    },
+    {
+        "name": "SUPER JUNIOR-L.S.S.",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2023-07-05",
+        "generation": "5",
+        "active_years": "2023-present"
+    },
+    {
+        "name": "SUPER JUNIOR-K.R.Y.",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2006-11-05",
+        "generation": "2",
+        "active_years": "2006-present"
+    },
+    {
+        "name": "Super Junior-M",
+        "other_name": "—",
+        "status": "hiatus",
+        "debut_date": "2008-04-08",
+        "generation": "2",
+        "active_years": "2008-present"
+    },
+    {
+        "name": "SUPER JUNIOR-D&E",
+        "other_name": "—",
+        "status": "Active",
+        "debut_date": "2011-12-16",
+        "generation": "2",
+        "active_years": "2011-present"
+    },
+    {
+        "name": "SUPER JUNIOR-H",
+        "other_name": "—",
+        "status": "hiatus",
+        "debut_date": "2008-05-03",
+        "generation": "2",
+        "active_years": "2008-present"
+    },
+    {
+        "name": "SUPER JUNIOR-T",
+        "other_name": "—",
+        "status": "hiatus",
+        "debut_date": "2007-02-23",
+        "generation": "2",
+        "active_years": "2007-present"
+    }
+]

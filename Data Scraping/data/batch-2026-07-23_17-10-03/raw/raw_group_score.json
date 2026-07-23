@@ -1,0 +1,402 @@
+[
+    {
+        "group_name": "BTS",
+        "dance_score": "76",
+        "vocal_score": "75",
+        "stage_score": "76",
+        "artistry_score": "76",
+        "visual_score": "75"
+    },
+    {
+        "group_name": "Stray Kids",
+        "dance_score": "95",
+        "vocal_score": "95",
+        "stage_score": "95",
+        "artistry_score": "95",
+        "visual_score": "95"
+    },
+    {
+        "group_name": "BLACKPINK",
+        "dance_score": "77",
+        "vocal_score": "79",
+        "stage_score": "80",
+        "artistry_score": "79",
+        "visual_score": "84"
+    },
+    {
+        "group_name": "TWICE",
+        "dance_score": "88",
+        "vocal_score": "87",
+        "stage_score": "88",
+        "artistry_score": "87",
+        "visual_score": "91"
+    },
+    {
+        "group_name": "ENHYPEN",
+        "dance_score": "91",
+        "vocal_score": "91",
+        "stage_score": "92",
+        "artistry_score": "91",
+        "visual_score": "92"
+    },
+    {
+        "group_name": "EXO",
+        "dance_score": "89",
+        "vocal_score": "92",
+        "stage_score": "90",
+        "artistry_score": "90",
+        "visual_score": "91"
+    },
+    {
+        "group_name": "Red Velvet",
+        "dance_score": "79",
+        "vocal_score": "90",
+        "stage_score": "81",
+        "artistry_score": "87",
+        "visual_score": "88"
+    },
+    {
+        "group_name": "SEVENTEEN",
+        "dance_score": "96",
+        "vocal_score": "96",
+        "stage_score": "95",
+        "artistry_score": "96",
+        "visual_score": "96"
+    },
+    {
+        "group_name": "TOMORROW X TOGETHER",
+        "dance_score": "90",
+        "vocal_score": "89",
+        "stage_score": "89",
+        "artistry_score": "89",
+        "visual_score": "91"
+    },
+    {
+        "group_name": "GOT7",
+        "dance_score": "97",
+        "vocal_score": "96",
+        "stage_score": "97",
+        "artistry_score": "96",
+        "visual_score": "96"
+    },
+    {
+        "group_name": "aespa",
+        "dance_score": "75",
+        "vocal_score": "82",
+        "stage_score": "76",
+        "artistry_score": "76",
+        "visual_score": "86"
+    },
+    {
+        "group_name": "ATEEZ",
+        "dance_score": "96",
+        "vocal_score": "96",
+        "stage_score": "97",
+        "artistry_score": "95",
+        "visual_score": "96"
+    },
+    {
+        "group_name": "ITZY",
+        "dance_score": "91",
+        "vocal_score": "84",
+        "stage_score": "90",
+        "artistry_score": "83",
+        "visual_score": "90"
+    },
+    {
+        "group_name": "NCT 127",
+        "dance_score": "97",
+        "vocal_score": "94",
+        "stage_score": "95",
+        "artistry_score": "92",
+        "visual_score": "96"
+    },
+    {
+        "group_name": "LE SSERAFIM",
+        "dance_score": "83",
+        "vocal_score": "76",
+        "stage_score": "84",
+        "artistry_score": "78",
+        "visual_score": "85"
+    },
+    {
+        "group_name": "CORTIS",
+        "dance_score": "87",
+        "vocal_score": "84",
+        "stage_score": "86",
+        "artistry_score": "86",
+        "visual_score": "87"
+    },
+    {
+        "group_name": "BABYMONSTER",
+        "dance_score": "86",
+        "vocal_score": "88",
+        "stage_score": "88",
+        "artistry_score": "83",
+        "visual_score": "88"
+    },
+    {
+        "group_name": "ILLIT",
+        "dance_score": "86",
+        "vocal_score": "80",
+        "stage_score": "84",
+        "artistry_score": "82",
+        "visual_score": "88"
+    },
+    {
+        "group_name": "MONSTA X",
+        "dance_score": "96",
+        "vocal_score": "97",
+        "stage_score": "98",
+        "artistry_score": "99",
+        "visual_score": "94"
+    },
+    {
+        "group_name": "i-dle",
+        "dance_score": "77",
+        "vocal_score": "83",
+        "stage_score": "83",
+        "artistry_score": "85",
+        "visual_score": "85"
+    },
+    {
+        "group_name": "SHINee",
+        "dance_score": "99",
+        "vocal_score": "99",
+        "stage_score": "99",
+        "artistry_score": "99",
+        "visual_score": "98"
+    },
+    {
+        "group_name": "IVE",
+        "dance_score": "83",
+        "vocal_score": "87",
+        "stage_score": "86",
+        "artistry_score": "87",
+        "visual_score": "93"
+    },
+    {
+        "group_name": "Girls' Generation",
+        "dance_score": "85",
+        "vocal_score": "92",
+        "stage_score": "89",
+        "artistry_score": "87",
+        "visual_score": "95"
+    },
+    {
+        "group_name": "NewJeans",
+        "dance_score": "91",
+        "vocal_score": "90",
+        "stage_score": "90",
+        "artistry_score": "91",
+        "visual_score": "92"
+    },
+    {
+        "group_name": "Wanna One",
+        "dance_score": "97",
+        "vocal_score": "98",
+        "stage_score": "97",
+        "artistry_score": "95",
+        "visual_score": "98"
+    },
+    {
+        "group_name": "NCT",
+        "dance_score": "94",
+        "vocal_score": "95",
+        "stage_score": "94",
+        "artistry_score": "94",
+        "visual_score": "94"
+    },
+    {
+        "group_name": "KATSEYE",
+        "dance_score": "74",
+        "vocal_score": "71",
+        "stage_score": "72",
+        "artistry_score": "61",
+        "visual_score": "77"
+    },
+    {
+        "group_name": "EXO-CBX",
+        "dance_score": "94",
+        "vocal_score": "100",
+        "stage_score": "96",
+        "artistry_score": "98",
+        "visual_score": "96"
+    },
+    {
+        "group_name": "NCT Dream",
+        "dance_score": "88",
+        "vocal_score": "87",
+        "stage_score": "89",
+        "artistry_score": "86",
+        "visual_score": "89"
+    },
+    {
+        "group_name": "NMIXX",
+        "dance_score": "89",
+        "vocal_score": "94",
+        "stage_score": "91",
+        "artistry_score": "90",
+        "visual_score": "92"
+    },
+    {
+        "group_name": "Hearts2Hearts",
+        "dance_score": "83",
+        "vocal_score": "83",
+        "stage_score": "83",
+        "artistry_score": "81",
+        "visual_score": "86"
+    },
+    {
+        "group_name": "Dreamcatcher",
+        "dance_score": "92",
+        "vocal_score": "93",
+        "stage_score": "93",
+        "artistry_score": "93",
+        "visual_score": "94"
+    },
+    {
+        "group_name": "P1Harmony",
+        "dance_score": "96",
+        "vocal_score": "96",
+        "stage_score": "96",
+        "artistry_score": "96",
+        "visual_score": "96"
+    },
+    {
+        "group_name": "NCT U",
+        "dance_score": "91",
+        "vocal_score": "87",
+        "stage_score": "91",
+        "artistry_score": "86",
+        "visual_score": "90"
+    },
+    {
+        "group_name": "LOONA",
+        "dance_score": "86",
+        "vocal_score": "84",
+        "stage_score": "85",
+        "artistry_score": "84",
+        "visual_score": "86"
+    },
+    {
+        "group_name": "MAMAMOO",
+        "dance_score": "80",
+        "vocal_score": "91",
+        "stage_score": "87",
+        "artistry_score": "89",
+        "visual_score": "83"
+    },
+    {
+        "group_name": "GFRIEND",
+        "dance_score": "74",
+        "vocal_score": "77",
+        "stage_score": "76",
+        "artistry_score": "76",
+        "visual_score": "76"
+    },
+    {
+        "group_name": "ASTRO",
+        "dance_score": "99",
+        "vocal_score": "100",
+        "stage_score": "99",
+        "artistry_score": "97",
+        "visual_score": "99"
+    },
+    {
+        "group_name": "BIGBANG",
+        "dance_score": "96",
+        "vocal_score": "98",
+        "stage_score": "99",
+        "artistry_score": "98",
+        "visual_score": "95"
+    },
+    {
+        "group_name": "BOYNEXTDOOR",
+        "dance_score": "90",
+        "vocal_score": "89",
+        "stage_score": "90",
+        "artistry_score": "89",
+        "visual_score": "91"
+    },
+    {
+        "group_name": "LNGSHOT",
+        "dance_score": "86",
+        "vocal_score": "89",
+        "stage_score": "85",
+        "artistry_score": "88",
+        "visual_score": "88"
+    },
+    {
+        "group_name": "iKON",
+        "dance_score": "91",
+        "vocal_score": "89",
+        "stage_score": "91",
+        "artistry_score": "89",
+        "visual_score": "86"
+    },
+    {
+        "group_name": "XLOV",
+        "dance_score": "97",
+        "vocal_score": "96",
+        "stage_score": "97",
+        "artistry_score": "97",
+        "visual_score": "97"
+    },
+    {
+        "group_name": "ZEROBASEONE",
+        "dance_score": "96",
+        "vocal_score": "96",
+        "stage_score": "96",
+        "artistry_score": "96",
+        "visual_score": "96"
+    },
+    {
+        "group_name": "IZ*ONE",
+        "dance_score": "99",
+        "vocal_score": "100",
+        "stage_score": "100",
+        "artistry_score": "100",
+        "visual_score": "100"
+    },
+    {
+        "group_name": "&TEAM",
+        "dance_score": "94",
+        "vocal_score": "92",
+        "stage_score": "92",
+        "artistry_score": "92",
+        "visual_score": "94"
+    },
+    {
+        "group_name": "EVERGLOW",
+        "dance_score": "84",
+        "vocal_score": "74",
+        "stage_score": "81",
+        "artistry_score": "74",
+        "visual_score": "85"
+    },
+    {
+        "group_name": "tripleS",
+        "dance_score": "83",
+        "vocal_score": "83",
+        "stage_score": "82",
+        "artistry_score": "84",
+        "visual_score": "89"
+    },
+    {
+        "group_name": "MEOVV",
+        "dance_score": "87",
+        "vocal_score": "86",
+        "stage_score": "87",
+        "artistry_score": "86",
+        "visual_score": "89"
+    },
+    {
+        "group_name": "SUPER JUNIOR",
+        "dance_score": "51",
+        "vocal_score": "53",
+        "stage_score": "53",
+        "artistry_score": "52",
+        "visual_score": "51"
+    }
+]

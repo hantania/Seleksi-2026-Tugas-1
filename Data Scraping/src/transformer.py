@@ -508,5 +508,5 @@ def transform(batch_name):
     logging.info(f"Seluruh Data Batch {batch_name} Berhasil di-Transformasi!")
 
 if __name__ == "__main__":
-    batch_name = "batch-2026-07-20"
+    batch_name = f"batch-{datetime.now().strftime('%Y-%m-%d')}"
     transform(batch_name)

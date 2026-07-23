@@ -1,0 +1,3594 @@
+[
+    {
+        "album_slug": "/musicalbum/2026-normal2",
+        "name": "Normal",
+        "type": "SINGLE",
+        "release_date": "2026-07-1712:00KST",
+        "language": "Korean, English",
+        "description": "\"NORMAL\" is a single by BTS. It was released on July 17, 2026. The title track is \"NORMAL (Explicit Ver.).\""
+    },
+    {
+        "album_slug": "/musicalbum/2026-come-over",
+        "name": "Come Over",
+        "type": "SINGLE",
+        "release_date": "2026-06-1218:00KST",
+        "language": "Korean",
+        "description": "\"Come Over\" is a song by BTS. It was first released on April 3, 2026, and appears as the fifteenth track on the Deluxe Vinyl version of their fifth studio album ARIRANG.It was released officially on June 12, 2026 as part of the 2026 BTS Festa."
+    },
+    {
+        "album_slug": "/musicalbum/2026-swim-spring-waves-remix",
+        "name": "SWIM (Spring Waves Remix)",
+        "type": "SINGLE",
+        "release_date": "2026-04-1713:30KST",
+        "language": "English",
+        "description": "\"SWIM (Spring Waves Remix)\" is a remix single by BTS. It was released on April 17, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-swim-underwater-remix",
+        "name": "SWIM (Underwater Remix)",
+        "type": "SINGLE",
+        "release_date": "2026-04-1000:00KST",
+        "language": "Korean",
+        "description": "On April 10 2026, BTS released the Underwater remix to their song \"SWIM\"."
+    },
+    {
+        "album_slug": "/musicalbum/2026-keep-swimming",
+        "name": "KEEP SWIMMING",
+        "type": "SINGLE",
+        "release_date": "2026-03-2710:00KST",
+        "language": "Korean",
+        "description": "KEEP SWIMMING is a remix single by BTS. The album consists of seven remixes by each member. It was released on March 27, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-swim-instrumental",
+        "name": "Swim (Instrumental)",
+        "type": "SINGLE",
+        "release_date": "2026-03-2318:00KST",
+        "language": "English",
+        "description": "\"Swim (Instrumental)\" is the third digital English single by BTS. It was released on March 23, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-ARIRANG",
+        "name": "ARIRANG",
+        "type": "STUDIO",
+        "release_date": "2026-03-20",
+        "language": "Korean",
+        "description": "\"ARIRANG\" is the sixth Korean-language album by BTS. It was released on March 20, 2026 with \"SWIM\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Permission-To-Dance-On-Stage-Live",
+        "name": "Permission To Dance On Stage Live",
+        "type": "LIVE",
+        "release_date": "2025-07-18",
+        "language": null,
+        "description": "Permission To Dance On Stage - Live is the first live album by BTS. It was released on July 18, 2025 and consists of recordings from group's fourth world tour, Permission To Dance : On Stage."
+    },
+    {
+        "album_slug": "/musicalbum/2023-Take-Two",
+        "name": "Take Two",
+        "type": "SINGLE",
+        "release_date": "2023-06-09",
+        "language": null,
+        "description": "\"Take Two\" is the fifth digital single by BTS. It was released on June 9, 2023 in celebration of their 10th anniversary since debut."
+    },
+    {
+        "album_slug": "/musicalbum/2023-The-Planet",
+        "name": "The Planet",
+        "type": "OST",
+        "release_date": "2023-05-12",
+        "language": null,
+        "description": "\"The Planet\" is the original soundtrack for the 3D animated superhero series Bastions. It was released on May 12, 2023 and features BTS."
+    },
+    {
+        "album_slug": "/musicalbum/2026-this-that",
+        "name": "THIS & THAT",
+        "type": "MINI ALBUM",
+        "release_date": "Label",
+        "language": "Korean",
+        "description": "\"THIS & THAT\" is the 14th mini album by Stray Kids. It is set to release on August 7, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-run-it2",
+        "name": "RUN IT",
+        "type": "SINGLE",
+        "release_date": "2026-06-2413:00KST",
+        "language": "Korean",
+        "description": "\"RUN IT\" is a pre release  single by Stray Kids. It was released on June 24, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-stay2",
+        "name": "STAY",
+        "type": "SINGLE",
+        "release_date": "2026-03-2513:00KST",
+        "language": "Korean",
+        "description": "\"Stay\" is the 10th digital single by Stray Kids. It was released on March 25, 2026 coinciding with the group's eighth anniversary."
+    },
+    {
+        "album_slug": "/musicalbum/2026-endless-sun",
+        "name": "Endless Sun",
+        "type": "SINGLE",
+        "release_date": "2026-03-13",
+        "language": "Korean",
+        "description": "On March 13, 2026 Stray Kids released the single \"Endless Sun\" in collaboration with Biore UV."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Do-It-Remixes",
+        "name": "Do It (Remixes)",
+        "type": "MINI ALBUM",
+        "release_date": "2025-11-24",
+        "language": null,
+        "description": "On November 24, 2025 Stray Kids released the remixes of their single \"Do It\"."
+    },
+    {
+        "album_slug": "/musicalbum/2025-In-the-Dark-with-DJ-Snake",
+        "name": "In the Dark (with DJ Snake)",
+        "type": "SINGLE",
+        "release_date": "2025-11-07",
+        "language": null,
+        "description": "In The Dark is a song recorded by Stray Kids in collaboration with French DJ and record producer DJ Snake.It is the sixth track from DJ Snake's third studio album, Nomad, released on November 7, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-do-it-2",
+        "name": "Do It",
+        "type": "MINI ALBUM",
+        "release_date": "2025-11-0114:00KST",
+        "language": null,
+        "description": "Do It is the second mixtape album released by Stray Kids. It is a follow up to Hop - or SKZhop Hiptape. Do It is also known by the name SKZ It Tape."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Ceremony-Celebrate-Remixes",
+        "name": "Ceremony (Celebrate Remixes)",
+        "type": "SINGLE",
+        "release_date": "2025-08-29",
+        "language": null,
+        "description": "\"Ceremony (Celebrate Remixes)\" is the fourth remix single by Stray Kids. It was released on August 29, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-CEREMONY-Maximum-Power-Remixes",
+        "name": "CEREMONY (Maximum Power Remixes)",
+        "type": "SINGLE",
+        "release_date": "2025-08-25",
+        "language": null,
+        "description": "\"Ceremony (Maximum Power Remixes)\" is the third remix single by Stray Kids. It was released on August 25, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-karma",
+        "name": "KARMA",
+        "type": "STUDIO",
+        "release_date": "2025-08-22",
+        "language": "Korean",
+        "description": "Karma (stylized in all caps) is the fourth Korean-language studio album (sixth overall) by South Korean boy band Stray Kids. It was released on August 22, 2025, through JYP Entertainment and Republic Records. The album serves as their first full-length Korean studio album since 5-Star (2023). The album is preceded by the title track \"CEREMONY\".KARMA was the best-selling album in South Korea, and the sixth worldwide in 2025. It was certified triple million by the Korea Music Content Association.  Stray Kids earned the Album of the Year award at the 2025 MAMA Awards and Album Daesang at the 40th Golden Disc Awards."
+    },
+    {
+        "album_slug": "/musicalbum/2026-DEADLINE",
+        "name": "DEADLINE",
+        "type": "MINI ALBUM",
+        "release_date": "2026-02-2714:00KST",
+        "language": "Korean",
+        "description": "DEADLINE is the third mini-album by BLACKPINK. It was released on February 27, 2026 with GO serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-JUMP2",
+        "name": "JUMP",
+        "type": "SINGLE",
+        "release_date": "2025-07-11",
+        "language": "Korean",
+        "description": "“Jump\" (stylized as JUMP; Korean: 뛰어) is a single by the South Korean girl group BLACKPINK. Released on July 2025, it marked their first group comeback in nearly three years.  It serves as a pre-release single for their third mini-album, “Deadline”, which was released on February 27, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2023-The-Girls",
+        "name": "The Girls",
+        "type": "OST",
+        "release_date": "2023-08-25",
+        "language": "English",
+        "description": "\"The Girls\" was released as part of the official soundtrack of 'BLACKPINK: THE GAME.' Members Jennie and Rosé participated in writing the lyrics."
+    },
+    {
+        "album_slug": "/musicalbum/2022-BORN-PINK",
+        "name": "BORN PINK",
+        "type": "STUDIO",
+        "release_date": "2022-09-16",
+        "language": "Korean",
+        "description": "Born Pink is the second studio album by BLACKPINK, released on September 16, 2022, by YG Entertainment and Interscope Records."
+    },
+    {
+        "album_slug": "/musicalbum/2022-Pink-Venom",
+        "name": "Pink Venom",
+        "type": "SINGLE",
+        "release_date": "2022-08-19",
+        "language": "Korean",
+        "description": "\"Pink Venom\" is the fourth digital single by BLACKPINK. It was released on August 19, 2022, as the pre-release single for the group's second studio album, Born Pink."
+    },
+    {
+        "album_slug": "/musicalbum/2022-Ready-For-Love",
+        "name": "Ready For Love",
+        "type": "SINGLE",
+        "release_date": "2022-07-29",
+        "language": "Korean",
+        "description": "\"Ready for Love\" is a promotional single by BLACKPINK, in collaboration with the video game PUBG MOBILE. It was released on July 29, 2022 alongside its accompanying music video. The song was first previewed during their in-game concert The Virtual on July 22–23."
+    },
+    {
+        "album_slug": "/musicalbum/2021-The-Album-JP-Ver",
+        "name": "The Album -JP Ver.-",
+        "type": "STUDIO",
+        "release_date": "2021-08-03",
+        "language": null,
+        "description": "The Album -JP Ver.- (stylized in allcaps) is the third Japanese full-length album by BLACKPINK (labelled as their first full album). It was released on August 3, 2021."
+    },
+    {
+        "album_slug": "/musicalbum/2021-BLACKPINK-2021-THE-SHOW-LIVE",
+        "name": "BLACKPINK - 2021 'THE SHOW' LIVE",
+        "type": "LIVE",
+        "release_date": "2021-06-0118:00KST",
+        "language": "Korean",
+        "description": "Blackpink 2021 'The Show' Live is the fourth live album by Blackpink. It was surprise-released on June 1, 2021 and features live versions and performances from BLACKPINK's first online concert, The Show."
+    },
+    {
+        "album_slug": "/musicalbum/2020-THE-ALBUM",
+        "name": "THE ALBUM",
+        "type": "STUDIO",
+        "release_date": "2020-10-02",
+        "language": null,
+        "description": "\"THE ALBUM\" is the first Korean-language studio album (second overall) by South Korean girl group BLACKPINK, released on October 2, 2020, through YG Entertainment and Interscope. The album was released for pre-order on August 28. It was BLACKPINK's first Korean release since Kill This Love\" in 2019. For the album, BLACKPINK recorded 8 new songs and worked with a variety of producers, including Teddy, Tommy Brown, R. Tee, Mr. Franks, Ariana Grande, David Guetta, Future Bounce and 24. Written and recorded in isolation during the COVID-19 pandemic, the group stated that the album \"shows a more mature part of us through singing not only about love but diverse emotions experienced by girls growing up\".The Album generated three singles. \"How You Like That\" was released as the lead single on June 26, 2020. \"Ice Cream\" with American singer Selena Gomez was released as the second single on August 28, 2020. \"Lovesick Girls\" was released as the third single and title track alongside the album on October 2, 2020."
+    },
+    {
+        "album_slug": "/musicalbum/2020-Ice-Cream-with-Selena-Gomez",
+        "name": "Ice Cream (with Selena Gomez)",
+        "type": "SINGLE",
+        "release_date": "2020-08-28",
+        "language": null,
+        "description": "\"Ice Cream\" is a song by BLACKPINK and Selena Gomez. It was released on August 28, 2020,  as the second pre-release single from the group's debut studio album, The Album (2020)."
+    },
+    {
+        "album_slug": "/musicalbum/2026-best-2015-2025",
+        "name": "TWICE BEST ALBUM「#BEST 2015-2025」",
+        "type": "COMPILATION",
+        "release_date": "Label",
+        "language": "Japanese",
+        "description": "\"TWICE BEST ALBUM「#BEST 2015-2025」\" is a compilation album by TWICE. It will be released on August 26, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2025-TEN-The-Story-Goes-On",
+        "name": "TEN: The Story Goes On",
+        "type": "STUDIO",
+        "release_date": "2025-10-10",
+        "language": "Korean",
+        "description": "TEN: The Story Goes On is the fourth special album by TWICE. It was released on October 10, 2025, to celebrate their 10th anniversary. The album consists of ten tracks, including the title track “ME+YOU” and nine solo tracks previously performed on their “THIS IS FOR” world tour."
+    },
+    {
+        "album_slug": "/musicalbum/2025-ENEMY",
+        "name": "ENEMY",
+        "type": "STUDIO",
+        "release_date": "2025-08-27",
+        "language": "Japanese",
+        "description": "ENEMY is the sixth Japanese full-length album by TWICE. It was released on August 27, 2025 with \"ENEMY\" serving as the album's title track.\"ENEMY\" and \"Like 1\" were pre-released on July 30 and August 20, 2025, respectively."
+    },
+    {
+        "album_slug": "/musicalbum/2025-THIS-IS-FOR-DELUXE",
+        "name": "THIS IS FOR (DELUXE)",
+        "type": "REPACKAGE",
+        "release_date": "2025-07-14",
+        "language": "Korean",
+        "description": "THIS IS FOR (DELUXE) is the deluxe version of TWICE's fourth full album, THIS IS FOR. It was released on July 14, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-This-Is-For",
+        "name": "THIS IS FOR",
+        "type": "STUDIO",
+        "release_date": "2025-07-11",
+        "language": "Korean",
+        "description": "THIS IS FOR is the fourth full-length album by TWICE. It was released on July 11, 2025 with \"THIS IS FOR\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-TWICE5",
+        "name": "#TWICE5",
+        "type": "COMPILATION",
+        "release_date": "2025-05-14",
+        "language": "Japanese",
+        "description": "#TWICE5 is the fifth Japanese best album by TWICE. It was released on May 14, 2025 with \"Talk that Talk (Japanese Ver.)\" serving as the album's title track.\"Talk that Talk (Japanese Ver.)\" was pre-released on April 14, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Strategy-2-0",
+        "name": "Strategy 2.0",
+        "type": "SINGLE",
+        "release_date": "2024-12-18",
+        "language": "English",
+        "description": "\"Strategy 2.0\" is the fourth English remix single by TWICE. It was released on December 18, 2024 with \"Strategy (Version 1.0)\" as the single's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2024-the-wish",
+        "name": "The wish",
+        "type": "SINGLE",
+        "release_date": "2024-12-15",
+        "language": "Japanese",
+        "description": "\"The Wish\" (stylized as The wish) is the sixth Japanese digital single by TWICE. It was released on December 16, 2024.The song was released in collaboration with Family Mart Japan."
+    },
+    {
+        "album_slug": "/musicalbum/2024-STRATEGY",
+        "name": "STRATEGY",
+        "type": "MINI ALBUM",
+        "release_date": "2024-12-06",
+        "language": "Korean",
+        "description": "STRATEGY is the fourteenth mini album by TWICE. It was released on December 6, 2024 with \"Strategy (feat. Megan Thee Stallion)\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2024-DIVE",
+        "name": "DIVE",
+        "type": "STUDIO",
+        "release_date": "2024-07-17",
+        "language": "Japanese",
+        "description": "DIVE is the fifth Japanese full-length album by TWICE. It was released on July 17, 2024 with \"DIVE\" serving as the album's title track.\"DIVE\" was pre-released on July 10, 2024."
+    },
+    {
+        "album_slug": "/musicalbum/2026-the-sin-bliss",
+        "name": "THE SIN : BLISS",
+        "type": "MINI ALBUM",
+        "release_date": "Label",
+        "language": "Korean",
+        "description": "\"THE SIN : BLISS\" is the eighthmini album by ENHYPEN. It will be released on August 21, 2026.This new mini album serves as the direct sequel to their previous concept album, \"THE SIN : VANISH\", which dropped in January 2026.The album continues to expand on ENHYPEN’s signature dark fantasy and vampire narrative. It picks up the storyline from the \"Sin\" series, following the thematic motifs of taboos, fate, and romance."
+    },
+    {
+        "album_slug": "/musicalbum/2026-well-be-fine",
+        "name": "We'll Be Fine",
+        "type": "SINGLE",
+        "release_date": "2026-06-2900:00KST",
+        "language": "Japanese",
+        "description": "\"We'll be fine\" is a Japanese digital single by ENHYPEN. It was released on June 28, 2026. Designed in a pop-style aesthetic with ENCHIN, the character representing ENGENE's (the fans) friend, set against a summery light-blue background. The group expressed that they hope Japanese fans feel even closer to them through the track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-THE-SIN-VANISH",
+        "name": "THE SIN : VANISH",
+        "type": "MINI ALBUM",
+        "release_date": "2026-01-1614:00KST",
+        "language": "Korean",
+        "description": "THE SIN : VANISH is the 7th mini album by ENHYPEN. It was released on January 16th 2026, 2 PM KST."
+    },
+    {
+        "album_slug": "/musicalbum/2026-Dark-Moon-The-Blood-Alter-OST",
+        "name": "Dark Moon: The Blood Altar OST",
+        "type": "OST",
+        "release_date": "2026-01-12",
+        "language": null,
+        "description": "DARK MOON: The Altar of the Moon Soundtrack Compilation is an OST album by ENHYPEN. It was released on January 12, 2026, under BELIFT LAB, with “One In A Billion (Japanese Ver.)” serving as the album’s opening theme."
+    },
+    {
+        "album_slug": "/musicalbum/2025-YOI",
+        "name": "-YOI-",
+        "type": "SINGLE",
+        "release_date": "2025-07-28",
+        "language": null,
+        "description": "\"宵 -Yoi-\" (stylized as 宵 -YOI-) is the fourth Japanese single by ENHYPEN. It was released on July 28, 2025 with \"Shine On Me\" serving as the single's title track.\"Shine On Me\" was pre-released on July 4, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Shine-On-Me",
+        "name": "Shine On Me",
+        "type": "SINGLE",
+        "release_date": "2025-07-0400:00KST",
+        "language": "Japanese",
+        "description": "\"Shine On Me\" is the fourth Japanese digital single by ENHYPEN. It was released on July 4, 2025 as the pre-release for their fourth Japanese single \"宵 -Yoi-\", and serves as the ending theme for Nippon TV's drama \"海老だって鯛が釣りたい\"."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Demons-The-Seasons-Park-Bogum-s-Cantabile",
+        "name": "Demons [The Seasons: Park Bogum's Cantabile]",
+        "type": "SINGLE",
+        "release_date": "2025-06-13",
+        "language": null,
+        "description": "\"Demons [The Seasons: Cantabile of Park Bo Gum]\" (Demons [THE 시즌즈: 박보검의 칸타빌레]) is the third digital single by ENHYPEN. It was released on June 13, 2025. On June 13, 2025, ENHYPEN released a remake of Imagine Dragons's \"Demons\" for the music talk show The Seasons: Cantabile of Park Bo Gum."
+    },
+    {
+        "album_slug": "/musicalbum/2025-DESIRE-UNLEASH",
+        "name": "DESIRE : UNLEASH",
+        "type": "MINI ALBUM",
+        "release_date": "2025-06-05",
+        "language": "Korean",
+        "description": "DESIRE : UNLEASH is the 6th mini album by ENHYPEN released on June 5, 2025 with \"Bad Desire (With Or Without You)\" serving as the album's title track. The physical album comes in 13 versions: Make, You, Mine, Bath Bomb, Keyring, seven individual Engene versions, and Weverse Album."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Loose",
+        "name": "Loose",
+        "type": "SINGLE",
+        "release_date": "2025-04-04",
+        "language": null,
+        "description": "ENHYPEN’s Digital Single “Loose” will be released on Friday, April 4, 2025.On the digital cover of ENHYPEN's upcoming single 'Loose':\"It's just me and you - I don't wanna waste another second tonight.\"\"I've been waiting to get next to you I can tell how bad you want it too - All this tension, baby let your body loose\""
+    },
+    {
+        "album_slug": "/musicalbum/2024-ROMANCE-UNTOLD-daydream-JAPAN-Edition",
+        "name": "ROMANCE : UNTOLD -daydream- (JAPAN Edition)",
+        "type": "SINGLE",
+        "release_date": "2024-11-24",
+        "language": null,
+        "description": "ENHYPEN 2nd repackaged album ROMANCE : UNTOLD -daydream- (JAPAN Edition)"
+    },
+    {
+        "album_slug": "/musicalbum/2026-REVERXE",
+        "name": "REVERXE",
+        "type": "STUDIO",
+        "release_date": "2026-01-1918:00KST",
+        "language": "Korean",
+        "description": "\"Reverxe\" is the eighth full-length album by EXO. It will be released on January 19, 2026. The album marks the first release to include member Lay in nearly four years, while members Xiumin, Baekhyun and Chen didnot partake in the album's production or promotions, presumably due to their ongoing legal dispute with SM Entertainment."
+    },
+    {
+        "album_slug": "/musicalbum/2025-2025-smtown-the-culture-the-future",
+        "name": "2025 SMTOWN : THE CULTURE, THE FUTURE",
+        "type": "STUDIO",
+        "release_date": "2025-02-14",
+        "language": "Korean",
+        "description": "2025 SMTOWN : The Culture, The Future is the 16th special album by SMTOWN. It was released on February 14, 2025 with \"Thank You\" serving as the album's title track.\"Hug\" and \"Miracle\" were pre-released on January 8 and January 22, 2025, respectively."
+    },
+    {
+        "album_slug": "/musicalbum/2023-EXIST",
+        "name": "EXIST",
+        "type": "STUDIO",
+        "release_date": "2023-07-10",
+        "language": null,
+        "description": "\"Exist\" is the seventh full-length album by EXO. It was released on July 10, 2023 with \"Cream Soda\" serving as the album's title track.\"Let Me In\" was pre-released on June 12, followed by \"Hear Me Out\" on June 30."
+    },
+    {
+        "album_slug": "/musicalbum/2023-Hear-Me-Out",
+        "name": "Hear Me Out",
+        "type": "SINGLE",
+        "release_date": "2023-06-3018:00KST",
+        "language": "Korean",
+        "description": "\"Hear Me Out\" is the sixth digital single by EXO. It was released on June 30, 2023, as the second pre-release single for their seventh full-length album, Exist."
+    },
+    {
+        "album_slug": "/musicalbum/2023-Let-Me-In",
+        "name": "Let Me In",
+        "type": "SINGLE",
+        "release_date": "2023-06-12",
+        "language": null,
+        "description": "Discover Let Me In, the official single from K-pop artist EXO. The album was released on 2023-06-12. The release features 1 tracks, including the title track \"Let Me In\". Explore the full tracklist, music videos, and concept photos below."
+    },
+    {
+        "album_slug": "/musicalbum/2022-winter-smtown-smcu-palace",
+        "name": "2022 Winter SMTOWN : SMCU PALACE",
+        "type": "STUDIO",
+        "release_date": "2022-12-2618:00KST",
+        "language": "Korean",
+        "description": "2022 Winter SMTOWN : SMCU PALACE is the tenth winter album by SM Town. It was released by SM Entertainment on December 26, 2022. The album contains ten tracks that saw various collaborations of the label's artists, with two singles have been released to support the album; \"Beautiful Christmas\" was released as the album's lead single on December 14, 2022, and \"The Cure\", released as the second single on January 1, 2023, during the annual online free concert SM Town Live 2023: SMCU Palace at Kwangya.The album features Kangta, BoA, TVXQ!, SUPER JUNIOR, Girls' Generation's Taeyeon and Hyoyeon, SHINee's Onew, Key and Minho, EXO, Red Velvet, NCT's Sungchan and Shotaro, NCT 127, NCT DREAM, WayV, aespa and ScreaM Records's DJs Ginjo, IMLAY, Raiden and Mar Vista."
+    },
+    {
+        "album_slug": "/musicalbum/2021-2021-Winter-SMTOWN-SMCU-EXPRESS",
+        "name": "2021 Winter SMTOWN : SMCU Express",
+        "type": "STUDIO",
+        "release_date": "2021-12-27",
+        "language": "Korean",
+        "description": "2021 Winter SM Town: SMCU Express (stylized as 2021 Winter SMTOWN : SMCU EXPRESS) is the ninth winter album by SM Town. The studio album was released by SM Entertainment on December 27, 2021, and is available in 13 different versions. It features 10 songs, including two singles off the album, \"Dreams Come True\" and \"Hope from Kwangya\". The album marks the first SM Town's special season album release in 10 years after the predecessor 2011 Winter SMTOWN: The Warmest Gift, which was released in December 2011. It is also the first album to feature Kai, Red Velvet, NCT, and Aespa.As part of the SM Town 2022: SMCU Express project, 2021 Winter SM Town: SMCU Express was unveiled as SM Entertainment’s first winter album in a decade, marking their return to the seasonal tradition last seen in 2011.SM Entertainment shared that the record would showcase a wide range of artists under the label, promising unique collaborations and unexpected combinations beyond just the usual group tracks.Ahead of the full album release, a jazz version of “The Promise of H.O.T.” was pre-released on November 26, 2021 through SM Station and later added to the official tracklist on December 24. Shortly after, “Dreams Come True” was unveiled via SM Station on December 20 and went on to serve as the album’s lead single.Pre-orders for the album began on December 10, with the official release scheduled for December 27, 2021."
+    },
+    {
+        "album_slug": "/musicalbum/2021-Don-t-Fight-The-Feeling",
+        "name": "Don't Fight The Feeling",
+        "type": "MINI ALBUM",
+        "release_date": "2021-06-07",
+        "language": null,
+        "description": "Don't Fight The Feeling is the fifth special album by EXO. It was released on June 7, 2021 with \"Don't Fight The Feeling\" serving as the album's title track.This is the group's very first comeback since April 2020, Xiumin and D.O. completing their military services on December 6, 2020 and January 25, 2021, respectively and Lay's return from hiatus. Baekhyun and Chanyeol also participated in its recording and jacket shooting before they enlisted on their military services on May 6 and March 29, 2021, respectively."
+    },
+    {
+        "album_slug": "/musicalbum/2020-EXO-PLANET-5-EXplOration",
+        "name": "EXO PLANET #5 – EXplOration",
+        "type": "LIVE",
+        "release_date": "2020-04-2118:00KST",
+        "language": "Korean",
+        "description": "EXO Planet #5 –EXplOration– is the fourth live album by EXO. It was released on April 21, 2020.The songs were recorded on their concert days at the Olympic Gymnastics Arena in Seoul, South Korea."
+    },
+    {
+        "album_slug": "/musicalbum/2019-OBSESSION",
+        "name": "OBSESSION",
+        "type": "STUDIO",
+        "release_date": "2019-11-27",
+        "language": null,
+        "description": "Obsession is the sixth Korean full-length album by EXO. It was released on November 27, 2019 with \"Obsession\" serving as the album's title track.Obsession is the group's first release without members Xiumin and D.O., who were currently completing their mandatory military service.[2][3] Member Lay also did not participate in the group's comeback."
+    },
+    {
+        "album_slug": "/musicalbum/2026-velvet-summer",
+        "name": "Velvet Summer",
+        "type": "MINI ALBUM",
+        "release_date": "Label",
+        "language": "Korean",
+        "description": "Velvet Summer is the third summer mini album by Red Velvet. It will be released on August 3, 2026 with \"Surfin' Boy\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Sweet-Dreams",
+        "name": "Sweet Dreams",
+        "type": "SINGLE",
+        "release_date": "2024-08-01",
+        "language": "Korean",
+        "description": "\"Sweet Dreams\" is a song by Red Velvet. It was released on August 1, 2024 as part of the Cosmie versions of their 11th mini album Cosmic, to commemorate the group's 10th debut anniversary."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Cosmic",
+        "name": "Cosmic",
+        "type": "MINI ALBUM",
+        "release_date": "2024-06-2418:00KST",
+        "language": "Korean",
+        "description": "\"Cosmic\" is the eleventh (labeled as seventh) mini album by Red Velvet. It was released on June 24, 2024 with \"Cosmic\" serving as the album's title track.The Cosmie version, which was released on August 1, 2024, includes all 6 previously released songs and one new song, \"Sweet Dreams\", which is the title track of the album."
+    },
+    {
+        "album_slug": "/musicalbum/2023-Chill-Kill",
+        "name": "Chill Kill",
+        "type": "STUDIO",
+        "release_date": "2023-11-13",
+        "language": "Korean",
+        "description": "\"Chill Kill\" is the third full-length album by Red Velvet. It was released on November 13, 2023 with \"Chill Kill\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2023-iScreaM-Vol-25-Red-Flavor-Remix",
+        "name": "iScreaM Vol.25 : Red Flavor Remix",
+        "type": "SINGLE",
+        "release_date": "2023-08-31",
+        "language": "Korean",
+        "description": "\"iScreaM Vol.25 : Red Flavor Remix\" is the third remix single by Red Velvet. It was released on August 31, 2023 as the 25th release of the iScreaM project."
+    },
+    {
+        "album_slug": "/musicalbum/2022-Beautiful-Christmas-with-Red-Velvet",
+        "name": "Beautiful Christmas",
+        "type": "SINGLE",
+        "release_date": "2022-12-1418:00KST",
+        "language": "Korean",
+        "description": "\"Beautiful Christmas\" is a collaboration digital single by Red Velvet and aespa. It was released on December 14, 2022 as the pre-release for SMTOWN's ninth winter album, 2022 Winter SMTOWN : SMCU Palace."
+    },
+    {
+        "album_slug": "/musicalbum/2022-The-ReVe-Festival-2022-Birthday",
+        "name": "The ReVe Festival 2022 - Birthday",
+        "type": "MINI ALBUM",
+        "release_date": "2022-11-28",
+        "language": "Korean",
+        "description": "\"The ReVe Festival 2022 - Birthday\" is the tenth (labeled as eighth) mini album by Red Velvet. It was released on November 28, 2022, with \"Birthday\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2022-Bloom",
+        "name": "Bloom",
+        "type": "STUDIO",
+        "release_date": "2022-04-06",
+        "language": "Japanese",
+        "description": "\"Bloom\" is the first Japanese full-length album by Red Velvet. It was released in April 6, 2022 with \"WILDSIDE\" serving as the album's title track.The song \"WILDSIDE\" was pre-released on digital platforms on March 28 along with its music video."
+    },
+    {
+        "album_slug": "/musicalbum/2026-tiny-light",
+        "name": "Tiny Light",
+        "type": "OST",
+        "release_date": "2026-03-04",
+        "language": "English",
+        "description": "\"Tiny Light\" is an OST for BEASTARS Final Season Part 2 Ending Theme by SEVENTEEN. It was released on March 4, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Where-Love-Passed",
+        "name": "Where Love Passed",
+        "type": "SINGLE",
+        "release_date": "2025-07-14",
+        "language": "Japanese",
+        "description": "\"Where Love Passed\" is the fourth Japanese digital single by SEVENTEEN. It was released on July 14, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Happy-Burstday",
+        "name": "Happy Burstday",
+        "type": "STUDIO",
+        "release_date": "2025-05-26",
+        "language": null,
+        "description": "Happy Burstday is the fifth full-length album by SEVENTEEN. It was released on May 26, 2025 to celebrate their 10th anniversary with \"Thunder\" serving as the album's title track.The album features all 13 members, despite Jeonghan and Wonwoo's ongoing military service."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Shohikigen",
+        "name": "Shohikigen",
+        "type": "SINGLE",
+        "release_date": "2024-11-27",
+        "language": null,
+        "description": "\"Shohikigen\" is the 4th Japanese single album by SEVENTEEN. It contains 3 songs with \"MAESTRO (Japanese ver.)\", \"Circles (Japanese ver.)\" and \"Shohikigen\" as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2024-love-money-fame-kenia-os-remix",
+        "name": "Love, Money, Fame (Kenia OS Remix)",
+        "type": "SINGLE",
+        "release_date": "2024-11-08",
+        "language": "Korean",
+        "description": "\"Love, Money, Fame (Kenia OS Remix)\" is a remix single by SEVENTEEN. It was released on November 8, 2024."
+    },
+    {
+        "album_slug": "/musicalbum/2024-love-money-fame-timbaland-remix",
+        "name": "Love, Money, Fame (Timbaland Remix)",
+        "type": "SINGLE",
+        "release_date": "2024-11-01",
+        "language": "Korean",
+        "description": "\"Love, Money, Fame (Timbaland Remix)\" is a remix single by SEVENTEEN. It was released on November 1, 2024."
+    },
+    {
+        "album_slug": "/musicalbum/2024-love-money-fame-remixes",
+        "name": "Love, Money, Fame (Remixes)",
+        "type": "SINGLE",
+        "release_date": "2024-10-18",
+        "language": "Korean, English",
+        "description": "\"Love, Money, Fame (Remixes)\" is a remix single by SEVENTEEN. It was released on October 18, 2024."
+    },
+    {
+        "album_slug": "/musicalbum/2024-SPILL-THE-FEELS",
+        "name": "SPILL THE FEELS",
+        "type": "MINI ALBUM",
+        "release_date": "2024-10-1418:00KST",
+        "language": "Korean",
+        "description": "\"SPILL THE FEELS\" is the 12th mini album released by SEVENTEEN. It was released on October 14, 2024 with the title track \"LOVE, MONEY, FAME\" featuring DJ Khaled."
+    },
+    {
+        "album_slug": "/musicalbum/2024-MAESTRO-Orchestra-Remix",
+        "name": "MAESTRO (Orchestra Remix)",
+        "type": "SINGLE",
+        "release_date": "2024-05-03",
+        "language": null,
+        "description": "\"MAESTRO (Orchestra Remix)\" is a remix digital single of SEVENTEEN for the song \"MAESTRO,\" which is the title track of their 1st best album \"17 Is Right Here.\""
+    },
+    {
+        "album_slug": "/musicalbum/2024-17-Is-Right-Here",
+        "name": "17 Is Right Here",
+        "type": "COMPILATION",
+        "release_date": "2024-04-2918:00KST",
+        "language": "Korean",
+        "description": "\"17 Is Right Here\" is the first best album by SEVENTEEN. It contains a total of 33 tracks, including 4 new songs: \"Maestro,\" \"LALALI,\" \"Spell,\" and \"Cheers to Youth.\""
+    },
+    {
+        "album_slug": "/musicalbum/2026-setsuna-hanabi",
+        "name": "Setsuna Hanabi",
+        "type": "SINGLE",
+        "release_date": "Label",
+        "language": "Japanese",
+        "description": "\"Setsuna Hanabi\" is a fifth Japanese single by TOMORROW X TOGETHER. It will be released on August 19, 2026.The release features four tracks — three new originals plus an alternate version of the title song.It is TXT's first Japanese comeback in about 10 months, following their 3rd Japanese full album 'Starkissed' last October, which earned a 'Double Platinum' certification from the RIAJ for surpassing 500,000 shipments."
+    },
+    {
+        "album_slug": "/musicalbum/2026-7th-year-a-moment-of-stillness-in-the-thorns",
+        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
+        "type": "MINI ALBUM",
+        "release_date": "2026-04-1318:00KST",
+        "language": "Korean",
+        "description": "7th Year: A Moment of Stillness in the Thorns is the eighth mini album by TXT. It was released on April 13, 2026 with \"Stick With You\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-SSS-Sending-Secret-Signals-feat-HYDE",
+        "name": "SSS (Sending Secret Signals) (feat. HYDE)",
+        "type": "SINGLE",
+        "release_date": "2026-01-26",
+        "language": "Japanese",
+        "description": "\"SSS (Sending Secret Signals) (feat. HYDE)\" is the first Japanese remix single by TXT. It was released on January 26, 2026 and features Japanese rock artist HYDE."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Starkissed",
+        "name": "Starkissed",
+        "type": "STUDIO",
+        "release_date": "2025-10-20",
+        "language": null,
+        "description": "Starkissed is the third Japanese full-length album by TXT. It was released on October 20, 2025 with \"Can't Stop\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-The-Star-Chapter-TOGETHER",
+        "name": "The Star Chapter: TOGETHER",
+        "type": "STUDIO",
+        "release_date": "2025-07-21",
+        "language": null,
+        "description": "The Star Chapter: TOGETHER is the fourth full-length album by TXT. It was released on July 21, 2025 with \"Beautiful Strangers\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Step-by-Step",
+        "name": "Step by Step",
+        "type": "OST",
+        "release_date": "2025-05-26",
+        "language": null,
+        "description": "Step by Step is a Japanese song by TOMORROW X TOGETHER. It serves as the OST for the Japanese television program Mezamashi Doyoubi. It was released on May 26, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-When-The-Day-Comes",
+        "name": "When The Day Comes",
+        "type": "OST",
+        "release_date": "2025-05-11",
+        "language": null,
+        "description": "\"When The Day Comes\" by TOMORROW X TOGETHER is a soundtrack (OST Part 9) for the drama Hospital Playlist: Wise Resident Life, released on May 11, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Love-Language",
+        "name": "Love Language",
+        "type": "SINGLE",
+        "release_date": "2025-05-02",
+        "language": null,
+        "description": "\"Love Language\" is the fourth digital single by TXT. It was released on May 2, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Melo-Movie-OST-Part3",
+        "name": "Melo Movie (OST Part3)",
+        "type": "OST",
+        "release_date": "2025-02-14",
+        "language": null,
+        "description": "TOMORROW X TOGETHER released the song \"Surfing in the Moonlight\" as part of the Original Television Soundtrack for the drama \"Melo Movie\"."
+    },
+    {
+        "album_slug": "/musicalbum/2024-The-Star-Chapter-SANCTUARY",
+        "name": "The Star Chapter: SANCTUARY",
+        "type": "MINI ALBUM",
+        "release_date": "2024-11-04",
+        "language": null,
+        "description": "\"The Star Chapter: SANCTUARY\" is the seventh mini album released by Tomorrow X Together. It contains 6 tracks and was released on November 4, 2024, with the title track \"Over the Moon\"."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Winter-Heptagon",
+        "name": "Winter Heptagon",
+        "type": "MINI ALBUM",
+        "release_date": "2025-01-20",
+        "language": null,
+        "description": "Winter Heptagon is the 12th mini album by GOT7. It was released on January 20, 2025 with \"Python\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2022-GOT7",
+        "name": "GOT7",
+        "type": "MINI ALBUM",
+        "release_date": "2022-05-23",
+        "language": null,
+        "description": "\"GOT7\" is promoted as the first-ever EP of GOT7. The album's release was highly-anticipated as this was the group's first full group album after leaving JYP Entertainment in 2021. It features six songs, with \"NANANA\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2021-Encore",
+        "name": "Encore",
+        "type": "SINGLE",
+        "release_date": "2021-02-2018:00KST",
+        "language": "Korean",
+        "description": "\"Encore\" is the fourth digital single by GOT7. It was released on February 20, 2021. It is the group's first release since their departure from JYP Entertainment in January 2021."
+    },
+    {
+        "album_slug": "/musicalbum/2020-Breath-of-Love-Last-Piece",
+        "name": "Breath of Love : Last Piece",
+        "type": "STUDIO",
+        "release_date": "2020-11-30",
+        "language": null,
+        "description": "\"Breath of Love: Last Piece\" is the fourth studio album by GOT7. It contains ten songs with \"Last Piece\" and \"Breath\" serving as a pre-release single on November 23, 2020."
+    },
+    {
+        "album_slug": "/musicalbum/2020-DYE",
+        "name": "DYE",
+        "type": "MINI ALBUM",
+        "release_date": "2020-04-20",
+        "language": null,
+        "description": "Dye is the 11th mini album by GOT7. It was released on April 20, 2020 with \"Not By The Moon\" serving as the album's title track. \"Aura\" and \"Poison\" were also performed during their promotions.The physical album comes in 5 versions: A, B, C, D, and E."
+    },
+    {
+        "album_slug": "/musicalbum/2019-Love-Loop-Sing-for-U-Special-Edition",
+        "name": "Love Loop ~Sing for U Special Edition~",
+        "type": "MINI ALBUM",
+        "release_date": "2019-12-18",
+        "language": null,
+        "description": "Love Loop ~Sing for U Special Edition~ is a repackage of GOT7's fourth Japanese mini album Love Loop. It was released on December 18, 2019. The track \"Sing for U\" was pre-released on October 21, 2019.The music video for \"Sing for U (Memorial Ver.)\" was released on December 7, 2019."
+    },
+    {
+        "album_slug": "/musicalbum/2019-Call-My-Name",
+        "name": "Call My Name",
+        "type": "MINI ALBUM",
+        "release_date": "2019-11-0418:00KST",
+        "language": "Korean",
+        "description": "Call My Name is the tenth mini album by GOT7. It was released on November 4, 2019 with \"You Calling My Name\" serving as the album's title track. \"Crash & Burn\" and \"Thursday\" were also used during promotions."
+    },
+    {
+        "album_slug": "/musicalbum/2019-Love-Loop",
+        "name": "Love Loop",
+        "type": "MINI ALBUM",
+        "release_date": "2019-07-31",
+        "language": null,
+        "description": "Love Loop is the fourth Japanese mini album by GOT7. It was released on July 31, 2019, with \"Love Loop\" serving as the album's title track.The song \"Love Loop\" was released on June 25, 2019, along with its music video.A repackage titled Love Loop ~Sing for U Special Edition~ was released on December 18, 2019."
+    },
+    {
+        "album_slug": "/musicalbum/2019-SPINNING-TOP-BETWEEN-SECURITY-INSECURITY",
+        "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+        "type": "MINI ALBUM",
+        "release_date": "2019-05-20",
+        "language": null,
+        "description": "Spinning Top : Between Security & Insecurity is the ninth mini album by GOT7. It was released on May 20, 2019 with \"Eclipse\" serving as the album's title track.The physical release comes in three versions: Security, &, and Insecurity."
+    },
+    {
+        "album_slug": "/musicalbum/2026-kiss-n-tell",
+        "name": "Kiss N Tell",
+        "type": "MINI ALBUM",
+        "release_date": "Label",
+        "language": "Japanese",
+        "description": "Kiss N Tell is the first Japanese mini-album by aespa. It will be released on July 24, 2026 with Kiss N Tell serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-lemonade-2spade-remix",
+        "name": "LEMONADE (2Spade Remix)",
+        "type": "SINGLE",
+        "release_date": "2026-06-0313:00KST",
+        "language": "Korean",
+        "description": "On June 3, 2026 aespa released the remix to the track \"LEMONADE\", remixed by 2Spade."
+    },
+    {
+        "album_slug": "/musicalbum/2026-lemonade-marlon-hoffstadt-remix",
+        "name": "LEMONADE (Marlon Hoffstadt Remix)",
+        "type": "SINGLE",
+        "release_date": "2026-06-0213:00KST",
+        "language": "Korean",
+        "description": "On June 2, 2026 aespa released the remix to the track \"LEMONADE\". The track is remixed by German producer & DJ, Marlon Hoffstadt."
+    },
+    {
+        "album_slug": "/musicalbum/2026-lemonade-zedd-remix",
+        "name": "LEMONADE (Zedd Remix)",
+        "type": "SINGLE",
+        "release_date": "2026-06-0113:00KST",
+        "language": "Korean",
+        "description": "On June 1, 2026 aespa released the remix to the track \"LEMONADE\". The track is remixed by German producer & DJ, Zedd."
+    },
+    {
+        "album_slug": "/musicalbum/2026-lemonade",
+        "name": "LEMONADE",
+        "type": "STUDIO",
+        "release_date": "2026-05-2913:00KST",
+        "language": "Korean",
+        "description": "LEMONADE is the second studio album by aespa. It was released on May 29, 2026 with \"WDA (Whole Different Animal)\" and \"LEMONADE\" serving as the album's title tracks."
+    },
+    {
+        "album_slug": "/musicalbum/2026-k-pops-music-from-and-inspired-by",
+        "name": "K-POPS! (Music From and Inspired By)",
+        "type": "OST",
+        "release_date": "2026-05-2913:00KST",
+        "language": "English",
+        "description": "On May 29, 2026, the official soundtrack to the film \"K-POPS!\" will be released. The singles \"Keychain\" featuring Aespa and \"Aftertaste\" featuring DEAN were released on February 27 and May 8 respectively.The soundtrack also features artists Crush, NMIXX, Hongjoong of ATEEZ, Jay Park, LNGSHOT, Chungha, Soyeon of i-dle, Joshua of SEVENTEEN, JO1, Kevin Woo and G-Dragon.The film is directed, written and produced by Anderson .Paak, who also stars in the project."
+    },
+    {
+        "album_slug": "/musicalbum/2026-wda-whole-different-animal",
+        "name": "WDA (Whole Different Animal)",
+        "type": "SINGLE",
+        "release_date": "2026-05-1118:00KST",
+        "language": "Korean",
+        "description": "\"WDA (Whole Different Animal)\" is the ninth digital single by aespa. It was released on May 11, 2026 and features G-Dragon. It serves as the pre-release single for the group's second full-length album, \"Lemonade\"."
+    },
+    {
+        "album_slug": "/musicalbum/2026-attitude",
+        "name": "Attitude",
+        "type": "SINGLE",
+        "release_date": "2026-03-06",
+        "language": "Japanese",
+        "description": "\"Attitude\" is the first Japanese digital single by aespa. It was released on March 6, 2026 as the opening theme song for the anime Kill Blue."
+    },
+    {
+        "album_slug": "/musicalbum/2026-keychain",
+        "name": "Keychain",
+        "type": "SINGLE",
+        "release_date": "2026-02-27",
+        "language": "English",
+        "description": "\"Keychain\" is an OST by aespa and Anderson .Paak. It was released on February 27, 2026 as part of the soundtrack for the movie K-Pops!."
+    },
+    {
+        "album_slug": "/musicalbum/2025-SYNK-aeXIS-LINE-2025-Special-Digital-Single",
+        "name": "SYNK : aeXIS LINE",
+        "type": "SINGLE",
+        "release_date": "2025-11-17",
+        "language": "Korean",
+        "description": "\"SYNK : aeXIS LINE\" is the second special digital single by aespa. It was released on November 17, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2026-bad-ofenbach-ver",
+        "name": "BAD (Ofenbach Ver.)",
+        "type": "SINGLE",
+        "release_date": "2026-07-0612:00KST",
+        "language": "Korean",
+        "description": "\"BAD (Ofenbach Ver.)\" is the ninth remix single by ATEEZ. It was released on July 6, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-bad-james-carter-ver",
+        "name": "BAD (James Carter Ver.)",
+        "type": "SINGLE",
+        "release_date": "2026-07-0212:00KST",
+        "language": "Korean",
+        "description": "\"BAD (James Carter Ver.)\" is the eighth remix single by ATEEZ. It was released on July 2, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-bad-steve-aoki-ver",
+        "name": "BAD (Steve Aoki Ver)",
+        "type": "SINGLE",
+        "release_date": "2026-06-3012:00KST",
+        "language": "Korean",
+        "description": "\"Bad (Steve Aoki Ver.)\" is the seventh remix single by ATEEZ. It was released on June 30, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-bad-remix",
+        "name": "Bad (Remix)",
+        "type": "SINGLE",
+        "release_date": "2026-06-2912:00KST",
+        "language": "Korean",
+        "description": "Bad (Remix) is the third remix album by ATEEZ. It was released on June 29, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-golden-hour-part5",
+        "name": "GOLDEN HOUR : Part.5",
+        "type": "MINI ALBUM",
+        "release_date": "2026-06-2613:00KST",
+        "language": "Korean",
+        "description": "\"GOLDEN HOUR : Part.5\" is the fourteenth mini album by ATEEZ. It was released on June 26, 2026 with \"BAD\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-adrenaline-remix",
+        "name": "Adrenaline (Remix)",
+        "type": "SINGLE",
+        "release_date": "2026-02-09",
+        "language": null,
+        "description": "\"Adrenaline (Remix)\" is the sixth remix single by Ateez. It was released on February 9, 2026 with \"Adrenaline (NO1 Ver.)\" serving as the single's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-GOLDEN-HOUR-Part-4",
+        "name": "GOLDEN HOUR: Part.4",
+        "type": "MINI ALBUM",
+        "release_date": "2026-02-06",
+        "language": null,
+        "description": "\"Golden Hour : Part.4\" is the 13th mini album by ATEEZ. It was released on February 6, 2026, “Adrenaline”, serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Waiting-for-You-from-Last-Summer-OST",
+        "name": "Waiting for You (from Last Summer OST)",
+        "type": "OST",
+        "release_date": "2025-11-22",
+        "language": null,
+        "description": "Waiting for You (from Last Summer OST) is an OST single by ATEEZ. It was released on November 22, 2025 under YAMYAM Entertainment, with “Waiting for You” serving as the single’s title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Choose",
+        "name": "Choose",
+        "type": "SINGLE",
+        "release_date": "2025-11-17",
+        "language": null,
+        "description": "Choose is a digital single by ATEEZ. It was released on November 17, 2025 under KQ Entertainment, with “Choose” serving as the single’s title track.This release is described as a gift to ATINY, celebrating the long time ATEEZ and their fans have spent together."
+    },
+    {
+        "album_slug": "/musicalbum/2026-motto-remixes",
+        "name": "Motto (Remixes)",
+        "type": "SINGLE",
+        "release_date": "2026-05-2213:00KST",
+        "language": "Korean, English",
+        "description": "\"Motto (Remixes)\" is a remix single by ITZY. It was released on May 22, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-motto",
+        "name": "Motto",
+        "type": "MINI ALBUM",
+        "release_date": "2026-05-1818:00KST",
+        "language": "Korean",
+        "description": "Motto is the twelfth mini-album by ITZY. It was released on May 18, 2026 with Motto serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Tunnel-Vision-Remixes",
+        "name": "Tunnel Vision (Remixes)",
+        "type": "SINGLE",
+        "release_date": "2025-11-14",
+        "language": null,
+        "description": "\"Tunnel Vision (Remixes)\" is the second remix single by ITZY. It was released on November 14, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Tunnel-Vision",
+        "name": "Tunnel Vision",
+        "type": "MINI ALBUM",
+        "release_date": "2025-11-1018:00KST",
+        "language": "Korean",
+        "description": "\"Tunnel Vision\" is the 11th EP by ITZY, and it was released on November 10th 2025 with Tunnel Vision as title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Collector",
+        "name": "Collector",
+        "type": "STUDIO",
+        "release_date": "2025-10-08",
+        "language": "Japanese",
+        "description": "\"Collector\" is the second Japanese full-length album by ITZY. It was released on October 8, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Girls-Will-Be-Girls-Remixes",
+        "name": "Girls Will Be Girls (Remixes)",
+        "type": "SINGLE",
+        "release_date": "2025-06-13",
+        "language": null,
+        "description": "\"Girls Will Be Girls (Remixes)\" is the first remix single by ITZY. It was released on June 13, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2024-GOLD",
+        "name": "GOLD",
+        "type": "MINI ALBUM",
+        "release_date": "2024-10-15",
+        "language": null,
+        "description": "\"Gold\" is a mini album released by ITZY. It was released on October 15, 2024."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Algorhythm",
+        "name": "Algorhythm",
+        "type": "SINGLE",
+        "release_date": "2024-05-15",
+        "language": "Japanese",
+        "description": "\"Algorhythm\" is the third Japanese single album by ITZY. It was released on May 15, 2024, with \"Algorhythm\" serving as the single's title track.The b-side track \"No Biggie\" was pre-released on May 1, 2024."
+    },
+    {
+        "album_slug": "/musicalbum/2025-k-pop-scream-2",
+        "name": "K-POP ScreaM 2",
+        "type": "EP",
+        "release_date": "2025-04-1118:00KST",
+        "language": "Korean",
+        "description": "K-POP ScreaM 2 is the third remix EP by ScreaM Records. It was released on April 11, 2025 with \"Walk (Arkins Remix)\" serving as the album's title track. The album is comprised of nine remixes of songs by Aespa & NCT 127."
+    },
+    {
+        "album_slug": "/musicalbum/2024-k-pop-scream-1",
+        "name": "K-POP ScreaM 1",
+        "type": "EP",
+        "release_date": "2024-12-1118:00KST",
+        "language": "Korean",
+        "description": "K-POP ScreaM 1 is the second remix EP by ScreaM Records. It was released on December 11, 2024 with \"Show! Show! Show! (duco Remix)\" and \"Whiplash (monotostereo Remix)\" serving as the album's double title tracks. The album consists of 13 remixes of songs by Girls' Generation, Aespa, RIIZE, NCT, Kai & Taeyeon."
+    },
+    {
+        "album_slug": "/musicalbum/2024-WALK2",
+        "name": "WALK",
+        "type": "STUDIO",
+        "release_date": "2024-07-15",
+        "language": null,
+        "description": "WALK (삐그덕) is the 6th studio album of NCT 127. Released on July 15, 2024, it contains eleven songs together with the title track of the same name."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Colors",
+        "name": "Colors",
+        "type": "SINGLE",
+        "release_date": "2024-05-2300:00KST",
+        "language": "Japanese",
+        "description": "Discover Colors, the official single from K-pop artist NCT 127. The album was released on 2024-05-23 under SM Entertainment. The release features 0 tracks, including the title track \"Colors\". Explore the full tracklist, music videos, and concept photos below."
+    },
+    {
+        "album_slug": "/musicalbum/2023-Be-There-For-Me",
+        "name": "Be There For Me",
+        "type": "SINGLE",
+        "release_date": "2023-12-22",
+        "language": null,
+        "description": "\"Be There For Me\" is the first special single by NCT 127. It was released on December 22, 2023 with \"Be There For Me\" serving as title track."
+    },
+    {
+        "album_slug": "/musicalbum/2023-Fact-Check-The-5th-Album",
+        "name": "Fact Check - The 5th Album",
+        "type": "STUDIO",
+        "release_date": "2023-10-06",
+        "language": null,
+        "description": "\"Fact Check\" is the 5th studio album of NCT 127. It contains nine songs, with \"Fact Check\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2023-Ay-Yo",
+        "name": "Ay-Yo",
+        "type": "REPACKAGE",
+        "release_date": "2023-01-30",
+        "language": null,
+        "description": "\"Ay-Yo\" is the fourth album repackage by NCT 127. It contains fifteen songs, with \"Ay-Yo\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2022-2-Baddies",
+        "name": "2 Baddies",
+        "type": "STUDIO",
+        "release_date": "2022-09-16",
+        "language": null,
+        "description": "\"2 Baddies\" is the fourth studio album of NCT127. It contains twelve songs, with \"2 Baddies\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-iconic-by-mistake",
+        "name": "ICONIC BY MISTAKE",
+        "type": "SINGLE",
+        "release_date": "2026-06-1100:00KST",
+        "language": "English",
+        "description": "ICONIC BY MISTAKE is a collaboration between LE SSERAFIM, ILLIT, & KATSEYE. It was released on June 11, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-boompala-feat-guru-randhawa",
+        "name": "BOOMPALA (feat. GURU RANDHAWA)",
+        "type": "SINGLE",
+        "release_date": "2026-06-06",
+        "language": "English",
+        "description": "\"BOOMPALA (feat. GURU RANDHAWA)\" is the remix single by LE SSERAFIM. It was released on June 06, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-boompala-feat-santos-bravos",
+        "name": "BOOMPALA (feat. SANTOS BRAVOS)",
+        "type": "SINGLE",
+        "release_date": "2026-06-05",
+        "language": "English",
+        "description": "\"BOOMPALA (feat. SANTOS BRAVOS)\" is the remix single by LE SSERAFIM. It was released on June 05, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-boompala-champions-remix",
+        "name": "Boompala (Champions Remix)",
+        "type": "SINGLE",
+        "release_date": "2026-06-0318:00KST",
+        "language": "English",
+        "description": "\"Boompala (Champions Remix)\" is the eleventh English remix single by LE SSERAFIM. It was released on June 3, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-celebration-supergirl-version",
+        "name": "CELEBRATION (Supergirl Version)",
+        "type": "OST",
+        "release_date": "2026-05-3118:00KST",
+        "language": "Korean",
+        "description": "\"CELEBRATION (Supergirl Version)\" is the second OST by LE SSERAFIM. It was released on May 31, 2026 as a collaboration with DC Studios for the movie, Supergirl."
+    },
+    {
+        "album_slug": "/musicalbum/2026-boompala-le-sserafim-package",
+        "name": "BOOMPALA (LE SSERAFIM Package)",
+        "type": "SINGLE",
+        "release_date": "2026-05-2518:00KST",
+        "language": "English",
+        "description": "\"BOOMPALA (LE SSERAFIM Package)\" is the tenth English remix single by LE SSERAFIM. It was released on May 25, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-boompala-remixes",
+        "name": "Boompala (Remixes)",
+        "type": "SINGLE",
+        "release_date": "2026-05-2318:00KST",
+        "language": "English",
+        "description": "\"Boompala (Remixes)\" is the ninth English remix single by LE SSERAFIM. It was released on May 23, 2026 with \"Boompala\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-pureflow-pt1",
+        "name": "PUREFLOW pt.1",
+        "type": "STUDIO",
+        "release_date": "2026-05-2213:00KST",
+        "language": "Korean",
+        "description": "\"PUREFLOW\" pt.1 is the second studio album by LE SSERAFIM. It was released on May 22, 2026 with \"Celebration\" and \"Boompala\" serving as the album's double title tracks.\"CELEBRATION\" was pre-released on April 24, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-celebration-sara-landry-remix",
+        "name": "CELEBRATION (Sara Landry Remix)",
+        "type": "SINGLE",
+        "release_date": "2026-05-06",
+        "language": "Korean",
+        "description": "\"CELEBRATION (Sara Landry Remix)\" is the remix single by LE SSERAFIM. It was released on May 06, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-celebration-remixes",
+        "name": "CELEBRATION (Remixes)",
+        "type": "SINGLE",
+        "release_date": "2026-04-2513:00KST",
+        "language": "Korean",
+        "description": "\"CELEBRATION (Remixes)\" is the seventh remix single by LE SSERAFIM. It was released on April 25, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-greengreen",
+        "name": "GREENGREEN",
+        "type": "MINI ALBUM",
+        "release_date": "2026-05-0418:00KST",
+        "language": "Korean",
+        "description": "Greengreen (stylized in all caps) is the second EP by CORTIS. It was released on May 4, 2026 with the title track \"TNT\".\"REDRED\" was pre-released on April 20, 2026, with an accompanying music video.The music video for the track \"ACAI\" was released on May 11."
+    },
+    {
+        "album_slug": "/musicalbum/2026-redred",
+        "name": "REDRED",
+        "type": "SINGLE",
+        "release_date": "2026-04-2018:00KST",
+        "language": "Korean",
+        "description": "\"REDRED\" is the second digital single by CORTIS. It was released on April 20, 2026 as a pre-release for their second EP, GREENGREEN."
+    },
+    {
+        "album_slug": "/musicalbum/2026-mention-me",
+        "name": "Mention Me",
+        "type": "SINGLE",
+        "release_date": "2026-02-13",
+        "language": "English",
+        "description": "\"Mention Me\" is a single by CORTIS for the 2026 animated sports film \"GOAT\". It was released on February 13."
+    },
+    {
+        "album_slug": "/musicalbum/2025-COLOR-OUTSIDE-THE-LINES",
+        "name": "COLOR OUTSIDE THE LINES",
+        "type": "MINI ALBUM",
+        "release_date": "2025-09-08",
+        "language": "Korean",
+        "description": "CORTIS debut album \"COLOR OUTSIDE THE LINES\" was released on September 8th 6PM KST with \"What You Want\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-What-You-Want-feat-Teezo-Touchdown",
+        "name": "What You Want (feat. Teezo Touchdown)",
+        "type": "SINGLE",
+        "release_date": "2025-08-22",
+        "language": null,
+        "description": "The English Version of What You Want featuring American Rapper Teezo Touchdown was released on August 22,2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-What-You-Want",
+        "name": "What You Want",
+        "type": "SINGLE",
+        "release_date": "2025-08-18",
+        "language": null,
+        "description": "CORTIS digital single 'What You Want' is a pre-release of their title track from their debut album 'COLOUR OUTSIDE THE LINES'."
+    },
+    {
+        "album_slug": "/musicalbum/2026-sugar-honey-ice-tea",
+        "name": "SUGAR HONEY ICE TEA",
+        "type": "SINGLE",
+        "release_date": "2026-06-0800:00KST",
+        "language": "Korean",
+        "description": "\"SUGAR HONEY ICE TEA\" is the fourth digital single by BABYMONSTER. It was released on June 8, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-choom",
+        "name": "CHOOM",
+        "type": "MINI ALBUM",
+        "release_date": "2026-05-0418:00KST",
+        "language": "Korean",
+        "description": "\"CHOOM\" is the third mini album by BABYMONSTER. It was released on May 4, 2026. Rami did not participate in this comeback as she is still on hiatus.The music video for \"I LIKE IT\" was released on June 6, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2025-We-Go-Up",
+        "name": "We Go Up",
+        "type": "MINI ALBUM",
+        "release_date": "2025-10-1018:00KST",
+        "language": "Korean",
+        "description": "We Go Up (stylized in all caps) is the second mini album by South Korean girl group Babymonster. It was released on October 10, 2025, and consists of four tracks, including the title track of the same name."
+    },
+    {
+        "album_slug": "/musicalbum/2025-2025-BABYMONSTER-1st-World-Tour-Hello-Monsters-in-Japan",
+        "name": "2025 BABYMONSTER 1st World Tour - HELLO MONSTERS - IN JAPAN",
+        "type": "LIVE",
+        "release_date": "2025-09-14",
+        "language": "Korean",
+        "description": "2025 BABYMONSTER 1st World Tour <Hello Monsters> in Japan, is the first Japanese live album by BABYMONSTER. It was released on September 14, 2025. The recordings for this album were from their concert at K-Arena Yokohama in Japan on, April 13, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-HOT-SAUCE",
+        "name": "HOT SAUCE",
+        "type": "SINGLE",
+        "release_date": "2025-07-01",
+        "language": "English",
+        "description": "\"HOT SAUCE\" is the second digital single by BABYMONSTER. It was released on July 1, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Ghost",
+        "name": "Ghost",
+        "type": "OST",
+        "release_date": "2025-05-07",
+        "language": "Japanese",
+        "description": "\"Ghost\" is the first Japanese OST by BABYMONSTER. It was released on May 7, 2025 as the theme song of the film \"見える子ちゃん (Mieruko-chan), a live-action adaptation based on the manga series of the same name."
+    },
+    {
+        "album_slug": "/musicalbum/2024-drip",
+        "name": "DRIP",
+        "type": "STUDIO",
+        "release_date": "2024-11-01",
+        "language": "Korean",
+        "description": "\"Drip\" is the first full album by BABYMONSTER. It was released on November 1, 2024, with \"Drip\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Batter-Up-JP-Ver",
+        "name": "Batter Up (JP Ver.)",
+        "type": "SINGLE",
+        "release_date": "2024-08-16",
+        "language": "Japanese",
+        "description": "\"Batter Up (JP Ver.)\" is the first Japanese single by BABYMONSTER."
+    },
+    {
+        "album_slug": "/musicalbum/2024-FOREVER",
+        "name": "FOREVER",
+        "type": "SINGLE",
+        "release_date": "2024-07-01",
+        "language": "Korean, English",
+        "description": "\"FOREVER\" is a digital single by BABYMONSTER."
+    },
+    {
+        "album_slug": "/musicalbum/2024-BABYMONS7ER",
+        "name": "BABYMONS7ER",
+        "type": "MINI ALBUM",
+        "release_date": "2024-04-01",
+        "language": "Korean",
+        "description": "\"BABYMONS7ER\" is the first mini album by BABYMONSTER. It was released on April 1, 2024 with \"Sheesh\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-i-got-your-back",
+        "name": "I Got Your Back",
+        "type": "SINGLE",
+        "release_date": "Label",
+        "language": "Japanese",
+        "description": "\"I Got Your Back\" is the second Japanese single by ILLIT. It will be released on July 26, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-its-me",
+        "name": "MAMIHLAPINATAPAI",
+        "type": "MINI ALBUM",
+        "release_date": "2026-04-3018:00KST",
+        "language": "Korean",
+        "description": "\"MAMIHLAPINATAPAI\"  (pronounced mah-mee-lah-pee-nah-tah-pie) is the fourth mini album by ILLIT. It was released on April 30, 2026 with \"It's Me\" serving as the album's title track, the album's name is derived is from the Yaghan word from Tierra del Fuego, listed in The Guinness Book of World Records as the \"most succinct word\", and is considered one of the hardest words to translate.It has been translated as \"a look that without words is shared by two people who want to initiate something, but that neither will start\" or \"looking at each other hoping that the other will offer to do something which both parties desire but are unwilling to do\"."
+    },
+    {
+        "album_slug": "/musicalbum/2026-bubee-korean-ver",
+        "name": "Bubee (Korean Ver.)",
+        "type": "SINGLE",
+        "release_date": "2026-04-1318:00KST",
+        "language": "Korean",
+        "description": "On April 13, 2026 ILLIT released the Korean version of their song \"Bubee\"."
+    },
+    {
+        "album_slug": "/musicalbum/2026-bubee",
+        "name": "Bubee",
+        "type": "SINGLE",
+        "release_date": "2026-04-0612:00KST",
+        "language": "Japanese",
+        "description": "\"Bubee\" is the fourth Japanese digital single by ILLIT. It was released on April 6, 2026 as the opening theme for the TV anime Magical Sisters LuluttoLilly."
+    },
+    {
+        "album_slug": "/musicalbum/2026-Sunday-Morning",
+        "name": "Sunday Morning",
+        "type": "SINGLE",
+        "release_date": "2026-01-13",
+        "language": null,
+        "description": "\"Sunday Morning\" is the third Japanese digital single by ILLIT. It was released on January 13, 2026 as the opening theme for the TV anime 'Tis Time for \"Torture,\" Princess Season 2. It serves as a pre release for the single 'I Got Your Back'."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Not-Cute-Anymore-Holiday-Remixes",
+        "name": "Not Cute Anymore (Holiday Remixes)",
+        "type": "SINGLE",
+        "release_date": "2025-12-19",
+        "language": "Korean",
+        "description": "\"Not Cute Anymore (Holiday Remixes)\" is the third remix single by ILLIT. It was released on December 19, 2025 and consists of remixes of \"Not Cute Anymore\" from the group's first single album, Not Cute Anymore."
+    },
+    {
+        "album_slug": "/musicalbum/2025-All-For-You-2027",
+        "name": "All For You, 2027",
+        "type": "SINGLE",
+        "release_date": "2025-12-16",
+        "language": "Korean",
+        "description": "All For You, 2027, is the first promotional single by ILLIT. This song was originally made for MegaStudyEdu's, 2027 MEGAPASS on November 3, 2025.  It was released as a single album on December 16, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Not-Cute-Anymore",
+        "name": "Not Cute Anymore",
+        "type": "SINGLE",
+        "release_date": "2025-11-24",
+        "language": "Korean",
+        "description": "\"Not Cute Anymore\" is the first Korean single album by ILLIT. It was released on November 24, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-love-smile",
+        "name": "Love Smile",
+        "type": "OST",
+        "release_date": "2025-11-15",
+        "language": "Korean",
+        "description": "Love Smile is a song by ILLIT's Yunah and Minju. It serves as an OST for the original soundtrack for Last Summer. It was released on November 15, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2026-unfold",
+        "name": "Unfold",
+        "type": "STUDIO",
+        "release_date": "2026-04-03",
+        "language": "English",
+        "description": "Unfold is the third English studio album by MONSTA X. It was released on April 3, 2026 with \"Heal\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-Growing-Pains",
+        "name": "growing pains",
+        "type": "SINGLE",
+        "release_date": "2026-02-0600:00KST",
+        "language": "English",
+        "description": "\"Growing Pains\" (stylized in all lower caps) is the eighth English digital single by MONSTA X. It was released on February 6, 2026.The track was later included in their third English studio album, Unfold, released in April of the same year."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Baby-Blue-2",
+        "name": "Baby Blue",
+        "type": "SINGLE",
+        "release_date": "2025-11-14",
+        "language": "English",
+        "description": "\"Baby Blue\" is the seventh English digital single by MONSTA X. It was released on November 14, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-N-the-Front-H-ONE-Remix",
+        "name": "N the Front (H.ONE Remix)",
+        "type": "SINGLE",
+        "release_date": "2025-09-05",
+        "language": null,
+        "description": "“N the Front (H.ONE Remix)” is a remix of Monsta X’s N the Front from The X, released on September 5, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-The-X",
+        "name": "The X",
+        "type": "MINI ALBUM",
+        "release_date": "2025-09-01",
+        "language": "Korean",
+        "description": "The X is the 13th mini album by MONSTA X. It was released on September 1, 2025 with \"N The Front\" serving as the album's title track.\"Do What I Want\" was pre-released on August 18, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Do-What-I-Want",
+        "name": "Do What I Want",
+        "type": "SINGLE",
+        "release_date": "2025-08-18",
+        "language": null,
+        "description": "“Do What I Want\" is a pre-release track, issued on August 18, 2025. It will serve as the opening track on the group’s upcoming mini album The X, scheduled for release on September 1, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Beautiful-Liar-GAMBLER-JAPAN-SPECIAL-EDITION",
+        "name": "Beautiful Liar / GAMBLER (JAPAN SPECIAL EDITION)",
+        "type": "SINGLE",
+        "release_date": "2025-05-28",
+        "language": null,
+        "description": "\"Beautiful Liar / Gambler (Japan Special Edition)\" is the second Japanese digital single by MONSTA X. It was released on May 28, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-NOW-PROJECT-vol-1",
+        "name": "NOW PROJECT vol.1",
+        "type": "STUDIO",
+        "release_date": "2025-05-14",
+        "language": null,
+        "description": "Now Project Vol.1 (stylized as NOW PROJECT vol.1) is the first remake album (labeled as a digital album) by MONSTA X. It was released on May 14, 2025 to celebrate the group's 10th anniversary with \"Rush Hour (Rerecorded)\", \"Love (Rerecorded)\" and \"Beautiful Liar (Rerecorded)\" serving as the album's triple title tracks."
+    },
+    {
+        "album_slug": "/musicalbum/2023-SWING",
+        "name": "SWING",
+        "type": "SINGLE",
+        "release_date": "2023-03-16",
+        "language": null,
+        "description": "SWING is a collab track featuring Monsta X, Play-N-Skillz, Lil Jon, Bun B, and Symba for the 2023 World Baseball Classics (WBC). It was released digitally on March 16, 2023."
+    },
+    {
+        "album_slug": "/musicalbum/2023-Reason",
+        "name": "Reason",
+        "type": "MINI ALBUM",
+        "release_date": "2023-01-09",
+        "language": null,
+        "description": "Reason is the 12th mini album by MONSTA X. It was released on January 9, 2023 with \"Beautiful Liar\" serving as the album's title track. This release marks the last appearance of Minhyuk before enlisting in the military."
+    },
+    {
+        "album_slug": "/musicalbum/2026-we-made",
+        "name": "We made",
+        "type": "MINI ALBUM",
+        "release_date": "2026-07-0618:00KST",
+        "language": "Korean",
+        "description": "\"We made\" is the 9th mini-album by i-dle. It was released on July 6, 2026 with \"Gimme Dat Love\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-crow",
+        "name": "Crow",
+        "type": "SINGLE",
+        "release_date": "2026-06-1518:00KST",
+        "language": "Korean",
+        "description": "\"Crow\" is a digital single by i-dle. It is a pre-release for their 9th Mini Album 'We Made'. It was released on June 15, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-hide-and-seek",
+        "name": "Hide and Seek",
+        "type": "SINGLE",
+        "release_date": "2026-04-2212:00KST",
+        "language": "Japanese",
+        "description": "\"Hide and Seek\" is the first Japanese digital single by i-dle. It was released on April 22, 2026. It will be the opening theme for the TV Asahi's series Gals Can't Be Kind to Otaku!?."
+    },
+    {
+        "album_slug": "/musicalbum/2026-mono-2",
+        "name": "Mono",
+        "type": "SINGLE",
+        "release_date": "2026-01-27",
+        "language": "Korean",
+        "description": "\"Mono\" is the sixth digital single by i-dle. It was released on January 27, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Genie-Make-a-Wish-OST-Part-3",
+        "name": "Genie, Make a Wish - OST Part 3",
+        "type": "OST",
+        "release_date": "2025-10-03",
+        "language": "Korean",
+        "description": "i-dle(Soyeon, Yuqi) sang 'GAME' as part of OST of the drama 'Genie, Make a Wish'."
+    },
+    {
+        "album_slug": "/musicalbum/2025-I-dle",
+        "name": "I-dle",
+        "type": "MINI ALBUM",
+        "release_date": "2025-10-03",
+        "language": null,
+        "description": "\"i-dle\" is the first Japanese EP by i-dle. It was released on October 3, 2025 with \"どうしよっかな\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Solo-Leveling-ARISE-Original-Soundtrack",
+        "name": "'Solo Leveling:ARISE' (Original Soundtrack)",
+        "type": "OST",
+        "release_date": "2025-07-03",
+        "language": null,
+        "description": "\"'Solo Leveling:ARISE' (Original Soundtrack)\" is an OST by i-dle that is a part of a collaboration between the group and the video game \"Solo Leveling:ARISE\"."
+    },
+    {
+        "album_slug": "/musicalbum/2025-We-Are",
+        "name": "We Are",
+        "type": "MINI ALBUM",
+        "release_date": "2025-05-19",
+        "language": "Korean",
+        "description": "\"We Are\" is the eighth mini album by i-dle. It was released on May 19, 2025 with \"Good Thing\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-We-are-i-dle",
+        "name": "We are i-dle",
+        "type": "MINI ALBUM",
+        "release_date": "2025-05-02",
+        "language": null,
+        "description": "Released in May 2, 2025, \"We are i-dle\" is i-dle's 1st Special Mini Album."
+    },
+    {
+        "album_slug": "/musicalbum/2024-I-SWAY",
+        "name": "I SWAY",
+        "type": "MINI ALBUM",
+        "release_date": "2024-07-08",
+        "language": null,
+        "description": "“I SWAY” is the 7th mini album by (G)I-DLE, serving \"KLAXON\" as its title track. It was released on July 8, 2024."
+    },
+    {
+        "album_slug": "/musicalbum/2026-atmos",
+        "name": "Atmos",
+        "type": "MINI ALBUM",
+        "release_date": "2026-06-0118:00KST",
+        "language": "Korean",
+        "description": "\"Atmos\" is the sixth mini album by SHINee. It was released on June 1, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Poet-Artist",
+        "name": "Poet | Artist",
+        "type": "SINGLE",
+        "release_date": "2025-05-2518:00KST",
+        "language": "Korean",
+        "description": "Poet | Artist is the first single album by South Korean boy band SHINee. It was released on May 25, 2025, through SM Entertainment, to mark the group's 17th anniversary. The album was interpreted by music critics as a tribute to their late bandmate Jonghyun. It is also seen in the album title as it references the final studio album released posthumously by Jonghyun.It consists of two tracks, including the lead single, \"Poet | Artist\", which was written by Jonghyun.  The song also features his vocals in the bridge taken from the guide version he left behind."
+    },
+    {
+        "album_slug": "/musicalbum/2023-HARD",
+        "name": "HARD",
+        "type": "STUDIO",
+        "release_date": "2023-06-26",
+        "language": null,
+        "description": "\"HARD\" is the 8th full-length album of SHINee. It contains ten songs, with \"Hard\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2021-Superstar",
+        "name": "Superstar",
+        "type": "MINI ALBUM",
+        "release_date": "2021-06-28",
+        "language": "Japanese",
+        "description": "\"Superstar\" is the first Japanese mini-album by the South Korean boy group SHINee. Released digitally on June 28, 2021, and physically on July 28, 2021, it marked the group's first original Japanese release in approximately three years. The album has 5 tracks with \"Superstar\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2021-Atlantis",
+        "name": "Atlantis",
+        "type": "STUDIO",
+        "release_date": "2021-04-12",
+        "language": null,
+        "description": "\"Atlantis\" is the repackage of SHINee's seventh full-length album, \"Don't Call Me\". It contains twelve songs, including the title track, \"Atlantis\"."
+    },
+    {
+        "album_slug": "/musicalbum/2021-iScreaM-Vol-7",
+        "name": "iScreaM, Vol.7",
+        "type": "SINGLE",
+        "release_date": "2021-03-27",
+        "language": null,
+        "description": "\"iScreaM, Vol.7\" is a digital single album that features remixes for SHINee's \"Don't Call Me.\""
+    },
+    {
+        "album_slug": "/musicalbum/2021-Don-t-Call-Me",
+        "name": "Don't Call Me",
+        "type": "STUDIO",
+        "release_date": "2021-02-22",
+        "language": null,
+        "description": "\"Don't Call Me\" is the 7th full-length album by SHINee. It has 9 songs, with \"Don't Call Me\" serving as the title track. The song \"Heart Attack\" also served as their follow-up single.Moreover, this also marks the first comeback of the group after Minho, Onew, and Key finished their military services."
+    },
+    {
+        "album_slug": "/musicalbum/2018-The-Story-of-Light-Epilogue",
+        "name": "'The Story of Light' Epilogue",
+        "type": "STUDIO",
+        "release_date": "2018-09-10",
+        "language": null,
+        "description": "'The Story of Light' Epilogue is the second compilation album and a repackage of SHINee's sixth full-length album The Story of Light. It was released on September 10, 2018 with \"Countless\" serving as the album's title track.The album combines all 15 songs from EP.1, EP.2, EP.3 and a new track titled \"Countless\"."
+    },
+    {
+        "album_slug": "/musicalbum/2026-lucid-dream-taku-takahashi-remix",
+        "name": "LUCID DREAM (Taku Takahashi Remix)",
+        "type": "SINGLE",
+        "release_date": "2026-07-0100:00KST",
+        "language": "Japanese",
+        "description": "\"LUCID DREAM (Taku Takahashi Remix)\" is a remix single by IVE. It was released on July 1, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-lucid-dream",
+        "name": "Lucid Dream",
+        "type": "EP",
+        "release_date": "2026-05-2700:00KST",
+        "language": "Japanese",
+        "description": "\"Lucid Dream\" is the fourth Japanese EP by IVE. It was released on May 27, 2026 with \"Lucid Dream\" serving as the album's title track. \"Fashion\" was pre-released on April 3, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-fashion",
+        "name": "Fashion",
+        "type": "SINGLE",
+        "release_date": "2026-04-0312:00KST",
+        "language": "Japanese",
+        "description": "\"Fashion\" is the fourth Japanese digital single by IVE. It was released on April 3, 2026 as the campaign song for App Store's \"Every Step with App Store\" and the pre-release single for their fourth Japanese EP \"Lucid Dream\"."
+    },
+    {
+        "album_slug": "/musicalbum/2026-REVIVE",
+        "name": "REVIVE+",
+        "type": "STUDIO",
+        "release_date": "2026-02-23",
+        "language": "Korean",
+        "description": "\"REVIVE+\" is the second studio album by IVE. It was released on February 23, 2026, with “BLACKHOLE” and the pre-release song \"BANG BANG\" serving as the title tracks."
+    },
+    {
+        "album_slug": "/musicalbum/2026-bang-bang",
+        "name": "BANG BANG",
+        "type": "SINGLE",
+        "release_date": "2026-02-09",
+        "language": "English, Korean",
+        "description": "BANG BANG is the pre-release single for IVE's upcoming album, REVIVE+. It was released on February 9, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2025-IVE-SECRET",
+        "name": "IVE SECRET",
+        "type": "MINI ALBUM",
+        "release_date": "2025-08-25",
+        "language": null,
+        "description": "\"IVE Secret\" is the fourth EP by IVE. It was released on August 25, 2025 with \"XOXZ\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Be-Alright",
+        "name": "Be Alright",
+        "type": "MINI ALBUM",
+        "release_date": "2025-07-30",
+        "language": "Japanese",
+        "description": "Be Alright is the third Japanese EP by IVE. It was released on July 30, 2025 with \"Be Alright\" serving as the album's title track.\"Be Alright\" was pre-released on July 16, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-DARE-ME",
+        "name": "DARE ME",
+        "type": "OST",
+        "release_date": "2025-04-21",
+        "language": "Japanese",
+        "description": "\"Dare Me\" is the first Japanese OST single by IVE. It was released on April 21, 2025, as the opening song for the NTV drama Damemane! - We'll Manage a Useless Talent. It is included in their third Japanese EP."
+    },
+    {
+        "album_slug": "/musicalbum/2025-IVE-EMPATHY",
+        "name": "IVE EMPATHY",
+        "type": "MINI ALBUM",
+        "release_date": "2025-02-03",
+        "language": "Korean",
+        "description": "\"IVE Empathy\" is the third EP by IVE. It was released on February 3, 2025 with \"Rebel Heart\" and \"Attitude\" serving as the album's double title tracks. \"Rebel Heart\" was pre-released on January 13, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-REBEL-HEART",
+        "name": "REBEL HEART",
+        "type": "SINGLE",
+        "release_date": "2025-01-13",
+        "language": null,
+        "description": "\"Rebel Heart\" is the sixth digital single by IVE. It was released on January 13, 2025 as the pre-release single for their third EP, IVE Empathy."
+    },
+    {
+        "album_slug": "/musicalbum/2022-iScreaM-Vol-19-Forever-1-Remixes",
+        "name": "iScreaM Vol.19 : Forever 1 Remixes",
+        "type": "SINGLE",
+        "release_date": "2022-11-17",
+        "language": "Korean",
+        "description": "\"iScreaM Vol.19 : Forever 1 Remixes\" is the first remix single by Girls' Generation. It was released on November 17, 2022 as the 19th release of the iScreaM project."
+    },
+    {
+        "album_slug": "/musicalbum/2022-Forever-1",
+        "name": "Forever 1",
+        "type": "STUDIO",
+        "release_date": "2022-08-05",
+        "language": "Korean",
+        "description": "\"Forever 1\" is the highly-anticipated seventh full album of Girls' Generation. It is the group's first music release in five years."
+    },
+    {
+        "album_slug": "/musicalbum/2017-Holiday-Night",
+        "name": "Holiday Night",
+        "type": "STUDIO",
+        "release_date": "2017-08-04",
+        "language": null,
+        "description": "”Holiday Night” is the 6th full album by Girls’ Generation, released in time of the group’s 10th anniversary on August 4th, 2017."
+    },
+    {
+        "album_slug": "/musicalbum/2016-Sailing-0805",
+        "name": "Sailing (0805) - SM STATION",
+        "type": "SINGLE",
+        "release_date": "2016-08-05",
+        "language": null,
+        "description": "”Sailing (0805)” is an SM Station single by Girls’ Generation. It was released to commemorate their 9th anniversary."
+    },
+    {
+        "album_slug": "/musicalbum/2015-Lion-Heart",
+        "name": "Lion Heart",
+        "type": "STUDIO",
+        "release_date": "2015-08-18",
+        "language": null,
+        "description": "”Lion Heart” is the 5th album by Girls’ Generation. It was released on August 18, 2015."
+    },
+    {
+        "album_slug": "/musicalbum/2015-Party",
+        "name": "Party",
+        "type": "SINGLE",
+        "release_date": "2015-07-07",
+        "language": null,
+        "description": "”Party” is the pre-release single for Girls’ Generation’s 5th album ”Lion Heart”."
+    },
+    {
+        "album_slug": "/musicalbum/2015-Catch-Me-If-You-Can",
+        "name": "Catch Me If You Can",
+        "type": "SINGLE",
+        "release_date": "2015-04-10",
+        "language": null,
+        "description": "”Catch Me if You Can” is the Korean version of Girls’ Generation’s 9th Japanese single of the same name. It was released on April 10th, 2015."
+    },
+    {
+        "album_slug": "/musicalbum/2014-Mr-Mr",
+        "name": "Mr. Mr.",
+        "type": "MINI ALBUM",
+        "release_date": "2014-02-24",
+        "language": null,
+        "description": "”Mr. Mr.” is the 4th Mini Album by Girls’ Generation. It was released on February 14, 2014."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Supernatural-2",
+        "name": "Supernatural",
+        "type": "SINGLE",
+        "release_date": "2024-06-21",
+        "language": "Japanese",
+        "description": "“Supernatural\" is the debut Japanese single by NewJeans, released on 21 June 2024. It is a double single that also includes the B-side \"Right Now\" and instrumental versions of both tracks. Produced by 250, \"Supernatural\" contains an interpolation of a section from the 2009 track \"Back of My Mind\" by Manami and songwriter Pharrell Williams."
+    },
+    {
+        "album_slug": "/musicalbum/2024-How-Sweet",
+        "name": "How Sweet",
+        "type": "SINGLE",
+        "release_date": "2024-05-24",
+        "language": "Korean",
+        "description": "\"How Sweet\" is the second digital single by NewJeans. It contains two songs, \"How Sweet\" and \"Bubble Gum,\" together with their instrumental tracks.The music video for \"Bubble Gum\" was pre-released on April 27th, 2024."
+    },
+    {
+        "album_slug": "/musicalbum/2023-NJWMX",
+        "name": "NJWMX",
+        "type": "STUDIO",
+        "release_date": "2023-12-19",
+        "language": "Korean",
+        "description": "\"NJWMX\" is the first remix album by NewJeans. It was released on December 19, 2023."
+    },
+    {
+        "album_slug": "/musicalbum/2023-NewJeans-X-MY-DEMON",
+        "name": "NewJeans X MY DEMON",
+        "type": "OST",
+        "release_date": "2023-11-24",
+        "language": null,
+        "description": "NewJeans released their own rendition of the classic hit song \"Our Night is more beautiful than your Day\" as part of the original soundtrack of the drama \"My Demon,\" starring Song Kang and Kim Yoo Jung."
+    },
+    {
+        "album_slug": "/musicalbum/2023-GODS",
+        "name": "GODS",
+        "type": "SINGLE",
+        "release_date": "2023-10-04",
+        "language": null,
+        "description": "NewJeans' October 4th release of GODS for the 2023 League Of Legends World Cup named them as the first K-pop group to feature in LoL's championship anthem."
+    },
+    {
+        "album_slug": "/musicalbum/2023-A-Time-Called-You-OST",
+        "name": "A Time Called You OST",
+        "type": "OST",
+        "release_date": "2023-09-01",
+        "language": "Korean",
+        "description": "NewJeans released their own rendition of the song \"Beautiful Restriction\" (Original by Kim Jong So) as part of the original television soundtrack of the Netflix series, \"A Time Called You.\""
+    },
+    {
+        "album_slug": "/musicalbum/2023-Get-Up",
+        "name": "Get Up",
+        "type": "MINI ALBUM",
+        "release_date": "2023-07-2113:00KST",
+        "language": "Korean",
+        "description": "\"Get Up\" is the second EP of NewJeans. It contains six songs, with \"Super Shy,\" \"Cool With You,\" and \"ETA\" serving as triple title tracks. The songs \"New Jeans\" and \"Super Shy\" were pre-released on July 7th. Meanwhile, the music video for \"Cool With You\" was released on July 20th."
+    },
+    {
+        "album_slug": "/musicalbum/2023-NewJeans-Super-Shy",
+        "name": "NewJeans 'Super Shy'",
+        "type": "SINGLE",
+        "release_date": "2023-07-0713:00KST",
+        "language": "Korean",
+        "description": "\"NewJeans 'Super Shy'\" is a pre-release single from NewJeans second EP \"Get Up.\" The single contains the b-side tracks \"New Jeans\" and \"Super Shy.\""
+    },
+    {
+        "album_slug": "/musicalbum/2023-Zero-JID-Remix",
+        "name": "Zero (JID Remix)",
+        "type": "SINGLE",
+        "release_date": "2023-06-21",
+        "language": null,
+        "description": "\"Zero (JID Remix)\" is a digital single for the Coca-Cola campaign."
+    },
+    {
+        "album_slug": "/musicalbum/2023-Be-Who-You-Are-Real-Magic",
+        "name": "Be Who You Are (Real Magic)",
+        "type": "SINGLE",
+        "release_date": "2023-05-31",
+        "language": null,
+        "description": "Be Who You Are (Real Magic) is a collaboration single between John Batiste, JID, Camilo, and NewJeans"
+    },
+    {
+        "album_slug": "/musicalbum/2026-spring-breeze-again-original-soundtrack-from-wanna-one-go-back-to-base",
+        "name": "Spring Breeze, Again (Original Soundtrack from Wanna One Go: Back to Base)",
+        "type": "SINGLE",
+        "release_date": "2026-05-2018:00KST",
+        "language": "Korean",
+        "description": "On May 20, 2026, Wanna One released the single \"Spring Breeze, Again\" as the second OST from Mnet Plus original reality show 'WANNA ONE GO: Back to Base'. The track's title is a direct callback to Wanna One's 2018 song, \"Spring Breeze\", from their studio album \"1¹¹=1 (Power Of Destiny)\" released before their disbandment the same year.Ha Sung Woon participated in both writing and composing the song, while Park Woo Jin contributed to the lyrics."
+    },
+    {
+        "album_slug": "/musicalbum/2026-we-wanna-go-wanna-one-go-back-to-base-ost",
+        "name": "WE WANNA GO (Original Soundtrack from Wanna One Go: Back to Base)",
+        "type": "SINGLE",
+        "release_date": "2026-05-0618:00KST",
+        "language": "Korean",
+        "description": "\"WE WANNA GO\" is the theme song for the Mnet Plus original reality show 'WANNA ONE GO: Back to Base'."
+    },
+    {
+        "album_slug": "/musicalbum/2022-B-Side",
+        "name": "B-Side",
+        "type": "SINGLE",
+        "release_date": "2022-01-27",
+        "language": null,
+        "description": "\"B-Side\" is the second digital single by Wanna One. It was released on January 27, 2022.The single is the third and final part of their \"Beautiful\" series, which began with \"Beautiful\", released in 2017, and \"Beautiful (Part Ⅱ)\", released in 2018."
+    },
+    {
+        "album_slug": "/musicalbum/2018-1-x-1-Undivided",
+        "name": "1÷x=1 (Undivided)",
+        "type": "MINI ALBUM",
+        "release_date": "2018-06-04",
+        "language": null,
+        "description": "1÷x=1 (Undivided) is the first special album by Wanna One. It was released on June 4, 2018 with \"Light\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2018-0-1-1-I-Promise-You",
+        "name": "0+1=1 (I Promise You)",
+        "type": "MINI ALBUM",
+        "release_date": "2018-03-19",
+        "language": null,
+        "description": "0+1=1 (I Promise You) is the second mini album by Wanna One. It was released on March 19, 2018 with \"Boomerang\" serving as the album's title track. The song \"I.P.U.\" was pre-released on March 5.\"Boomerang\" and \"Gold\" were leaked online on March 14."
+    },
+    {
+        "album_slug": "/musicalbum/2017-1-1-0-Nothing-Without-You",
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "type": "REPACKAGE",
+        "release_date": "2017-11-1318:00KST",
+        "language": "Korean",
+        "description": "1-1=0 (Nothing Without You) is a repackage of Wanna One's debut mini-album 1X1=1 (To Be One). It was released on November 13, 2017 with \"Beautiful\" serving as the album's title track. This was the group's only repackage album before their disbandment."
+    },
+    {
+        "album_slug": "/musicalbum/2017-1X1-1-To-Be-One",
+        "name": "1X1=1 (To Be One)",
+        "type": "MINI ALBUM",
+        "release_date": "2017-08-0718:00KST",
+        "language": "Korean",
+        "description": "1X1=1 (To Be One) is the debut mini album by Wanna One. It was released on August 7, 2017 with \"Energetic\" serving as the album's title track. The title track was chosen through a fan voting event that ran from July 17 to 27 with the two options being \"Burn It Up\" and \"Energetic\"."
+    },
+    {
+        "album_slug": "/musicalbum/2023-Golden-Age-The-4th-Album",
+        "name": "Golden Age - The 4th Album",
+        "type": "STUDIO",
+        "release_date": "2023-08-28",
+        "language": null,
+        "description": "\"Golden Age\" is the 4th studio album of NCT, which was released through the Project NCT 2023. It was released on the 28th of August 2023. The album contains a total of ten songs, with \"Baggy Jeans\" and \"Golden Age\" serving as the dual title track."
+    },
+    {
+        "album_slug": "/musicalbum/2021-Universe-The-3rd-Album",
+        "name": "Universe - The 3rd Album",
+        "type": "STUDIO",
+        "release_date": "2021-12-14",
+        "language": null,
+        "description": "Universe is the third full-length album by NCT. It was released on December 14, 2021 as part of their large-scale project \"NCT 2021\". \"Universe (Let's Play Ball)\" and \"Beautiful\" serve as the album's double title tracks.The song \"Universe (Let's Play Ball)\" was pre-released on December 10, 2021.Universe is the last NCT album to feature members Shotaro and Sungchan who left the group in May 2023 to join SM Entertainment's new boy group."
+    },
+    {
+        "album_slug": "/musicalbum/2020-iScreaM-Vol6-Make-A-Wish-90-s-Love-Remix",
+        "name": "iScreaM Vol6 : Make A Wish / 90's Love Remix",
+        "type": "SINGLE",
+        "release_date": "2020-12-17",
+        "language": null,
+        "description": "\"iScreaM Vol6 : Make A Wish / 90's Love Remix\" is a remix single by NCT, through the iScreaM Project. It was released on the 17th of December 2020. \"Make A Wish (Birthday Song) [Wuki Remix]\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2020-RESONANCE",
+        "name": "RESONANCE",
+        "type": "SINGLE",
+        "release_date": "2020-12-05",
+        "language": null,
+        "description": "\"RESONANCE\" is a digital single released as the last part of NCT's large-scale \"NCT 2020\" project. The song is a remix of the album's 4 title tracks: \"Make A Wish (Birthday Song)\", \"90's Love\", \"Work It\", and \"Raise The Roof\""
+    },
+    {
+        "album_slug": "/musicalbum/2020-NCT-RESONANCE-Pt-2",
+        "name": "NCT RESONANCE Pt.2",
+        "type": "STUDIO",
+        "release_date": "2020-11-23",
+        "language": null,
+        "description": "\"NCT RESONANCE Pt.2\" is the second part of NCT's second full-length album. It was released on the 23rd of November 2020. It has 21 songs, with \"90's Love\" and \"Work It\" serving as the double title track. The physical album has two versions: Departure and Arrival"
+    },
+    {
+        "album_slug": "/musicalbum/2020-NCT-RESONANCE-Pt-1",
+        "name": "NCT RESONANCE Pt.1",
+        "type": "STUDIO",
+        "release_date": "2020-10-12",
+        "language": null,
+        "description": "\"NCT RESONANCE Pt.1\" is the 2nd album by NCT. It was released on the 12th of October 2020. \"Make A Wish (Birthday Song)\" serving as the title track by NCT U."
+    },
+    {
+        "album_slug": "/musicalbum/2018-NCT-2018-EMPATHY",
+        "name": "NCT 2018 EMPATHY",
+        "type": "STUDIO",
+        "release_date": "2018-03-14",
+        "language": null,
+        "description": "“NCT 2018 EMPATHY” is the first full-length album by NCT. It was released on March 14, 2018. The physical album comes in two versions: Reality and Dream."
+    },
+    {
+        "album_slug": "/musicalbum/2026-wild",
+        "name": "WILD",
+        "type": "EP",
+        "release_date": "Label",
+        "language": "English",
+        "description": "\"WILD\" is the 3rd EP of KATSEYE. It will be released on August 14, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-animal",
+        "name": "Animal",
+        "type": "SINGLE",
+        "release_date": "Label",
+        "language": "English",
+        "description": "\"Animal\" is a single by KATSEYE. It will be released on July 24, 2026 as the pre-release for their third English EP, Wild."
+    },
+    {
+        "album_slug": "/musicalbum/2026-pinky-up-the-remixes",
+        "name": "Pinky Up: The Remixes",
+        "type": "MINI ALBUM",
+        "release_date": "2026-06-0518:00KST",
+        "language": "English",
+        "description": "\"Pinky Up: The Remixes\" is the second remix album by KATSEYE. It was released on June 5, 2026 with \"Pinky Up (Sunset remix)\" serving as the album's title track. It consists of remixes of \"Pinky Up\" from the group's third EP Wild."
+    },
+    {
+        "album_slug": "/musicalbum/2026-pinky-up",
+        "name": "PINKY UP",
+        "type": "SINGLE",
+        "release_date": "2026-04-0901:00KST",
+        "language": "English",
+        "description": "\"Pinky Up\" is the sixth single by KATSEYE. It was released on April 9, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-Internet-Girl",
+        "name": "Internet Girl",
+        "type": "SINGLE",
+        "release_date": "2026-01-02",
+        "language": "English",
+        "description": "\"Internet Girl\" is a digital single by KATSEYE. It was released on January 2, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2025-M-I-A-VALORANT-Game-Changers-Ver",
+        "name": "M.I.A (VALORANT Game Changers Ver.)",
+        "type": "OST",
+        "release_date": "2025-11-11",
+        "language": "English",
+        "description": "On November 11, 2025 KATSEYE in partnership with Valorant, released the anthem for the 2025 Game Changers Championship. The song is a reimagined version of their track \"M.I.A.\"."
+    },
+    {
+        "album_slug": "/musicalbum/2025-BEAUTIFUL-CHAOS-The-Remixes",
+        "name": "BEAUTIFUL CHAOS: The Remixes",
+        "type": "MINI ALBUM",
+        "release_date": "2025-09-05",
+        "language": "English",
+        "description": "\"BEAUTIFUL CHAOS: The Remixes\" is a remix EP by KATSEYE. It was released on September 5, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Gabriela-Young-Miko-Remix",
+        "name": "Gabriela (Young Miko Remix)",
+        "type": "SINGLE",
+        "release_date": "2025-08-08",
+        "language": "English, Spanish",
+        "description": "\"Gabriela (Young Miko Remix)\" is a remix featuring singer Young Miko for the single Gabriela."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Monster-High-x-KATSEYE-Fright-Song",
+        "name": "Monster High x KATSEYE - Fright Song",
+        "type": "OST",
+        "release_date": "2025-07-18",
+        "language": "English",
+        "description": "\"Fright Song\" is a song released by KATSEYE as a collaboration with the Monster High franchise on July 18, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2019-Love-Playlist-4-Part-1",
+        "name": "Love Playlist 4 Part.1",
+        "type": "OST",
+        "release_date": "2019-07-17",
+        "language": null,
+        "description": "Love Playlist 4 Part.1 is an OST by EXO-CBX for the Korean web drama Love Playlist 4. It was released on July 17, 2019 under PLAYLIST, with “Be My Love” serving as the title track. The release includes an instrumental version of the song."
+    },
+    {
+        "album_slug": "/musicalbum/2019-Paper-Cuts",
+        "name": "Paper Cuts",
+        "type": "SINGLE",
+        "release_date": "2019-04-12",
+        "language": null,
+        "description": "\"Paper Cuts\" is the first Japanese digital single by EXO-CBX. It was released on April 12, 2019."
+    },
+    {
+        "album_slug": "/musicalbum/2018-Magic",
+        "name": "MAGIC",
+        "type": "STUDIO",
+        "release_date": "2018-05-09",
+        "language": "Japanese",
+        "description": "Magic (stylized in all caps) is the first Japanese studio album by EXO-CBX, the sub-unit of the South Korean-Chinese boy group EXO. It was released on May 9, 2018. The album contains eleven tracks, including the lead single \"Horololo\" and a solo track for each member.The album debuted at #3 on the Oricon Weekly Albums chart with 41,173 copies sold during the first week."
+    },
+    {
+        "album_slug": "/musicalbum/2018-Beautiful-World",
+        "name": "Beautiful World",
+        "type": "SINGLE",
+        "release_date": "2018-04-22",
+        "language": null,
+        "description": "\"Beautiful World\" is the first promotional single by EXO-CBX. It was released on April 22, 2018.This single is the result of a collaboration between Hyundai Motors and EXO-CBX for the advertisement of the Hyundai Kona Electric car. The song is a remake of a Lee Sun Hee’s song.The music video came out on April 30, 2020."
+    },
+    {
+        "album_slug": "/musicalbum/2018-Blooming-Days",
+        "name": "Blooming Days",
+        "type": "MINI ALBUM",
+        "release_date": "2018-04-1018:00KST",
+        "language": "Korean",
+        "description": "Blooming Days is the second mini album by EXO-CBX. It was released on April 10, 2018, with \"Blooming Day\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2018-Live-OST-Part-1",
+        "name": "Live OST Part.1",
+        "type": "OST",
+        "release_date": "2018-03-24",
+        "language": null,
+        "description": "Live OST Part.1 is an OST by EXO-CBX for the Korean drama Live. It was released on March 24, 2018 under Beyond Music, with “Someone Like You” serving as the title track. The release includes an instrumental version of the song."
+    },
+    {
+        "album_slug": "/musicalbum/2017-Final-Life-Even-if-You-Disappear-Tomorrow-OST-PT-1",
+        "name": "Final Life: Even if You Disappear Tomorrow OST PT. 1",
+        "type": "OST",
+        "release_date": "2017-11-02",
+        "language": null,
+        "description": "“Cry” is a song / OST by EXO-CBX for the Japanese drama Final Life: Even if You Disappear Tomorrow. It was released on November 2, 2017 as part of the drama’s official soundtrack, with “Cry” serving as the featured track performed by the sub-unit. The song was released under EMI Records. The track was later included as part of EXO-CBX’s Japanese activities around their album Magic."
+    },
+    {
+        "album_slug": "/musicalbum/2017-It-s-Running-Time",
+        "name": "It's Running Time",
+        "type": "OST",
+        "release_date": "2017-07-29",
+        "language": null,
+        "description": "\"It's Running Time!\" is a digital single by EXO-CBX. It was released on July 29, 2017 as the theme song of the animated show Running Man, a 24-episodes animated version of the reality show of the same name."
+    },
+    {
+        "album_slug": "/musicalbum/2017-Girls",
+        "name": "GIRLS",
+        "type": "EP",
+        "release_date": "2017-05-2400:00KST",
+        "language": "Japanese",
+        "description": "GIRLS is the debut Japanese EP by EXO-CBX. It was released on May 24, 2017. The EP features seven tracks in total, including the Japanese version of their debut Korean single \"Hey Mama!\"."
+    },
+    {
+        "album_slug": "/musicalbum/2016-CRUSH-U-with-Yoonsang",
+        "name": "CRUSH U (with Yoonsang)",
+        "type": "OST",
+        "release_date": "2016-12-08",
+        "language": null,
+        "description": "\"Crush U\" is a song by EXO-CBX. It was released on December 8, 2016. \"Crush You\" is an OST for the massively multiplayer online role-playing game Blade & Soul. It was premiered at the \"Blade & Soul World Championships\" in Busan on November 18."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Beat-It-Up",
+        "name": "Beat It Up",
+        "type": "MINI ALBUM",
+        "release_date": "2025-11-17",
+        "language": null,
+        "description": "Beat It Up is the sixth mini album by NCT DREAM. It was released on November 17, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Go-Back-To-The-Future",
+        "name": "Go Back To The Future",
+        "type": "STUDIO",
+        "release_date": "2025-07-14",
+        "language": null,
+        "description": "Go Back To The Future is the fifth full-length album by NCT DREAM. It was released on July 14, 2025 with \"BTTF\" and \"Chiller\" serving as the album's double title tracks."
+    },
+    {
+        "album_slug": "/musicalbum/2024-DREAMSCAPE",
+        "name": "DREAMSCAPE",
+        "type": "STUDIO",
+        "release_date": "2024-11-1118:00KST",
+        "language": "Korean",
+        "description": "Dreamscape is the fourth studio album by South Korean boy band NCT Dream. Released on November 11, 2024. The album consists of 11 tracks, including the previously released track \"Rains in Heaven\" and lead single \"When I'm with You\"."
+    },
+    {
+        "album_slug": "/musicalbum/2024-reworks",
+        "name": "RE:WORKS",
+        "type": "SINGLE",
+        "release_date": "2024-10-10",
+        "language": "Korean",
+        "description": "\"RE:WORKS\" is a collaboration digital single by KENZIE, aespa, NCT DREAM and RIIZE. It was released on October 10, 2024.\"Supernova (KENZIE RE:WORKS)\" was pre-released on October 7, 2024."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Rains-in-Heaven",
+        "name": "Rains in Heaven",
+        "type": "SINGLE",
+        "release_date": "2024-08-23",
+        "language": null,
+        "description": "\"Rains in Heaven\" is an English-language digital single by NCT Dream. It is described as a 1980s-style pop song with a harmonious blend of rhythmic drums and bass and emotional synth sounds, along with the members' sweet-sounding vocals."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Moonlight",
+        "name": "Moonlight",
+        "type": "SINGLE",
+        "release_date": "2024-06-0500:00KST",
+        "language": "Japanese",
+        "description": "\"Moonlight\" is the second Japanese single by NCT DREAM. It was released on June 5, 2024 with the title track of the same name."
+    },
+    {
+        "album_slug": "/musicalbum/2024-DREAM-SCAPE",
+        "name": "DREAM( )SCAPE",
+        "type": "MINI ALBUM",
+        "release_date": "2024-03-25",
+        "language": null,
+        "description": "\"DREAM( )SCAPE\" is the fifth mini album by NCT Dream. It contains six songs, with \"Smoothie\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2023-Broken-Melodies-JVKE-Remix",
+        "name": "Broken Melodies (JVKE Remix)",
+        "type": "SINGLE",
+        "release_date": "2023-11-17",
+        "language": null,
+        "description": "\"Broken Melodies (JVKE Remix)\" is a remix digital single by NCT Dream, in collaboration with JVKE."
+    },
+    {
+        "album_slug": "/musicalbum/2026-heavy-serenade",
+        "name": "Heavy Serenade",
+        "type": "EP",
+        "release_date": "2026-05-1118:00KST",
+        "language": "Korean",
+        "description": "\"Heavy Serenade\" is the fifth EP by NMIXX. It was released on May 11, 2026 with \"Heavy Serenade\" serving as the album's title track. \"Crescendo\" was pre-released on April 28, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-tic-tic-feat-pabllo-vittar",
+        "name": "TIC TIC (Feat. Pabllo Vittar)",
+        "type": "SINGLE",
+        "release_date": "2026-02-26",
+        "language": "English",
+        "description": "\"Tic Tic (Feat. Pabllo Vittar)\" is an English digital single by NMIXX and Brazilian singer Pabllo Vittar. It was released on February 26, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2025-The-4th-Love-Revolution-OST-Part-1",
+        "name": "The 4th Love Revolution OST Part.1",
+        "type": "OST",
+        "release_date": "2025-11-13",
+        "language": null,
+        "description": "\"The 4th Love Revolution OST Part.1\" with the song \"Up and Down\" is the 2nd OST of NMIXX. It was released on November 13, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-mexe-remix",
+        "name": "Mexe (Remix)",
+        "type": "SINGLE",
+        "release_date": "2025-10-21",
+        "language": "English",
+        "description": "\"Mexe (Remix)\" is the first English remix single NMIXX and Pabllo Vittar. It was released on October 21, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Blue-Valentine-MIXX-Ver",
+        "name": "Blue Valentine (MIXX Ver.)",
+        "type": "SINGLE",
+        "release_date": "2025-10-17",
+        "language": null,
+        "description": "\"Blue Valentine (MIXX Ver.)\" Is the first remix single by NMIXX. It was released on October 17, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Blue-Valentine",
+        "name": "Blue Valentine",
+        "type": "STUDIO",
+        "release_date": "2025-10-1318:00KST",
+        "language": "Korean",
+        "description": "“Blue Valentine” is the 1st Full Album from NMIXX. It was released on October 13, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Mexe",
+        "name": "Mexe",
+        "type": "SINGLE",
+        "release_date": "2025-08-2209:00KST",
+        "language": "English",
+        "description": "\"Mexe\" is an English collaboration digital single by Brazilian singer-songwriter Pabllo Vittar and NMIXX. It was released on August 21, 2025 (Brazilian Time)...August 22nd (9am KST time)."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Ridin-Prod-THE-HUB",
+        "name": "Ridin' (Prod. THE HUB)",
+        "type": "OST",
+        "release_date": "2025-06-10",
+        "language": null,
+        "description": "\"Ridin'\" is a song released by NMIXX Lily, Jiwoo, and Kyujin, as part of the original soundtrack for \"World of Street Woman Fighter\". It was released on June 10, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Fe3O4-Forward",
+        "name": "Fe3O4: Forward",
+        "type": "MINI ALBUM",
+        "release_date": "2025-03-17",
+        "language": "Korean",
+        "description": "\"Fe3O4: Forward\" is NMIXX's fourth EP, with \"Know About Me\" as the title track.  It was released on March 17th 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2026-lemon-tang",
+        "name": "Lemon Tang",
+        "type": "MINI ALBUM",
+        "release_date": "2026-06-2218:00KST",
+        "language": "Korean",
+        "description": "Lemon Tang is the second mini album by Hearts2Hearts. It was released on June 22, 2026 with Lemon Tang serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-iscream-vol39-rude-remixes",
+        "name": "iScreaM Vol.39 : RUDE! Remixes",
+        "type": "SINGLE",
+        "release_date": "2026-03-2718:00KST",
+        "language": "Korean",
+        "description": "iScreaM Vol.39 : RUDE! Remixes is a remix single by Hearts2Hearts featuring Silly Silky and yunji. It was released on March 27, 2026 under SM Entertainment and ScreaM Records, with “RUDE! (Silly Silky Remix)” serving as the single’s title track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-rude-japanese-ver",
+        "name": "Rude! (Japanese Ver.)",
+        "type": "SINGLE",
+        "release_date": "2026-03-18",
+        "language": "Japanese",
+        "description": "\"Rude! (Japanese Ver.)\" is the first Japanese digital single by Hearts2Hearts. It was released March 18th, 2026 (JST)."
+    },
+    {
+        "album_slug": "/musicalbum/2026-rude",
+        "name": "RUDE!",
+        "type": "SINGLE",
+        "release_date": "2026-02-20",
+        "language": null,
+        "description": "\"RUDE!\" is a single by Hearts2Hearts. It was released on February 20, 2026. This serves as a pre release for the mini album 'Lemon Tang'.“The song ‘Rude’ talks about feelings of anger and disappointment in love or relationships, when someone feels mistreated or disrespected. The melody is often strong and intense, expressing bluntness (rude) and pent-up emotions.”"
+    },
+    {
+        "album_slug": "/musicalbum/2025-ScreaM-Rookies-The-Chase-Remixes",
+        "name": "ScreaM Rookies: The Chase (Remixes)",
+        "type": "MINI ALBUM",
+        "release_date": "2025-12-1718:00KST",
+        "language": "Korean",
+        "description": "ScreaM Rookies : The Chase (Remixes) is the second remix EP by Hearts2Hearts. The remix EP is made from the winning tracks from the ScreaM REMIX COMPITION that was held in July 2025. It was released on December 17, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-FOCUS-Remixes",
+        "name": "FOCUS (Remixes)",
+        "type": "MINI ALBUM",
+        "release_date": "2025-11-21",
+        "language": null,
+        "description": "On November 21, 2025, Hearts2Hearts released the remix EP for their song 'FOCUS'."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Focus",
+        "name": "Focus",
+        "type": "MINI ALBUM",
+        "release_date": "2025-10-20",
+        "language": "Korean",
+        "description": "\"Focus\" is a single album by Hearts2Hearts. It was released on October 20, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Pretty-Please",
+        "name": "Pretty Please",
+        "type": "SINGLE",
+        "release_date": "2025-09-24",
+        "language": "Korean",
+        "description": "\"Pretty Please\" is the second digital single by Hearts2Hearts. It was released on September 24, 2025, as a pre-release single for the group's first mini album, Focus."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Style",
+        "name": "Style",
+        "type": "SINGLE",
+        "release_date": "2025-06-18",
+        "language": "Korean",
+        "description": "\"Style\" is a single by Hearts2Hearts. It was released on June 18, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2024-My-Christmas-Sweet-Love",
+        "name": "My Christmas Sweet Love",
+        "type": "SINGLE",
+        "release_date": "2024-12-21",
+        "language": null,
+        "description": "My Christmas Sweet Love is the 6th special digital single by Dreamcatcher, it was released on December, 21, 2024."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Virtuous",
+        "name": "Virtuous",
+        "type": "MINI ALBUM",
+        "release_date": "2024-07-1018:00KST",
+        "language": "Korean",
+        "description": "\"Virtuous\" is the 10th mini album of Dreamcatcher. It contains a total of five songs, including the title track \"Justice\"."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Luck-Inside-7-Doors-2024-Concert-Ver",
+        "name": "Luck Inside 7 Doors (2024 Concert Ver.)",
+        "type": "SINGLE",
+        "release_date": "2024-03-08",
+        "language": null,
+        "description": "\"Luck Inside 7 Doors (2024 Concert Ver.)\" is a special digital single album by Dreamcatcher. It consists of the concert version of their songs \"Lullaby\" and \"The curse of the Spider.\""
+    },
+    {
+        "album_slug": "/musicalbum/2023-VillainS",
+        "name": "VillainS",
+        "type": "MINI ALBUM",
+        "release_date": "2023-11-22",
+        "language": null,
+        "description": "\"VillainS\" is the ninth mini album by Dreamcatcher. It contains five tracks, with \"OOTD\" serving as the title song. The physical album comes in 12 versions: Limited (C), Normal (U, R, S and E), and seven individual poca versions."
+    },
+    {
+        "album_slug": "/musicalbum/2023-BONVOYAGE-Farewell-Ver",
+        "name": "[BONVOYAGE (Farewell Ver.)]",
+        "type": "SINGLE",
+        "release_date": "2023-09-14",
+        "language": null,
+        "description": "\"[BONVOYAGE (Farewell Ver.)]\" is the 1st English special digital single of Dreamcatcher. It was released on September 15, 2023."
+    },
+    {
+        "album_slug": "/musicalbum/2023-Apocalypse-From-Us",
+        "name": "Apocalypse : From Us",
+        "type": "MINI ALBUM",
+        "release_date": "2023-05-24",
+        "language": null,
+        "description": "\"Apocalypse : From Us\" is the eighth mini album of Dreamcatcher. It contains five songs, with \"Bon Voyage\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2023-reason2",
+        "name": "[REASON]",
+        "type": "SINGLE",
+        "release_date": "2023-01-13",
+        "language": "Korean",
+        "description": "\"[REASON]\" is a single by Dreamcatcher. It was released on January 12, 2023."
+    },
+    {
+        "album_slug": "/musicalbum/2022-Apocalypse-Follow-us",
+        "name": "Apocalypse : Follow us",
+        "type": "MINI ALBUM",
+        "release_date": "2022-10-11",
+        "language": null,
+        "description": "\"Apocalypse : Follow us\" is the 7th mini album of Dreamcatcher it contains 6 total tracks, with \"Vision\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2022-Apocalypse-Save-Us",
+        "name": "Apocalypse : Save Us",
+        "type": "STUDIO",
+        "release_date": "2022-04-12",
+        "language": null,
+        "description": "\"Apocalypse : Save Us\" is the second studio album of Dreamcatcher. It contains a total of fourteen songs, with \"Maison\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2021-Summer-Holiday",
+        "name": "Summer Holiday",
+        "type": "MINI ALBUM",
+        "release_date": "2021-07-30",
+        "language": null,
+        "description": "\"Summer Holiday\" is the second special mini album by Dreamcatcher. It was released on July 30, 2021 with \"BEcause\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-unique-japan-edition",
+        "name": "UNIQUE - Japan Edition",
+        "type": "MINI ALBUM",
+        "release_date": "Label",
+        "language": "Japanese",
+        "description": "P1Harmony will release a localized Japanese edition of their 9th mini-album, UNIQUE, on July 29, 2026. The special release features eight total tracks, including the title track \"UNIQUE\" as well as two brand-new songs recorded exclusively for this version."
+    },
+    {
+        "album_slug": "/musicalbum/2026-unique",
+        "name": "UNIQUE",
+        "type": "MINI ALBUM",
+        "release_date": "2026-03-1218:00KST",
+        "language": "Korean",
+        "description": "UNIQUE is the 9th mini album by P1Harmony. It was released on March 12, 2026 with the title track of the same name."
+    },
+    {
+        "album_slug": "/musicalbum/2025-ex",
+        "name": "EX",
+        "type": "MINI ALBUM",
+        "release_date": "2025-09-2613:00KST",
+        "language": "English, Spanish",
+        "description": "EX is P1Harmony's first fully English album. It was released on the 26th of September 2025 and has a total of five tracks, including a Spanish version of the title track as well."
+    },
+    {
+        "album_slug": "/musicalbum/2025-DUH",
+        "name": "DUH!",
+        "type": "MINI ALBUM",
+        "release_date": "2025-05-0818:00KST",
+        "language": "Korean",
+        "description": "'DUH!' is the 8th Mini Album by P1Harmony. It was released on May 8th, 2025 (6PM KST), with 'DUH!' serving as the albums title track."
+    },
+    {
+        "album_slug": "/musicalbum/2024-STAGE-FIGHTER-STF-Original-Vol-2",
+        "name": "STAGE FIGHTER (STF) Original, Vol. 2",
+        "type": "SINGLE",
+        "release_date": "2024-10-08",
+        "language": "Korean",
+        "description": "\"R.O.P (Reign of Peace)\" is a song released by P1HARMONY in the album \"STAGE FIGHTER (STF) Original, Vol. 2\". It was released on October 8, 2024."
+    },
+    {
+        "album_slug": "/musicalbum/2024-SAD-SONG",
+        "name": "SAD SONG",
+        "type": "MINI ALBUM",
+        "release_date": "2024-09-2013:00KST",
+        "language": "Korean",
+        "description": "\"SAD SONG\" is the seventh mini album by P1Harmony. It released on September 20, 2024.  It contains 7 songs, with \"Sad Song\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Killin-It-English-Version",
+        "name": "Killin' It (English Version)",
+        "type": "SINGLE",
+        "release_date": "2024-05-13",
+        "language": "English",
+        "description": "\"Killin' It (English Version)\" is the third English-language digital single of P1HARMONY."
+    },
+    {
+        "album_slug": "/musicalbum/2023-Fall-In-Love-Again",
+        "name": "Fall In Love Again",
+        "type": "STUDIO",
+        "release_date": "2023-11-09",
+        "language": "Korean",
+        "description": "\"Fall In Love Again\" is a single by P1harmony produced by C. “Tricky” Stewart & Believve."
+    },
+    {
+        "album_slug": "/musicalbum/2023-JUMP-English-Version",
+        "name": "JUMP (English Version)",
+        "type": "SINGLE",
+        "release_date": "2023-06-09",
+        "language": "English",
+        "description": "\"JUMP (English Version)\" is the 2nd English digital single by P1Harmony. It was released on June 9th, 2023."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Do-It-Let-s-Play",
+        "name": "Do It (Let's Play)",
+        "type": "OST",
+        "release_date": "2024-01-11",
+        "language": null,
+        "description": "\"Do It (Let's Play)\" is one of the theme songs for the game \"NCT ZONE\""
+    },
+    {
+        "album_slug": "/musicalbum/2023-Marine-Turtle",
+        "name": "Marine Turtle",
+        "type": "SINGLE",
+        "release_date": "2023-12-06",
+        "language": null,
+        "description": "\"Marine Turtle\" is a single released by NCT U. It is sung by members Kun, Xiaojun, Renjun, and Chenle."
+    },
+    {
+        "album_slug": "/musicalbum/2023-N-Y-C-T-NCT-LAB",
+        "name": "N.Y.C.T - NCT LAB",
+        "type": "SINGLE",
+        "release_date": "2023-09-07",
+        "language": null,
+        "description": "\"N.Y.C.T\" is a song by Haechan and Taeil which was released as part of the STATION: NCT LAB Project."
+    },
+    {
+        "album_slug": "/musicalbum/2022-Rain-Day",
+        "name": "Rain Day",
+        "type": "SINGLE",
+        "release_date": "2022-07-19",
+        "language": null,
+        "description": "\"Rain Day\" is a song by Kun, Taeil, and Yangyang (credited as NCT U) which was released as part of the STATION: NCT LAB Project."
+    },
+    {
+        "album_slug": "/musicalbum/2022-coNEXTion-Age-of-Light",
+        "name": "coNEXTion (Age of Light)",
+        "type": "SINGLE",
+        "release_date": "2022-03-2018:00KST",
+        "language": "Korean",
+        "description": "NCT U's Doyoung, Mark, and Haechan released the song \"coNEXTion (Age of Light)\" as part of SM Station's NCT Lab."
+    },
+    {
+        "album_slug": "/musicalbum/2021-Maxis-By-Ryan-Jhun-Pt-1",
+        "name": "Maxis By Ryan Jhun Pt. 1",
+        "type": "SINGLE",
+        "release_date": "2021-08-12",
+        "language": null,
+        "description": "NCT U (Doyoung and Haechan) released the song \"Maniac\" as part of composer Ryan Jhun's music project called \"MAXIS By Ryan Jhun\"."
+    },
+    {
+        "album_slug": "/musicalbum/2019-STATION-X-4-LOVEs-for-Winter-Part-2",
+        "name": "STATION X 4 LOVEs for Winter Part.2",
+        "type": "SINGLE",
+        "release_date": "2019-12-13",
+        "language": null,
+        "description": "\"STATION X 4 LOVEs for Winter Part.2\" is the fourth digital single by NCT U. It was released on December 13, 2019 as the second release of STATION X and is sung by Taeil, Doyoung, Jaehyun, and Haechan."
+    },
+    {
+        "album_slug": "/musicalbum/2022-Luminous",
+        "name": "LUMINOUS",
+        "type": "SINGLE",
+        "release_date": "2022-09-28",
+        "language": "Japanese",
+        "description": "\"Luminous\" is the second Japanese single by LOONA. It was released on September 28, 2022."
+    },
+    {
+        "album_slug": "/musicalbum/2022-Flip-That",
+        "name": "[Flip That]",
+        "type": "MINI ALBUM",
+        "release_date": "2022-06-20",
+        "language": "Korean",
+        "description": "\"Flip That\" is the first special mini album by LOONA. It is a summer special which contains six songs, with \"Flip That\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2022-queendom2-jinaon-epilogue",
+        "name": "<Queendom2> JINAON (Epilogue)",
+        "type": "SINGLE",
+        "release_date": "2022-06-03",
+        "language": "Korean",
+        "description": "\"<Queendom2> JINAON (Epilogue)\" is the second digital single from the survival program \"Queendom 2\". It was released on June 3, 2022.It is sung by Hyolyn, Brave Girls' Yuna, WJSN's SeolA, VIVIZ's Eunha, LOONA's HeeJin, and Kep1er's Yeseo."
+    },
+    {
+        "album_slug": "/musicalbum/2022-queendom2-final",
+        "name": "<Queendom2> FINAL",
+        "type": "EP",
+        "release_date": "2022-05-27",
+        "language": "Korean",
+        "description": "\"<Queendom2> FINAL\" is a digital EP album from the survival program \"Queendom 2\". It was released on May 27, 2022 and is a compilation of singles for the final comeback competition."
+    },
+    {
+        "album_slug": "/musicalbum/2022-queendom2-fantastic-queendom-part1-2",
+        "name": "<Queendom2> FANtastic QUEENDOM Part.1-2",
+        "type": "COMPILATION",
+        "release_date": "2022-05-26",
+        "language": "Korean",
+        "description": "\"<Queendom2> FANtastic QUEENDOM Part.1-2\" is the seventh digital compilation album from the survival program Queendom 2. It was released on May 26, 2022 and is a compilation of last three songs performed in the second part of the third round."
+    },
+    {
+        "album_slug": "/musicalbum/2022-queendom2-position-unit-battle-part1-2",
+        "name": "<Queendom2> Position Unit Battle Part.1-2",
+        "type": "COMPILATION",
+        "release_date": "2022-05-13",
+        "language": "Korean",
+        "description": "\"<Queendom2> Position Unit Battle Part.1-2\" is the fifth digital compilation album from the survival program \"Queendom 2\". It was released on May 13, 2022 and is a compilation of the original songs performed in the dance unit battle of the third round.The first unit, KeVIZ, consists of Kep1er's Xiaoting, Dayeon, and Hikaru, and VIVIZ's SinB and Umji.The second unit, Ex-it, consists of Hyolyn and WJSN's Eunseo and Yeoreum.The third unit, Queen Is Me, consists of Brave Girls' Eunji and LOONA's Yves, HeeJin, Choerry, and Olivia Hye."
+    },
+    {
+        "album_slug": "/musicalbum/2022-queendom2-position-unit-battle-part1-1",
+        "name": "<Queendom2> Position Unit Battle Part.1-1",
+        "type": "SINGLE",
+        "release_date": "2022-05-06",
+        "language": "Korean",
+        "description": "\"<Queendom2> Position Unit Battle Part.1-1\" is the first digital single from the survival program \"Queendom 2\". It was released on May 6, 2022.The single is sung by the unit \"Sun and Moon\", consisting of LOONA's JinSoul, HaSeul, Kim Lip, and Chuu, and Kep1er's Chaehyun and Youngeun."
+    },
+    {
+        "album_slug": "/musicalbum/2022-queendom2-part2-1",
+        "name": "<Queendom2> Part.2-1",
+        "type": "COMPILATION",
+        "release_date": "2022-04-15",
+        "language": "Korean",
+        "description": "\"<Queendom2> Part.2-1\" is the third digital compilation album from the survival program \"Queendom 2\". It was released on April 15, 2022 and is a compilation of the first three songs performed in the second round."
+    },
+    {
+        "album_slug": "/musicalbum/2022-queendom2-part1-2",
+        "name": "<Queendom2> Part.1-2",
+        "type": "COMPILATION",
+        "release_date": "2022-04-08",
+        "language": "Korean",
+        "description": "\"<Queendom2> Part.1-2\" is the second digital compilation album from the survival program \"Queendom 2\". It was released on April 8, 2022 and is a compilation of the remaining songs performed in the introduction."
+    },
+    {
+        "album_slug": "/musicalbum/2021-yummy-yummy",
+        "name": "Yummy-Yummy",
+        "type": "SINGLE",
+        "release_date": "2021-11-04",
+        "language": "Korean",
+        "description": "\"Yummy-Yummy\" is the second collaboration digital single by LOONA and the children's show COCOMONG. It was released on November 4, 2021, and features members YeoJin, Kim Lip, Choerry, and Go Won."
+    },
+    {
+        "album_slug": "/musicalbum/2026-4ward",
+        "name": "4WARD",
+        "type": "SINGLE",
+        "release_date": "2026-06-0418:00KST",
+        "language": "Korean",
+        "description": "4WARD is a special single album by MAMAMOO. It was released on June 4, 2026, with \"4 Flowers\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2023-Hwa-Sa-Show-Vol-3-MMM-Smile",
+        "name": "[Hwa Sa Show Vol.3] MMM Smile",
+        "type": "SINGLE",
+        "release_date": "2023-02-19",
+        "language": null,
+        "description": "MAMAMOO"
+    },
+    {
+        "album_slug": "/musicalbum/2021-WAW-Japan-Edition",
+        "name": "WAW (Japan Edition)",
+        "type": "STUDIO",
+        "release_date": "2021-09-29",
+        "language": null,
+        "description": "WAW (Japan Edition) is a Japanese full album by Mamamoo. It consists of 9 songs, including the Japanese version of \"mumumumuch\" and \"Where are we now\"."
+    },
+    {
+        "album_slug": "/musicalbum/2021-I-Say-MAMAMOO-The-Best",
+        "name": "I Say MAMAMOO : The Best",
+        "type": "STUDIO",
+        "release_date": "2021-09-15",
+        "language": null,
+        "description": "\"I Say MAMAMOO : The Best\" is the first best album by MAMAMOO. It was released on September 15, 2021 with \"Mumumumuch\" serving as the album's title track. It includes new versions of their past title tracks and B-sides, as well as two new songs."
+    },
+    {
+        "album_slug": "/musicalbum/2021-WAW",
+        "name": "WAW",
+        "type": "MINI ALBUM",
+        "release_date": "2021-06-02",
+        "language": "Korean",
+        "description": "\"WAW\" (which stands for Where Are We) is the 11th mini album by MAMAMOO. It will be released on June 2, 2021 with \"Where Are We Now\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2021-TRAVEL-Japan-Edition",
+        "name": "TRAVEL -Japan Edition-",
+        "type": "MINI ALBUM",
+        "release_date": "2021-02-03",
+        "language": null,
+        "description": "Discover TRAVEL -Japan Edition-, the official mini album from K-pop artist MAMAMOO. The album was released on 2021-02-03 under RBW Entertainment. The release features 10 tracks, including the title track \"MAMAMOO - WANNA BE MYSELF\". Explore the full tracklist, music videos, and concept photos below."
+    },
+    {
+        "album_slug": "/musicalbum/2020-TRAVEL",
+        "name": "TRAVEL",
+        "type": "MINI ALBUM",
+        "release_date": "2020-11-03",
+        "language": null,
+        "description": "\"Travel\" is the 10th mini-album released by Mamamoo. The mini-album has 6 songs, with \"Aya\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2020-Dingga",
+        "name": "Dingga",
+        "type": "SINGLE",
+        "release_date": "2020-10-20",
+        "language": null,
+        "description": "\"Dingga\" is a song by South Korean girl group MAMAMOO. It was released on October 20, 2020, as the lead single from the group's tenth extended play (EP), Travel."
+    },
+    {
+        "album_slug": "/musicalbum/2020-WANNA-BE-MYSELF",
+        "name": "WANNA BE MYSELF",
+        "type": "SINGLE",
+        "release_date": "2020-09-10",
+        "language": null,
+        "description": "\"Wanna Be Myself\" is the third special single by MAMAMOO. It was released on September 10, 2020 as a surprise gift for their fans who have been waiting for music from the group for a long time."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Season-of-Memories-Special-Album",
+        "name": "Season of Memories (Special Album)",
+        "type": "SINGLE",
+        "release_date": "2025-01-13",
+        "language": null,
+        "description": "Season of Memories is the first special album by GFRIEND. It was released on January 13, 2025 with \"Season of Memories\" serving as the album's title track. \"Season of Memories\" was pre-released on January 6, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Season-of-Memories",
+        "name": "Season of Memories",
+        "type": "SINGLE",
+        "release_date": "2025-01-06",
+        "language": null,
+        "description": "\"Season of Memories\" is the first digital single by GFRIEND. It was released on January 6, 2025, as the pre-release for their first special album Season of Memories."
+    },
+    {
+        "album_slug": "/musicalbum/2020-hui-Walpurgis-Night",
+        "name": "回:Walpurgis Night",
+        "type": "STUDIO",
+        "release_date": "2020-11-09",
+        "language": null,
+        "description": "回:Walpurgis Night is the third full-length album by GFRIEND. It was released on November 9, 2020 with the song \"Mago\" serving as the album's title track.On October 12, 2020, it was reported that GFRIEND would come back on November 9 with a new studio album titled 回:Walpurgis Night. It's the third and last release of the series \"回\"."
+    },
+    {
+        "album_slug": "/musicalbum/2020-hui-Song-of-the-Sirens-Apple",
+        "name": "回:Song of the Sirens ~Apple~",
+        "type": "SINGLE",
+        "release_date": "2020-10-21",
+        "language": null,
+        "description": "'回:Song of the Sirens ~Apple~' is the seventh Japanese digital single released by South Korean girl group GFRIEND. It was released on October 21, 2020 under King Records. It was announced along with '回:Labyrinth ~Crossroads~'."
+    },
+    {
+        "album_slug": "/musicalbum/2020-hui-Labyrinth-Crossroads",
+        "name": "回:Labyrinth ~Crossroads~",
+        "type": "SINGLE",
+        "release_date": "2020-10-14",
+        "language": null,
+        "description": "'回:Labyrinth ~Crossroads~' is the sixth Japanese digital single by South Korean girl group GFRIEND. It was released on October 14, 2020 under King Records. It was announced the same day as '回:Song of the Sirens ~Apple~'."
+    },
+    {
+        "album_slug": "/musicalbum/2020-hui-Song-of-the-Sirens",
+        "name": "回:Song of the Sirens",
+        "type": "MINI ALBUM",
+        "release_date": "2020-07-13",
+        "language": null,
+        "description": "回:Song of the Sirens is the ninth mini album by GFRIEND. It was released on July 13, 2020 with the song \"Apple\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2020-hui-LABYRINTH",
+        "name": "回:LABYRINTH",
+        "type": "STUDIO",
+        "release_date": "2020-02-03",
+        "language": "Korean",
+        "description": "回:Labyrinth is the eighth mini album by GFRIEND. It was released on February 3, 2020 with \"Crossroads\" serving as the title track.The physical album comes in three versions: Crossroads, Room, and Twisted."
+    },
+    {
+        "album_slug": "/musicalbum/2019-Fallin-Light",
+        "name": "Fallin' Light",
+        "type": "STUDIO",
+        "release_date": "2019-11-13",
+        "language": null,
+        "description": "'Fallin' Light' is the third studio album and first Japanese language studio album by Korean girl group GFriend. It was released on November 13, 2019 under King Records.It consists of 10 tracks (Including one bonus track on the CD album making 11 tracks in total), two being Japanese versions of the groups hit Korean songs 'Sunrise' and 'Time For The Moon Night'."
+    },
+    {
+        "album_slug": "/musicalbum/2019-FEVER-SEASON",
+        "name": "FEVER SEASON",
+        "type": "MINI ALBUM",
+        "release_date": "2019-07-01",
+        "language": null,
+        "description": "Fever Season is the seventh mini album by GFRIEND. It was released on July 1, 2019 with \"Fever\" serving as the album's title track.The physical album comes in three versions: 熱(열), 帶(대), and 夜(야)."
+    },
+    {
+        "album_slug": "/musicalbum/2019-Just-One-Bite-2",
+        "name": "Just One Bite 2",
+        "type": "OST",
+        "release_date": "2019-03-20",
+        "language": null,
+        "description": "GFRIEND released the song \"Cheers (ZZAN)\" as part of the original television soundtrack of the drama \"Just One Bite 2\""
+    },
+    {
+        "album_slug": "/musicalbum/2025-Memory-of-the-Moon",
+        "name": "Moon",
+        "type": "SINGLE",
+        "release_date": "2025-04-1918:00KST",
+        "language": "Korean",
+        "description": "Moon is the sixth digital single by ASTRO. It was released on April 19, 2025 as a tribute for Moon Bin and features VIVIZ, Minhyuk, Kihyun, I.M, Hoshi, Wonwoo, Mingyu, DK, Seungkwan, Hello Gloom, Rocky, Yoojung, Doyeon, Cha Ni, Bang Chan, and Moon Sua."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Twilight",
+        "name": "Twilight",
+        "type": "SINGLE",
+        "release_date": "2025-02-2318:00KST",
+        "language": "Korean",
+        "description": "\"Twilight\" is the second special digital single by ASTRO. It was released on February 23, 2025, to celebrate the group's ninth debut anniversary."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Circles",
+        "name": "Circles",
+        "type": "SINGLE",
+        "release_date": "2024-02-2318:00KST",
+        "language": "Korean",
+        "description": "\"Circles\" is the first special digital single by ASTRO. It was released on February 23, 2024, to celebrate the group's eighth debut anniversary."
+    },
+    {
+        "album_slug": "/musicalbum/2022-U-Iverse",
+        "name": "U&Iverse",
+        "type": "SINGLE",
+        "release_date": "2022-07-2118:00KST",
+        "language": "Korean",
+        "description": "\"U&Iverse\" is the fifth digital single by ASTRO. It was released on July 21, 2022 as the 23rd release of the UNIVERSE Music project.This song is the group's last release with Moon Bin & Rocky."
+    },
+    {
+        "album_slug": "/musicalbum/2022-Drive-to-the-Starry-Road",
+        "name": "Drive to the Starry Road",
+        "type": "STUDIO",
+        "release_date": "2022-05-1618:00KST",
+        "language": "Korean",
+        "description": "\"Drive to the Starry Road\" is the third full length album of ASTRO. It features eleven songs, with \"Candy Sugar Pop\" serving as the title track. Moreover, this album marks MJ's last participation due to his military enlistment."
+    },
+    {
+        "album_slug": "/musicalbum/2021-Say-Goodbye-To-Your-Favorite-Person",
+        "name": "Ichiban Suki na Hito ni Sayonara wo Iou",
+        "type": "SINGLE",
+        "release_date": "2021-11-0300:00KST",
+        "language": "Japanese",
+        "description": "\"Ichiban Suki na Hito ni Sayonara wo Iou\"  is the second Japanese digital single as well the first Japanese single by ASTRO."
+    },
+    {
+        "album_slug": "/musicalbum/2021-ALIVE",
+        "name": "ALIVE",
+        "type": "SINGLE",
+        "release_date": "2021-09-0218:00KST",
+        "language": "Korean",
+        "description": "\"ALIVE\" is a special collaboration single by ASTRO together with the Universe platform. It was released on September 2nd, 2021."
+    },
+    {
+        "album_slug": "/musicalbum/2021-All-Good-Japanese-Ver",
+        "name": "All Good (Japanese Ver.)",
+        "type": "STUDIO",
+        "release_date": "2021-08-2500:00KST",
+        "language": "Japanese",
+        "description": "\"All Good (Japanese Ver.)\" is a Japanese single by Astro. The song was also released as part of the original soundtrack of Tokyo MX Drama Series."
+    },
+    {
+        "album_slug": "/musicalbum/2021-Switch-On",
+        "name": "Switch On",
+        "type": "MINI ALBUM",
+        "release_date": "2021-08-0218:00KST",
+        "language": "Korean",
+        "description": "\"Switch On\" is the 8th mini-album by Astro. It contains 6 songs, with \"After Midnight\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2021-All-Yours",
+        "name": "All Yours",
+        "type": "STUDIO",
+        "release_date": "2021-04-0518:00KST",
+        "language": "Korean",
+        "description": "\"All Yours\" is the second full-length album by ASTRO. The album was released on April 5th, 2021 via Fantagio Music. The album was preceded by the title track \"ONE\"."
+    },
+    {
+        "album_slug": "/musicalbum/2022-Still-Life",
+        "name": "Still Life",
+        "type": "SINGLE",
+        "release_date": "2022-04-05",
+        "language": "Korean",
+        "description": "\"Still Life\" is the second digital single of Bigbang. This marks Bigbang's first music release after four years, much to the delight of fans around the world. This is also Bigbang's first music release as a four-member group."
+    },
+    {
+        "album_slug": "/musicalbum/2018-Flower-Road",
+        "name": "Flower Road",
+        "type": "SINGLE",
+        "release_date": "2018-03-13",
+        "language": null,
+        "description": "\"Flower Road\" is the first digital single by BIGBANG. It was released on March 13, 2018."
+    },
+    {
+        "album_slug": "/musicalbum/2016-MADE",
+        "name": "MADE",
+        "type": "STUDIO",
+        "release_date": "2016-12-12",
+        "language": null,
+        "description": "\"MADE\" is the third full-length album by BIGBANG. Among the 11 songs in the album, 8 of them were pre-released as digital singles over the year."
+    },
+    {
+        "album_slug": "/musicalbum/2016-made-series",
+        "name": "Made Series",
+        "type": "STUDIO",
+        "release_date": "2016-02-03",
+        "language": null,
+        "description": "\"Made Series\" is a japanese album by BIGBANG. It was released on February 3, 2016."
+    },
+    {
+        "album_slug": "/musicalbum/2015-e",
+        "name": "E",
+        "type": "SINGLE",
+        "release_date": "2015-08-05",
+        "language": "Korean",
+        "description": "\"E\" is the seventh single album by BIGBANG. It was released on August 5, 2015 as the fourth and final part in the MADE series."
+    },
+    {
+        "album_slug": "/musicalbum/2015-a2",
+        "name": "A",
+        "type": "SINGLE",
+        "release_date": "2015-06-01",
+        "language": "Korean",
+        "description": "\"A\" is the fifth single album by BIGBANG. It was released on June 1, 2015 and is the second part of their MADE series."
+    },
+    {
+        "album_slug": "/musicalbum/2015-m",
+        "name": "M",
+        "type": "SINGLE",
+        "release_date": "2015-05-01",
+        "language": "Korean",
+        "description": "\"M\" is the fourth single album by BIGBANG. It was released on May 1, 2015 and is the first part of their MADE series."
+    },
+    {
+        "album_slug": "/musicalbum/2012-Still-Alive",
+        "name": "Still Alive",
+        "type": "REPACKAGE",
+        "release_date": "2012-06-03",
+        "language": null,
+        "description": "\"Still Alive\" is the repackage version of Bigbang's fifth mini-album \"Alive.\"  The album contains 9 songs, with \"Monster\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2012-Alive",
+        "name": "ALIVE",
+        "type": "MINI ALBUM",
+        "release_date": "2012-02-2918:00KST",
+        "language": "Korean",
+        "description": "ALIVE is the fifth mini album by BIGBANG. It was released on February 29, 2012 with \"Fantastic Baby\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-home3",
+        "name": "HOME",
+        "type": "STUDIO",
+        "release_date": "2026-06-0818:00KST",
+        "language": "Korean",
+        "description": "Home (stylized in all-caps) is the first full-length album by BOYNEXTDOOR. It was released on June 8, 2026, with the title track \"VIRAL\".The music video for the track \"ddok ddok ddok\" was released on May 10, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-knock-knock-knock",
+        "name": "Knock Knock Knock",
+        "type": "SINGLE",
+        "release_date": "2026-05-1118:00KST",
+        "language": "Korean",
+        "description": "KNOCK KNOCK KNOCK is a digital single by BOYNEXTDOOR. It is a pre-release for their upcoming album \"Home\". The MV was released at 12am KST on May 11, 2026. While the digital version was released on music platforms at 6pm kst."
+    },
+    {
+        "album_slug": "/musicalbum/2026-perfect-crown-pt3",
+        "name": "Perfect Crown Pt.3",
+        "type": "OST",
+        "release_date": "2026-04-1718:00KST",
+        "language": "Korean",
+        "description": "BOYNEXTDOOR released their OST \"No Doubt\" for the MBC drama Perfect Crown on April 17, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-earth-wind-fire-buldak-hotter-than-my-ex-ver",
+        "name": "Earth, Wind & Fire (Buldak Hotter Than My EX Ver.)",
+        "type": "SINGLE",
+        "release_date": "2026-02-08",
+        "language": "Korean",
+        "description": "\"Earth, Wind & Fire (Buldak Hotter Than My EX Ver.)\" is a single by BOYNEXTDOOR. It was released on February 8, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-boynextdoor-tour-knowck-on-vol1-final-live",
+        "name": "BOYNEXTDOOR TOUR \"KNOCK ON Vol.1\" FINAL (LIVE)",
+        "type": "LIVE",
+        "release_date": "2026-02-04",
+        "language": "Korean, English",
+        "description": "\"BOYNEXTDOOR TOUR \"KNOWCK ON Vol.1\" FINAL (LIVE)\" is a live album by BOYNEXTDOOR. It was released on February 4, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2025-SAY-CHEESE",
+        "name": "SAY CHEESE!",
+        "type": "SINGLE",
+        "release_date": "2025-11-10",
+        "language": "Japanese",
+        "description": "SAY CHEESE! is a digital single by BOYNEXTDOOR. It was released on November 10, 2025 under KOZ Entertainment, with “SAY CHEESE!” serving as the single’s title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-The-Action",
+        "name": "The Action",
+        "type": "MINI ALBUM",
+        "release_date": "2025-10-20",
+        "language": null,
+        "description": "\"The Action\" is the fifth mini album by BOYNEXTDOOR. It is set to be released on October 20, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-BOYLIFE",
+        "name": "BOYLIFE",
+        "type": "SINGLE",
+        "release_date": "2025-08-18",
+        "language": null,
+        "description": "\"Boylife\" is the second Japanese single by BOYNEXTDOOR. It was released on August 18, 2025 with \"Count To Love\" serving as the single's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-No-Genre",
+        "name": "No Genre",
+        "type": "MINI ALBUM",
+        "release_date": "2025-05-13",
+        "language": null,
+        "description": "No Genre is the fourth EP by BOYNEXTDOOR. It was released on May 13, 2025 with \"I Feel Good\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Never-Loved-This-Way-Before",
+        "name": "Never Loved This Way Before",
+        "type": "OST",
+        "release_date": "2025-03-14",
+        "language": null,
+        "description": "Discover Never Loved This Way Before, the official ost from K-pop artist BOYNEXTDOOR. The album was released on 2025-03-14. The release features 2 tracks, including the title track \"Never Loved This Way Before\". Explore the full tracklist, music videos, and concept photos below."
+    },
+    {
+        "album_slug": "/musicalbum/2026-4shoboiz-vol-2-4shoville",
+        "name": "4SHOBOIZ Vol. 2: 4SHOVILLE",
+        "type": "EP",
+        "release_date": "2026-05-1818:00KST",
+        "language": "Korean",
+        "description": "4SHOBOIZ Vol. 2: 4SHOVILLE is a collaborative mixtape by Jay Park and LNGSHOT. It was released on May 18, 2026 with the title track, \"YEAH!  YEAH!\".The music video to the opening track \"4SHO 4SHO\" was released on May 11, 2026.This is the second mixtape by LNGSHOT following the release of their pre-debut release, 4SHOBOIZ MIXTAPE'."
+    },
+    {
+        "album_slug": "/musicalbum/2026-training-day2",
+        "name": "Training Day",
+        "type": "EP",
+        "release_date": "2026-03-2318:00KST",
+        "language": "Korean",
+        "description": "\"Training Day\" is the second EP by LNGSHOT. It was released on March 23, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-4SHOBOIZ-MIXTAPE",
+        "name": "4SHOBOIZ MIXTAPE",
+        "type": "MINI ALBUM",
+        "release_date": "2026-01-16",
+        "language": "Korean",
+        "description": "\"4SHOBOIZ MIXTAPE\" is the first mixtape by LNGSHOT. It was released on January 16, 2026. This mixtape was previously released exclusively on Youtube."
+    },
+    {
+        "album_slug": "/musicalbum/2026-SHOT-CALLERS",
+        "name": "SHOT CALLERS",
+        "type": "MINI ALBUM",
+        "release_date": "2026-01-1318:00KST",
+        "language": "Korean",
+        "description": "\"Shot Callers\" is the debut EP by LNGSHOT. It was released on January 13, 2026. \"Saucin'\" was pre-released on December 22, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Saucin",
+        "name": "Saucin'",
+        "type": "SINGLE",
+        "release_date": "2025-12-2218:00KST",
+        "language": "Korean",
+        "description": "Saucin' is the first pre-debut digital single album by LNGSHOT. It was released on December 22, 2025"
+    },
+    {
+        "album_slug": "/musicalbum/2023-PANORAMA",
+        "name": "PANORAMA",
+        "type": "SINGLE",
+        "release_date": "2023-08-23",
+        "language": null,
+        "description": "\"PANORAMA\" is a special digital single by iKON."
+    },
+    {
+        "album_slug": "/musicalbum/2023-Take-Off",
+        "name": "TAKE OFF",
+        "type": "STUDIO",
+        "release_date": "2023-05-0418:00KST",
+        "language": "Korean",
+        "description": "Take Off is the third full-length album by iKON. It was released on May 4, 2023 with \"U\" serving as the album's title track. \"Tantara\" was pre-released on April 25, 2023.The album marks their first release under 143 Entertainment, following their departure from YG Entertainment in December 2022."
+    },
+    {
+        "album_slug": "/musicalbum/2022-Flashback",
+        "name": "FLASHBACK",
+        "type": "MINI ALBUM",
+        "release_date": "2022-05-0318:00KST",
+        "language": "Korean",
+        "description": "Flashback is the fourth mini album by iKON. It was released on May 3, 2022 with \"But You\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2021-At-Ease",
+        "name": "At Ease",
+        "type": "SINGLE",
+        "release_date": "2021-05-28",
+        "language": null,
+        "description": "\"At Ease\" is a digital single released by iKON while participating in the show \"Kingdom\". The single was released together with other participating groups through the album called \"WHO IS KING?\""
+    },
+    {
+        "album_slug": "/musicalbum/2021-Why-Why-Why",
+        "name": "Why Why Why",
+        "type": "SINGLE",
+        "release_date": "2021-03-0318:00KST",
+        "language": "Korean",
+        "description": "\"Why Why Why\" is a digital single by iKON. It was released on March 3, 2021."
+    },
+    {
+        "album_slug": "/musicalbum/2020-i-DECIDE",
+        "name": "i DECIDE",
+        "type": "MINI ALBUM",
+        "release_date": "2020-02-06",
+        "language": null,
+        "description": "\"I Decide\" is the third mini-album released by iKON. It has 5 songs, with \"Dive\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2019-New-Kids-Repackage-The-New-Kids",
+        "name": "New Kids Repackage : The New Kids",
+        "type": "REPACKAGE",
+        "release_date": "2019-01-0718:00KST",
+        "language": "Korean",
+        "description": "\"New Kids Repackage : The New Kids\" is the first repackage album of iKON. It was released on January 7, 2019. It contains a total of twenty-two songs, all of which were previously released as part of iKON's \"New Kids\" album series. The album also features the new song \"I'm OK\" which serves as its title track."
+    },
+    {
+        "album_slug": "/musicalbum/2018-New-Kids-The-Final",
+        "name": "New Kids: The Final",
+        "type": "MINI ALBUM",
+        "release_date": "2018-10-01",
+        "language": null,
+        "description": "Discover New Kids: The Final, the official mini album from K-pop artist iKON. The album was released on 2018-10-01. The release features 4 tracks, including the title track \"GOODBYE ROAD\". Explore the full tracklist, music videos, and concept photos below."
+    },
+    {
+        "album_slug": "/musicalbum/2018-New-Kids-Continue",
+        "name": "New Kids: Continue",
+        "type": "MINI ALBUM",
+        "release_date": "2018-08-01",
+        "language": null,
+        "description": "Discover New Kids: Continue, the official mini album from K-pop artist iKON. The album was released on 2018-08-01. The release features 5 tracks, including the title track \"KILLING ME\". Explore the full tracklist, music videos, and concept photos below."
+    },
+    {
+        "album_slug": "/musicalbum/2018-Rubber-Band",
+        "name": "Rubber Band",
+        "type": "SINGLE",
+        "release_date": "2018-03-05",
+        "language": null,
+        "description": "Discover Rubber Band, the official single from K-pop artist iKON. The album was released on 2018-03-05 under YG Entertainment, YGEX. The release features 1 tracks, including the title track \"Rubber Band\". Explore the full tracklist, music videos, and concept photos below."
+    },
+    {
+        "album_slug": "/musicalbum/2026-igod",
+        "name": "I,God",
+        "type": "MINI ALBUM",
+        "release_date": "2026-05-2718:00KST",
+        "language": "Korean",
+        "description": "\"I,God\" is the second mini album by XLOV. It was released on May 26, 2026 with “Serve” serving as the title track"
+    },
+    {
+        "album_slug": "/musicalbum/2025-UXLXVE",
+        "name": "UXLXVE",
+        "type": "MINI ALBUM",
+        "release_date": "2025-11-0518:00KST",
+        "language": "Korean",
+        "description": "Uxlxve is the first mini album by XLOV. It was released on November 5, 2025 with \"Rizz\" serving as the album's title track and \"Biii:-P\" serving as the album's sub-title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-I-ONE",
+        "name": "I ONE",
+        "type": "SINGLE",
+        "release_date": "2025-06-1318:00KST",
+        "language": "Korean",
+        "description": "\"I One\" is the second single album by XLOV. It was released on June 13, 2025 with \"1&Only\" serving as the single's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-I-mma-Be",
+        "name": "I'mma Be",
+        "type": "SINGLE",
+        "release_date": "2025-01-0718:00KST",
+        "language": "Korean",
+        "description": "\"I'mma Be\" is the debut single album by XLOV. It was released on January 7, 2025 with \"I'mma Be\" serving as the single's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-regression-love",
+        "name": "Regression LOVE",
+        "type": "SINGLE",
+        "release_date": "Label",
+        "language": "Japanese",
+        "description": "\"Regression LOVE\" is the 2nd japanese single by ZEROBASEONE. It will be released on August 19, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-ascend",
+        "name": "Ascend-",
+        "type": "MINI ALBUM",
+        "release_date": "2026-05-1818:00KST",
+        "language": "Korean",
+        "description": "\"Ascend-\" is the sixth mini album by ZEROBASEONE. It was released on 18  May, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-RE-FLOW",
+        "name": "RE-FLOW",
+        "type": "SINGLE",
+        "release_date": "2026-02-02",
+        "language": "Korean",
+        "description": "\"RE-FLOW\" is the first special album by ZEROBASEONE. It was released on February 2, 2026 with \"LOVEPOCALYPSE\" serving as the title track.\"Running To Future\" and \"ROSES\" were pre-released on January 9 and January 23, 2026, respectively.This is the groups final release as a nine-member group before the departures of members Zhang Hao, Ricky, Kim Gyu Vin, and Han Yu Jin."
+    },
+    {
+        "album_slug": "/musicalbum/2026-Roses",
+        "name": "Roses",
+        "type": "SINGLE",
+        "release_date": "2026-01-23",
+        "language": "Korean",
+        "description": "\"ROSES\" is the fifth digital single by ZEROBASEONE. It was released on January 23, 2026 as the second pre-release for their first special album, \"RE-FLOW\"."
+    },
+    {
+        "album_slug": "/musicalbum/2026-Running-to-Future",
+        "name": "Running to Future",
+        "type": "SINGLE",
+        "release_date": "2026-01-09",
+        "language": "Korean",
+        "description": "\"Running to Future\" is the fourth digital single by ZEROBASEONE. It was released on January 9, 2026 as the first pre-release for their first special album, Re-Flow."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Iconik-Japanese-EP",
+        "name": "ICONIK",
+        "type": "EP",
+        "release_date": "2025-10-29",
+        "language": "Japanese",
+        "description": "\"ICONIK\" is the first Japanese special EP by ZEROBASEONE. It was released on October 29, 2025 with \"Iconik (Japanese Ver.)\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Never-Say-Never",
+        "name": "Never Say Never",
+        "type": "STUDIO",
+        "release_date": "2025-09-01",
+        "language": "Korean",
+        "description": "Never Say Never is the first full-length album by ZEROBASEONE. It was released on September 1, 2025.\"Slam Dunk\" was pre-released on July 23, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-head-over-heels-pt2-ost",
+        "name": "Head Over Heels OST",
+        "type": "OST",
+        "release_date": "2025-07-30",
+        "language": "Korean",
+        "description": "\"Head Over Heels Pt.2 OST\" is a ost by various artists, including ZEROBASEONE, YOUNG POSSE, Choo Young-woo, Colde, Miyeon, Cheeze, and Jo Hyung-ah. It was released on July 29, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Slam-Dunk",
+        "name": "Slam Dunk",
+        "type": "SINGLE",
+        "release_date": "2025-07-23",
+        "language": "Korean",
+        "description": "\"Slam Dunk\" is the third digital single by ZEROBASEONE. It was released on July 23, 2025 as the pre-release for their first full-length album, Never Say Never."
+    },
+    {
+        "album_slug": "/musicalbum/2025-head-over-heels-ost-part1",
+        "name": "Head over Heels OST Part.1",
+        "type": "OST",
+        "release_date": "2025-06-2418:00KST",
+        "language": "Korean",
+        "description": "\"Head over Heels OST Part.1\" is an OST by ZEROBASEONE. It was released on June 24, 2025, as the first original soundtrack for the tvN drama Head over Heels."
+    },
+    {
+        "album_slug": "/musicalbum/2021-ZERO-ATTITUDE-feat-pH-1",
+        "name": "ZERO:ATTITUDE (feat. pH-1)",
+        "type": "SINGLE",
+        "release_date": "2021-02-15",
+        "language": "Korean",
+        "description": "\"ZERO:ATTITUDE\" is a promotional single by Soyou and IZ*ONE (sung by Wonyoung, Sakura, Yuri, Eunbi, and Minju). It was released on February 15, 2021 as part of the 2021 Pepsi X Starship K-Pop Campaign and features pH-1."
+    },
+    {
+        "album_slug": "/musicalbum/2021-D-D-DANCE",
+        "name": "D-D-DANCE",
+        "type": "SINGLE",
+        "release_date": "2021-01-26",
+        "language": "Korean",
+        "description": "\"D-D-DANCE\" is the first digital single by IZ*ONE. Made in collaboration with the platform UNIVERSE, it was released on January 26, 2021 as the first release of the UNIVERSE Music project. Its accompanying music video was released on January 28, 2021.It is the group's final single and release (as a full group) before disbanding on April 29, 2021."
+    },
+    {
+        "album_slug": "/musicalbum/2020-One-reeler-Act-IV",
+        "name": "One-reeler / Act IV",
+        "type": "MINI ALBUM",
+        "release_date": "2020-12-07",
+        "language": "Korean",
+        "description": "One-reeler / Act IV is the fourth mini album by IZ*ONE. It was released on December 7, 2020 with the song \"Panorama\" serving as the album's title track. \"Sequence\" was also promoted on music shows.It is the group's final mini album before disbanding on April 29, 2021."
+    },
+    {
+        "album_slug": "/musicalbum/2020-Twelve",
+        "name": "Twelve",
+        "type": "STUDIO",
+        "release_date": "2020-10-21",
+        "language": "Japanese",
+        "description": "Twelve is the first and only Japanese full-length album by IZ*ONE. It was released on October 21, 2020 with \"Beware\" serving as the title track.\"Beware\" was pre-released on October 7, 2020."
+    },
+    {
+        "album_slug": "/musicalbum/2020-Oneiric-Diary",
+        "name": "Oneiric Diary",
+        "type": "MINI ALBUM",
+        "release_date": "2020-06-15",
+        "language": "Korean",
+        "description": "Oneiric Diary (幻想日記) is the third mini album by IZ*ONE. It was released on June 15, 2020 with \"Secret Story of the Swan\" serving as the title track. \"Pretty\" was also promoted on music shows.The music video for \"Secret Story of the Swan\" was released on June 16."
+    },
+    {
+        "album_slug": "/musicalbum/2020-BLOOM-IZ",
+        "name": "BLOOM*IZ",
+        "type": "STUDIO",
+        "release_date": "2020-02-17",
+        "language": "Korean",
+        "description": "BLOOM*IZ is the first and only full-length album by IZ*ONE. It was released on February 17, 2020 with \"FIESTA\" serving as the album's title track.It was originally scheduled to be released on November 11, 2019 but was postponed due to the Produce 101 vote rigging controversy."
+    },
+    {
+        "album_slug": "/musicalbum/2019-Vampire",
+        "name": "Vampire",
+        "type": "SINGLE",
+        "release_date": "2019-09-25",
+        "language": "Japanese",
+        "description": "\"Vampire\" is the third Japanese single by IZ*ONE. It was released on September 25, 2019.The music video for the title track was pre-released on September 12, 2019."
+    },
+    {
+        "album_slug": "/musicalbum/2019-Buenos-Aires",
+        "name": "Buenos Aires",
+        "type": "SINGLE",
+        "release_date": "2019-06-21",
+        "language": "Japanese",
+        "description": "\"Buenos Aires\" is the second Japanese single by IZ*ONE. It was released digitally on June 21, 2019, and physically on June 26, 2019, with \"Buenos Aires\" serving as the title track.The music video for the title track was pre-released on June 12, 2019."
+    },
+    {
+        "album_slug": "/musicalbum/2019-HEART-IZ",
+        "name": "HEART*IZ",
+        "type": "MINI ALBUM",
+        "release_date": "2019-04-01",
+        "language": "Korean",
+        "description": "\"HEART*IZ\" is the second mini album by IZ*ONE. It was released on April 1, 2019 with \"Violeta\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2019-Suki-Iwasetai",
+        "name": "Suki to Iwasetai",
+        "type": "SINGLE",
+        "release_date": "2019-02-06",
+        "language": "Japanese",
+        "description": "\"Suki to Iwasetai\" (好きと言わせたい; lit. I Want To Say I Like You) is the debut Japanese single by IZ*ONE. It was released on February 6, 2019 with \"Suki to Iwasetai\" serving as the title track.The music video for \"Suki to Iwasetai\" was released on January 25, 2019."
+    },
+    {
+        "album_slug": "/musicalbum/2026-mark-on-me",
+        "name": "Mark on Me",
+        "type": "MINI ALBUM",
+        "release_date": "Label",
+        "language": "Korean",
+        "description": "\"Mark on Me\" is the second Korean mini album by &TEAM. It will be released on September 8, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-we-on-fire",
+        "name": "We on Fire",
+        "type": "MINI ALBUM",
+        "release_date": "2026-04-1300:00KST",
+        "language": "Japanese",
+        "description": "We on Fire is the third mini album by &TEAM. It was released digitally on April 13, 2026 with \"We on Fire\" serving as the album's title track. The physical albums were released on April 21, 2026.\"Sakura-iro Yell\" was pre-released on March 14, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Back-to-Life",
+        "name": "Back to Life",
+        "type": "MINI ALBUM",
+        "release_date": "2025-10-28",
+        "language": "Korean",
+        "description": "\"Back to Life\" is the first Korean mini album by &TEAM. It was released on October 28, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Go-in-Blind",
+        "name": "Go in Blind",
+        "type": "SINGLE",
+        "release_date": "2025-04-21",
+        "language": null,
+        "description": "Go in Blind is the 3rd single album by &TEAM. It was released on April 21st, 2025, with \"Go in Blind\" serving as the title track. \"Go in Blind\" was pre-released on April 14th, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Extraordinary-Day",
+        "name": "Extraordinary Day",
+        "type": "SINGLE",
+        "release_date": "2025-02-02",
+        "language": null,
+        "description": "\"Extraordinary Day\" is the fifth digital single by &TEAM. It was released on February 2, 2025, for the tournament 2025 Beppu-Ōita Marathon."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Magic-Hour-Wonderful-World",
+        "name": "Magic Hour / Wonderful World",
+        "type": "OST",
+        "release_date": "2025-01-09",
+        "language": null,
+        "description": "\"Magic Hour / Wonderful World\" is a soundtrack for the Japanese animated television series Honey Lemon Soda. It was released on January 9, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Yukiakari",
+        "name": "Yukiakari",
+        "type": "STUDIO",
+        "release_date": "2024-12-18",
+        "language": null,
+        "description": "\"Yukiakari\" is the second full-length album by &TEAM. It was released on December 18, 2024 with \"Yukiakari\" serving as the album's title track. \"Deer Hunter\" was also promoted on music shows.The pre-release single, \"Jyuugoya\" was released on October 23, 2024. \"Illumination\" and \"Yukiakari\" were pre-released on December 6 and December 16, 2024, respectively."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Jyuugoya",
+        "name": "Jyuugoya",
+        "type": "SINGLE",
+        "release_date": "2024-10-23",
+        "language": null,
+        "description": "\"Jyuugoya\" is the fourth digital single by &TEAM. It was released on October 23, 2024 as the pre-release for their second full-length album Yukiakari."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Feel-the-Pulse",
+        "name": "Feel the Pulse",
+        "type": "OST",
+        "release_date": "2024-10-18",
+        "language": null,
+        "description": "\"Feel the Pulse\" is the OST for Golden Kamuy. It was released on October 18, 2024."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Beat-the-Odds",
+        "name": "Beat the Odds",
+        "type": "OST",
+        "release_date": "2024-10-04",
+        "language": null,
+        "description": "\"Beat the Odds\" is the OST for Trillion Game. It was released on October 4, 2024."
+    },
+    {
+        "album_slug": "/musicalbum/2026-code-2",
+        "name": "CODE",
+        "type": "MINI ALBUM",
+        "release_date": "2026-03-03",
+        "language": "Korean",
+        "description": "\"CODE\" is the fourth mini album by EVERGLOW. It will be released on March 3, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Zombie",
+        "name": "Zombie",
+        "type": "SINGLE",
+        "release_date": "2024-06-10",
+        "language": "Korean",
+        "description": "\"Zombie\" is the fifth single album by EVERGLOW. It was released on June 10, 2024 with \"Zombie\" serving as the single's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2023-All-My-Girls",
+        "name": "All My Girls",
+        "type": "SINGLE",
+        "release_date": "2023-08-18",
+        "language": null,
+        "description": "\"ALL MY GIRLS\" is the fourth single album by EVERGLOW. It contains three songs, with \"Slay\" serving as the title track. It was released on August 18, 2023."
+    },
+    {
+        "album_slug": "/musicalbum/2022-ghost-light-nightcore",
+        "name": "Ghost Light (Nightcore)",
+        "type": "SINGLE",
+        "release_date": "2022-11-25",
+        "language": "English",
+        "description": "\"Ghost Light (Nightcore)\" is an English collaboration remix single by EVERGLOW and the German producer TheFatRat. It was released on November 25, 2022."
+    },
+    {
+        "album_slug": "/musicalbum/2022-Ghost-Light-with-TheFatRat",
+        "name": "Ghost Light (with TheFatRat)",
+        "type": "SINGLE",
+        "release_date": "2022-11-18",
+        "language": "English",
+        "description": "\"Ghost Light\" is a collaboration digital single by EVERGLOW and the German producer TheFatRat. It was released on November 18, 2022. This single marks the first as a five-member group; Yiren was not present for its recording due to her remaining on hiatus."
+    },
+    {
+        "album_slug": "/musicalbum/2022-Pirate-R3HAB-Remix",
+        "name": "Pirate (R3HAB Remix)",
+        "type": "SINGLE",
+        "release_date": "2022-04-15",
+        "language": null,
+        "description": "\"Pirate (R3HAB Remix)\" is the remix version of Everglow's song \"Pirate\" from their third mini album \"Return of The Girl.\""
+    },
+    {
+        "album_slug": "/musicalbum/2021-Return-of-the-Girl",
+        "name": "Return of the Girl",
+        "type": "MINI ALBUM",
+        "release_date": "2021-12-01",
+        "language": "Korean",
+        "description": "\"Return of the Girl\" is the third mini-album of Everglow. It contains five songs, with \"Pirate\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2021-Promise",
+        "name": "Promise",
+        "type": "SINGLE",
+        "release_date": "2021-08-25",
+        "language": null,
+        "description": "Everglow released the song \"Promise\" as part of the UNICEF PROMISE CAMPAIGN."
+    },
+    {
+        "album_slug": "/musicalbum/2021-Last-Melody",
+        "name": "Last Melody",
+        "type": "SINGLE",
+        "release_date": "2021-05-25",
+        "language": "Korean",
+        "description": "\"Last Melody\" is the third single album by EVERGLOW. It will be released on May 25, 2021 with \"First\" serving as the single's title track. The album comes in two versions: Last Melody and First Memoir."
+    },
+    {
+        "album_slug": "/musicalbum/2020-The-Spies-Who-Loved-Me-OST",
+        "name": "The Spies Who Loved Me OST",
+        "type": "OST",
+        "release_date": "2020-11-13",
+        "language": null,
+        "description": "Everglow released the song \"Let Me Dance\", a remake of the song by Lexy, as part of the original television soundtrack for the drama \"The Spies Who Loved Me.\""
+    },
+    {
+        "album_slug": "/musicalbum/2026-baby-flower-city-remixes",
+        "name": "<Baby Flower City Remixes>",
+        "type": "EP",
+        "release_date": "2026-06-08",
+        "language": "Korean",
+        "description": "\"Baby Flower City Remixes\" is a remix album by tripleS. It was released on June 8, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-baby-flower-japanese-version",
+        "name": "Baby Flower Japanese Version",
+        "type": "SINGLE",
+        "release_date": "2026-06-0318:00KST",
+        "language": "Japanese",
+        "description": "\"Baby Flower -Japanese Ver.-\" is the fourth Japanese digital single by tripleS. It was released on June 3, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-assemble26-lovepop-pt1",
+        "name": "<LOVE&POP> pt.1",
+        "type": "MINI ALBUM",
+        "release_date": "2026-06-0118:00KST",
+        "language": "Korean",
+        "description": "<LOVE&POP> Pt.1 is the first installment of ASSEMBLE26 <LOVE&POP>, the third full-group album by tripleS. It was released on June 1, 2026, with 'Baby Flower' serving as the title track. It will come out as the “LOVE” part of a three-part project, followed by Part 2 “&” and Part 3 “POP.”The album features all 24 members and marks the group’s full-unit (“ASSEMBLE”) comeback for 2026. As the “LOVE” side of the project, Part 1 emphasizes themes of growth, connection, and emotional development, aligning with tripleS’s overarching narrative about “small ‘s’” individuals discovering their potential and becoming “S.”Conceptually, <LOVE&POP> Pt.1 focuses on the group’s “lovable” image and serves as the opening chapter of a larger storyline that expands tripleS’s universe. The project was announced as part of a dual-concept comeback plan for 2026, with the contrasting “POP” side highlighting a different musical and stylistic direction in later releasesPart 2 (“&”) is a Japanese release scheduled to come out in October 20, 2026. It serves as the transitional chapter between the contrasting “LOVE” and “POP” concepts.Part 3 (“POP”), scheduled for release in January 2027, will conclude the ASSEMBLE26 <LOVE&POP> project."
+    },
+    {
+        "album_slug": "/musicalbum/2026-Tokimetique",
+        "name": "Tokimetique",
+        "type": "SINGLE",
+        "release_date": "2026-02-0512:00KST",
+        "language": "Japanese",
+        "description": "\"Tokimetique\" (トキメティック) is the first remix single by ∞!. It was released on February 5, 2026."
+    },
+    {
+        "album_slug": "/musicalbum/2026-4Study-4Work-4Inst-Vol3",
+        "name": "4study4work4inst Vol.3",
+        "type": "COMPILATION",
+        "release_date": "2026-02-02",
+        "language": null,
+        "description": "4study4work4inst Vol.3 is the third instrumental album by tripleS. It was released on February 2, 2026 with \"Are You Alive (Inst.)\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Beyond-Beauty",
+        "name": "msnz <Beyond Beauty>",
+        "type": "MINI ALBUM",
+        "release_date": "2025-11-24",
+        "language": "Korean",
+        "description": "msnz <Beyond Beauty> (also known simply as Beyond Beauty) is the debut mini album by msnz (Moon, Sun, Neptune, Zenith). It was released on November 24, 2025 with \"Christmas Alone\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2025-SecretHimitsuBimil",
+        "name": "tripleS ∞! <SecretHimitsuBimil>",
+        "type": "EP",
+        "release_date": "2025-10-01",
+        "language": "Japanese",
+        "description": "\"SecretHimitsuBimil\" is the first Japanese EP by ∞! (Hatchi!). It was released on October 1, 2025 with \"Password\" serving as the album's title track. \"Password\" was pre-released on September 17, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Password",
+        "name": "tripleS ∞! <Password>",
+        "type": "SINGLE",
+        "release_date": "2025-09-17",
+        "language": "Japanese",
+        "description": "\"<Password>\" is the first Japanese digital single by ∞!. It was released on September 17, 2025 as the pre-release for their first Japanese EP, <SecretHimitsuBimil>."
+    },
+    {
+        "album_slug": "/musicalbum/2025-PinkPower",
+        "name": "Pink Power",
+        "type": "SINGLE",
+        "release_date": "2025-07-17",
+        "language": "Korean",
+        "description": "\"Pink Power\" is a collaborative digital single by Zanmang Loopy and tripleS's SeoYeon, HyeRin, YuBin and ShiOn. It was released on July 17, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-ASSEMBLE25",
+        "name": "<ASSEMBLE25>",
+        "type": "STUDIO",
+        "release_date": "2025-05-12",
+        "language": "Korean",
+        "description": "<ASSEMBLE25> is the second full-length album by tripleS. It was released on May 12, 2025 with \"Are You Alive\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2026-bite-now",
+        "name": "BITE NOW",
+        "type": "MINI ALBUM",
+        "release_date": "2026-06-0118:00KST",
+        "language": "Korean",
+        "description": "''BITE NOW'' is the second mini album by MEOVV. It was released on June 1, 2026. The title track, \"DDI RO RI\" samples the dramatic intro of Johann Sebastian Bach’s \"Toccata and Fugue in D Minor\". All five members took a highly active roles in the creation of the project, sharing both songwriting and composition credits."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Burning-Up-Rush-Remix",
+        "name": "Burning Up (Rush Remix)",
+        "type": "SINGLE",
+        "release_date": "2025-11-07",
+        "language": null,
+        "description": "\"Burning Up (Rush Remix)\" is the first remix single by MEOVV. It was released on November 7, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Burning-Up",
+        "name": "Burning Up",
+        "type": "SINGLE",
+        "release_date": "2025-10-14",
+        "language": null,
+        "description": "\"Burning Up\" is the fourth Korean digital single by MEOVV. It was released on October 14, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-ME-ME-ME",
+        "name": "ME ME ME",
+        "type": "SINGLE",
+        "release_date": "2025-07-29",
+        "language": null,
+        "description": "\"Me Me Me\" is the first Japanese digital single by MEOVV. It was released on July 29, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2025-MY-EYES-OPEN-VVIDE",
+        "name": "MY EYES OPEN VVIDE",
+        "type": "MINI ALBUM",
+        "release_date": "2025-05-12",
+        "language": "Korean",
+        "description": "My Eyes Open VVide is the first EP by MEOVV. It was released on May 12, 2025 with \"Hands Up\" and \"Drop Top\" serving as the album's double title tracks.\"Hands Up\" was pre-released on April 28, 2025."
+    },
+    {
+        "album_slug": "/musicalbum/2024-TOXIC",
+        "name": "TOXIC",
+        "type": "SINGLE",
+        "release_date": "2024-11-18",
+        "language": null,
+        "description": "\"Toxic\" is the second digital single by MEOVV. It was released on November 18, 2024 with \"Toxic\" and \"Body\" serving as the single's double title tracks."
+    },
+    {
+        "album_slug": "/musicalbum/2024-MEOW",
+        "name": "MEOW",
+        "type": "SINGLE",
+        "release_date": "2024-09-06",
+        "language": null,
+        "description": "\"Meow\" is the debut digital single by MEOVV. It was released on September 6, 2024."
+    },
+    {
+        "album_slug": "/musicalbum/2025-Super-Junior25",
+        "name": "Super Junior25",
+        "type": "STUDIO",
+        "release_date": "2025-07-08",
+        "language": null,
+        "description": "Super Junior25 is the 12th full-length album by SUPER JUNIOR. It was released on July 12, 2025 with \"Express Mode\" serving as the album's title track."
+    },
+    {
+        "album_slug": "/musicalbum/2024-Show-Time",
+        "name": "Show Time",
+        "type": "SINGLE",
+        "release_date": "2024-06-11",
+        "language": null,
+        "description": "\"Show Time\" is a digital single by Super Junior, released in celebration of the group's 19th debut anniversary."
+    },
+    {
+        "album_slug": "/musicalbum/2022-The-Road-Celebration",
+        "name": "The Road : Celebration",
+        "type": "STUDIO",
+        "release_date": "2022-12-15",
+        "language": null,
+        "description": "\"The Road : Celebration\" is the second part of Super Junior's 11th full-length album. It contains five songs, with \"Celebrate\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2022-The-Road-Keep-On-Going",
+        "name": "The Road : Keep On Going",
+        "type": "STUDIO",
+        "release_date": "2022-07-12",
+        "language": null,
+        "description": "'The Road : Keep On Going' is the 11th studio album by Korean boy group SUPER JUNIOR under Label SJ, a subsidary of SM Entertainment. This marks them as the first artist to release 11 studio album's under the label."
+    },
+    {
+        "album_slug": "/musicalbum/2022-The-Road-Winter-for-Spring",
+        "name": "The Road : Winter for Spring",
+        "type": "SINGLE",
+        "release_date": "2022-02-28",
+        "language": null,
+        "description": "\"The Road : Winter for Spring\" is a special single album of Super Junior. It contains four tracks, with \"Callin'\" serving as the title track."
+    },
+    {
+        "album_slug": "/musicalbum/2021-The-Renaissance-The-10th-Album",
+        "name": "The Renaissance - The 10th Album",
+        "type": "STUDIO",
+        "release_date": "2021-03-16",
+        "language": null,
+        "description": "\"The Renaissance\" is the 10th full-album by Super Junior. It contains 10 songs, with \"House Party\" serving as the title track.The song \"The Melody\" was first released in November 2020 to celebrate their 15th anniversary."
+    },
+    {
+        "album_slug": "/musicalbum/2021-Star-2",
+        "name": "Star",
+        "type": "STUDIO",
+        "release_date": "2021-01-2700:00KST",
+        "language": "Japanese",
+        "description": "Star is the first Japanese best album by SUPER JUNIOR. It was released on January 27, 2021 with \"Star\" serving as the album's title track."
+    }
+]

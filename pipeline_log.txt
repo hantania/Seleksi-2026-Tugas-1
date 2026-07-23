@@ -1,0 +1,10 @@
+2026-07-23 17:10:03 - INFO - Memulai proses pipeline ETL batch: batch-2026-07-23_17-10-03
+2026-07-23 17:10:03 - INFO - Memulai proses Data Scraping
+2026-07-23 17:56:20 - INFO - Berhasil melakukan Data Scraping
+2026-07-23 17:56:20 - INFO - Memulai proses transformasi dan cleaning data
+2026-07-23 17:56:21 - INFO - Berhasil melakukan transformasi data
+2026-07-23 17:56:21 - INFO - Memulai proses storing data ke database OLTP (kpopdb)
+2026-07-23 17:56:28 - INFO - Berhasil melakukan storing data OLTP
+2026-07-23 17:56:28 - INFO - Memulai proses migrasi data ke Data Warehouse (kpopdw)
+2026-07-23 17:56:28 - INFO - Berhasil melakukan migrasi Data Warehouse
+2026-07-23 17:56:28 - INFO - Berhasil menjalankan seluruh pipeline ETL batch 'batch-2026-07-23_17-10-03'

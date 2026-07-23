@@ -55,5 +55,5 @@ def scrap_label(batch_name):
     save_json(sitemap_label, "sitemap_label.json", batch_name, "sitemap")
 
 if __name__ == "__main__":
-    batch_name = "batch-2026-07-20"
+    batch_name = f"batch-{datetime.now().strftime('%Y-%m-%d')}"
     scrap_label(batch_name)
