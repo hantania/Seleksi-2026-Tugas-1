@@ -414,8 +414,6 @@ Setelah mempertimbangkan efisiensi query analitik, digunakan struktur **Star Sch
 
 <img src="./Data Warehouse/design/KPOPDW_ERD.png" alt="KPOPDW ERD" width="100%">
 
-### 1b. Asumsi ERD Data Warehouse
-
 ### 2. Diagram Relasional Data Warehouse
 
 <img src="./Data Warehouse/design/KPOPDW_Relational.png" alt="KPOPDW Relational" width="100%">
